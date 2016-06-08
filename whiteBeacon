@@ -531,7 +531,7 @@ ConfigOverrideSupplyCrateItems=(
 			)
 		),
 		( 
-			; Furniture
+			; Saddle
 			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.7,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
 					EntryWeight=0.2,

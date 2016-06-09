@@ -6,7 +6,7 @@ ConfigOverrideSupplyCrateItems=(
 	ItemSets=(
 		( 
 			; Campsite
-			MinNumItems=2,MaxNumItems=4,NumItemsPower=1.0,SetWeight=0.69,bItemsRandomWithoutReplacement=false,ItemEntries=(
+			MinNumItems=2,MaxNumItems=4,NumItemsPower=1.0,SetWeight=0.69,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
 					EntryWeight=0.65,
 					ItemClassStrings=("PrimalItemResource_Campfire_C"),
@@ -107,7 +107,7 @@ ConfigOverrideSupplyCrateItems=(
 		),
 		(	
 			; Cloth Armor
-			MinNumItems=1,MaxNumItems=3,NumItemsPower=1.0,SetWeight=0.65,bItemsRandomWithoutReplacement=false,ItemEntries=(
+			MinNumItems=1,MaxNumItems=3,NumItemsPower=1.0,SetWeight=0.65,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
 					EntryWeight=0.50,
 					ItemClassStrings=("PrimalItemArmor_ClothPants_C"),
@@ -232,7 +232,7 @@ ConfigOverrideSupplyCrateItems=(
 		),
 		(	
 			; Weapons
-			MinNumItems=1,MaxNumItems=3,NumItemsPower=1.0,SetWeight=0.67,bItemsRandomWithoutReplacement=false,ItemEntries=(
+			MinNumItems=1,MaxNumItems=3,NumItemsPower=1.0,SetWeight=0.67,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
 					EntryWeight=0.23,
 					ItemClassStrings=("PrimalItem_WeaponStoneHatchet_C"),
@@ -357,7 +357,7 @@ ConfigOverrideSupplyCrateItems=(
 		),
 		( 
 			; Resources
-			MinNumItems=2,MaxNumItems=4,NumItemsPower=1.0,SetWeight=0.64,bItemsRandomWithoutReplacement=false,ItemEntries=(
+			MinNumItems=2,MaxNumItems=4,NumItemsPower=1.0,SetWeight=0.64,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
 					EntryWeight=0.60,
 					ItemClassStrings=("PrimalItemResource_Stone_C","PrimalItemResource_Wood_C"),
@@ -418,7 +418,7 @@ ConfigOverrideSupplyCrateItems=(
 		),
 		( 
 			; Medium Shanty Shack
-			MinNumItems=5,MaxNumItems=5,NumItemsPower=1.0,SetWeight=0.52,bItemsRandomWithoutReplacement=false,ItemEntries=(
+			MinNumItems=5,MaxNumItems=5,NumItemsPower=1.0,SetWeight=0.52,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
 					EntryWeight=1.0,
 					ItemClassStrings=("PrimalItemStructure_ThatchFloor_C"),
@@ -463,7 +463,7 @@ ConfigOverrideSupplyCrateItems=(
 		),
 		( 
 			; Furniture
-			MinNumItems=2,MaxNumItems=4,NumItemsPower=1.0,SetWeight=0.62,bItemsRandomWithoutReplacement=false,ItemEntries=(
+			MinNumItems=2,MaxNumItems=4,NumItemsPower=1.0,SetWeight=0.62,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
 					EntryWeight=0.4,
 					ItemClassStrings=("PrimalItemStructure_WoodSign_C"),

@@ -58,7 +58,7 @@ ConfigOverrideSupplyCrateItems=(
 					ItemsWeights=(1.0),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.0,MaxQuality=1.2,
-					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.12
+					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.05
 				),
 				(
 					EntryWeight=0.55,
@@ -66,7 +66,7 @@ ConfigOverrideSupplyCrateItems=(
 					ItemsWeights=(1.0),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.0,MaxQuality=1.2,
-					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.12
+					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.05
 				),
 				(
 					EntryWeight=0.60,
@@ -74,7 +74,7 @@ ConfigOverrideSupplyCrateItems=(
 					ItemsWeights=(1.0),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.0,MaxQuality=1.2,
-					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.12
+					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.05
 				),
 				(
 					EntryWeight=0.65,
@@ -82,15 +82,15 @@ ConfigOverrideSupplyCrateItems=(
 					ItemsWeights=(1.0),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.0,MaxQuality=1.2,
-					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.12
+					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.05
 				),
 				(
-					EntryWeight=0.70,
+					EntryWeight=0.66,
 					ItemClassStrings=("PrimalItemArmor_HideGloves_C"),
 					ItemsWeights=(1.0),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.0,MaxQuality=1.2,
-					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.12
+					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.05
 				),
 				(
 					EntryWeight=0.07,
@@ -228,7 +228,7 @@ ConfigOverrideSupplyCrateItems=(
 				(
 					EntryWeight=0.25,
 					ItemClassStrings=("PrimalItemConsumable_Soup_FriaCurry","PrimalItemConsumable_Soup_CalienSoup"),
-					ItemsWeights=(0.5),
+					ItemsWeights=(0.5,0.5),
 					MinQuantity=2.0,MaxQuantity=2.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
@@ -272,6 +272,14 @@ ConfigOverrideSupplyCrateItems=(
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=3.1,MaxQuality=3.6,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.21
+				),
+				(
+					EntryWeight=0.85,
+					ItemClassStrings=("PrimalItemConsumable_BugRepellant_C"),
+					ItemsWeights=(1.0),
+					MinQuantity=2.0,MaxQuantity=6.0,
+					MinQuality=1.0,MaxQuality=1.0,
+					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				)
 			)
 		),
@@ -281,7 +289,7 @@ ConfigOverrideSupplyCrateItems=(
 				(
 					EntryWeight=0.45,
 					ItemClassStrings=("PrimalItemResource_Stone_C","PrimalItemResource_Wood_C"),
-					ItemsWeights=(0.5),
+					ItemsWeights=(0.5,0.5),
 					MinQuantity=55.0,MaxQuantity=100.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
@@ -289,7 +297,7 @@ ConfigOverrideSupplyCrateItems=(
 				(
 					EntryWeight=0.55,
 					ItemClassStrings=("PrimalItemResource_Thatch_C","PrimalItemResource_AnglerGel_C"),
-					ItemsWeights=(0.5),
+					ItemsWeights=(0.5,0.5),
 					MinQuantity=60.0,MaxQuantity=130.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
@@ -297,7 +305,7 @@ ConfigOverrideSupplyCrateItems=(
 				(
 					EntryWeight=0.55,
 					ItemClassStrings=("PrimalItemResource_Flint_C","PrimalItemResource_Fibers_C"),
-					ItemsWeights=(0.5),
+					ItemsWeights=(0.5,0.5),
 					MinQuantity=60.0,MaxQuantity=90.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
@@ -305,7 +313,7 @@ ConfigOverrideSupplyCrateItems=(
 				(
 					EntryWeight=0.50,
 					ItemClassStrings=("PrimalItemConsumable_Narcotic_C","PrimalItemConsumable_Stimulant"),
-					ItemsWeights=(0.5),
+					ItemsWeights=(0.5,0.5),
 					MinQuantity=20.0,MaxQuantity=40.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
@@ -329,7 +337,7 @@ ConfigOverrideSupplyCrateItems=(
 				(
 					EntryWeight=0.25,
 					ItemClassStrings=("PrimalItemResource_Crystal_C","PrimalItemResource_MetalIngot_C"),
-					ItemsWeights=(0.5),
+					ItemsWeights=(0.5,0.5),
 					MinQuantity=20.0,MaxQuantity=42.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
@@ -366,18 +374,18 @@ ConfigOverrideSupplyCrateItems=(
 				(
 					EntryWeight=0.08,
 					ItemClassStrings=("PrimalItemStructure_StonePipeIntake_C","PrimalItemStructure_StonePipeStraight_C","PrimalItemStructure_StonePipeIncline_C","PrimalItemStructure_StonePipeIntersection_C","PrimalItemStructure_StonePipeVertical_C","PrimalItemStructure_StonePipeTap_C"),
-					ItemsWeights=(0.5),
-					MinQuantity=5.0,MaxQuantity=5.0,
+					ItemsWeights=(0.4,0.55,0.5,0.52,0.5,0.5),
+					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=true,ChanceToBeBlueprintOverride=0.0
 				),
 				(
 					EntryWeight=0.45,
 					ItemClassStrings=("PrimalItemStructure_StonePipeIntake_C","PrimalItemStructure_StonePipeStraight_C","PrimalItemStructure_StonePipeIncline_C","PrimalItemStructure_StonePipeIntersection_C","PrimalItemStructure_StonePipeVertical_C","PrimalItemStructure_StonePipeTap_C"),
-					ItemsWeights=(0.4),
+					ItemsWeights=(0.4,0.55,0.45,0.52,0.5,0.5),
 					MinQuantity=5.0,MaxQuantity=10.0,
 					MinQuality=1.0,MaxQuality=1.0,
-					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.05
+					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				),
 				(
 					EntryWeight=0.2,
@@ -388,7 +396,7 @@ ConfigOverrideSupplyCrateItems=(
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				),
 				(
-					EntryWeight=0.7,
+					EntryWeight=0.65,
 					ItemClassStrings=("PrimalItemConsumable_Fertilizer_Compost_C"),
 					ItemsWeights=(1.0),
 					MinQuantity=3.0,MaxQuantity=8.0,
@@ -467,8 +475,8 @@ ConfigOverrideSupplyCrateItems=(
 					(
 					EntryWeight=0.9,
 					ItemClassStrings=("PrimalEarthDye_Red_C","PrimalEarthDye_Green_C","PrimalEarthDye_Blue_C","PrimalEarthDye_Yellow_C","PrimalEarthDye_Purple_C","PrimalEarthDye_Orange_C","PrimalEarthDye_Black_C","PrimalEarthDye_White_C","PrimalEarthDye_Brown_C","PrimalEarthDye_Cyan_C","PrimalEarthDye_Purple_C","PrimalEarthDye_Forest_C","PrimalEarthDye_Parchment_C","PrimalEarthDye_Pink_C","PrimalEarthDye_Royalty_C","PrimalEarthDye_Silver_C","PrimalEarthDye_Sky_C","PrimalEarthDye_Tan_C","PrimalEarthDye_Tangerine_C"),
-					ItemsWeights=(1.0),
-					MinQuantity=1.0,MaxQuantity=2.0,
+					ItemsWeights=(0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5),
+					MinQuantity=2.0,MaxQuantity=4.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				)
@@ -552,7 +560,7 @@ ConfigOverrideSupplyCrateItems=(
 				(
 					EntryWeight=0.9,
 					ItemClassStrings=("PrimalItemResource_Hide_C","PrimalItemResource_Chitin_C","PrimalItemResource_Fibers_C"),
-					ItemsWeights=(0.5),
+					ItemsWeights=(0.33,0.33,0.33),
 					MinQuantity=75.0,MaxQuantity=150.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0

@@ -8,7 +8,7 @@ ConfigOverrideSupplyCrateItems=(
 			; Campsite
 			MinNumItems=2,MaxNumItems=4,NumItemsPower=1.0,SetWeight=0.69,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
-					EntryWeight=0.65,
+					EntryWeight=0.55,
 					ItemClassStrings=("PrimalItemResource_Campfire_C"),
 					ItemsWeights=(1.0),
 					MinQuantity=1.0,MaxQuantity=2.0,
@@ -16,7 +16,7 @@ ConfigOverrideSupplyCrateItems=(
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				),
 				(
-					EntryWeight=0.65,
+					EntryWeight=0.55,
 					ItemClassStrings=("PrimalItemResource_Sparkpowder_C"),
 					ItemsWeights=(1.0),
 					MinQuantity=15.0,MaxQuantity=30.0,
@@ -40,7 +40,7 @@ ConfigOverrideSupplyCrateItems=(
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.05
 				),
 				(
-					EntryWeight=0.55,
+					EntryWeight=0.45,
 					ItemClassStrings=("PrimalItemConsumable_RawMeat_C"),
 					ItemsWeights=(1.0),
 					MinQuantity=20.0,MaxQuantity=20.0,
@@ -58,7 +58,7 @@ ConfigOverrideSupplyCrateItems=(
 				(
 					EntryWeight=0.45,
 					ItemClassStrings=("PrimalItemConsumable_CookedMeat_Jerky_C","PrimalItemConsumable_CookedMeat_C"),
-					ItemsWeights=(0.5),
+					ItemsWeights=(0.5,0.5),
 					MinQuantity=3.0,MaxQuantity=12.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
@@ -88,7 +88,7 @@ ConfigOverrideSupplyCrateItems=(
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				),
 				(
-					EntryWeight=0.6,
+					EntryWeight=0.55,
 					ItemClassStrings=("PrimalItemStructure_CropPlot_Medium_C"),
 					ItemsWeights=(1.0),
 					MinQuantity=1.0,MaxQuantity=2.0,
@@ -99,7 +99,7 @@ ConfigOverrideSupplyCrateItems=(
 					EntryWeight=0.35,
 					ItemClassStrings=("PrimalItemConsumable_Fertilizer_Compost_C"),
 					ItemsWeights=(1.0),
-					MinQuantity=1.0,MaxQuantity=5.0,
+					MinQuantity=1.0,MaxQuantity=3.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				)
@@ -320,6 +320,14 @@ ConfigOverrideSupplyCrateItems=(
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=2.6,MaxQuality=5.6,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.21
+				),
+				(
+					EntryWeight=0.85,
+					ItemClassStrings=("PrimalItemConsumable_BugRepellant_C"),
+					ItemsWeights=(1.0),
+					MinQuantity=1.0,MaxQuantity=5.0,
+					MinQuality=1.0,MaxQuality=1.0,
+					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				)
 			)
 		),
@@ -329,7 +337,7 @@ ConfigOverrideSupplyCrateItems=(
 				(
 					EntryWeight=0.60,
 					ItemClassStrings=("PrimalItemResource_Stone_C","PrimalItemResource_Wood_C"),
-					ItemsWeights=(0.5),
+					ItemsWeights=(0.5,0.5),
 					MinQuantity=40.0,MaxQuantity=70.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
@@ -377,7 +385,7 @@ ConfigOverrideSupplyCrateItems=(
 				(
 					EntryWeight=0.23,
 					ItemClassStrings=("PrimalItemResource_Crystal_C","PrimalItemResource_Metal_C"),
-					ItemsWeights=(0.5),
+					ItemsWeights=(0.5,0.5),
 					MinQuantity=18.0,MaxQuantity=29.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
@@ -482,8 +490,8 @@ ConfigOverrideSupplyCrateItems=(
 				),
 				(
 					EntryWeight=0.31,
-					ItemClassStrings=("PrimalItemResource_Oil_C""PrimalItemResource_Silicon_C"),
-					ItemsWeights=(0.5),
+					ItemClassStrings=("PrimalItemResource_Oil_C","PrimalItemResource_Silicon_C"),
+					ItemsWeights=(0.5,0.5),
 					MinQuantity=23.0,MaxQuantity=39.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0

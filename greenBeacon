@@ -349,6 +349,14 @@ ConfigOverrideSupplyCrateItems=(
 					MinQuantity=15.0,MaxQuantity=30.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
+				),
+				(
+					EntryWeight=0.20,
+					ItemClassStrings=("PrimalItemConsumable_Kibble_TurtleEgg_C","PrimalItemConsumable_Kibble_TrikeEgg_C","PrimalItemConsumable_Kibble_RaptorEgg_C"),
+					ItemsWeights=(0.33,0.33,0.33),
+					MinQuantity=1.0,MaxQuantity=2.0,
+					MinQuality=1.0,MaxQuality=1.0,
+					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				)
 			)
 		),

@@ -298,7 +298,7 @@ ConfigOverrideSupplyCrateItems=(
 					EntryWeight=0.55,
 					ItemClassStrings=("PrimalItemResource_Thatch_C","PrimalItemResource_AnglerGel_C"),
 					ItemsWeights=(0.5,0.5),
-					MinQuantity=60.0,MaxQuantity=130.0,
+					MinQuantity=25.0,MaxQuantity=64.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				),
@@ -322,7 +322,7 @@ ConfigOverrideSupplyCrateItems=(
 					EntryWeight=0.25,
 					ItemClassStrings=("PrimalItemResource_Hide_C"),
 					ItemsWeights=(1.0),
-					MinQuantity=125.0,MaxQuantity=200.0,
+					MinQuantity=75.0,MaxQuantity=125.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				),
@@ -330,7 +330,7 @@ ConfigOverrideSupplyCrateItems=(
 					EntryWeight=0.30,
 					ItemClassStrings=("PrimalItemResource_ChitinPaste_C"),
 					ItemsWeights=(1.0),
-					MinQuantity=45.0,MaxQuantity=70.0,
+					MinQuantity=25.0,MaxQuantity=55.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				),
@@ -338,7 +338,7 @@ ConfigOverrideSupplyCrateItems=(
 					EntryWeight=0.25,
 					ItemClassStrings=("PrimalItemResource_Crystal_C","PrimalItemResource_MetalIngot_C"),
 					ItemsWeights=(0.5,0.5),
-					MinQuantity=20.0,MaxQuantity=42.0,
+					MinQuantity=19.0,MaxQuantity=35.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				),
@@ -346,12 +346,12 @@ ConfigOverrideSupplyCrateItems=(
 					EntryWeight=0.25,
 					ItemClassStrings=("PrimalItemResource_Polymer_C"),
 					ItemsWeights=(1.0),
-					MinQuantity=15.0,MaxQuantity=30.0,
+					MinQuantity=20.0,MaxQuantity=39.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				),
 				(
-					EntryWeight=0.20,
+					EntryWeight=0.29,
 					ItemClassStrings=("PrimalItemConsumable_Kibble_TurtleEgg_C","PrimalItemConsumable_Kibble_TrikeEgg_C","PrimalItemConsumable_Kibble_RaptorEgg_C"),
 					ItemsWeights=(0.33,0.33,0.33),
 					MinQuantity=1.0,MaxQuantity=2.0,
@@ -399,7 +399,7 @@ ConfigOverrideSupplyCrateItems=(
 					EntryWeight=0.2,
 					ItemClassStrings=("PrimalItemConsumable_Seed_DefensePlant_C"),
 					ItemsWeights=(1.0),
-					MinQuantity=4.0,MaxQuantity=5.0,
+					MinQuantity=3.0,MaxQuantity=6.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				),
@@ -558,7 +558,7 @@ ConfigOverrideSupplyCrateItems=(
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.2
 				),
 				(
-					EntryWeight=0.1,
+					EntryWeight=0.12,
 					ItemClassStrings=("PrimalItemConsumable_TheHorn_C"),
 					ItemsWeights=(1.0),
 					MinQuantity=1.0,MaxQuantity=1.0,

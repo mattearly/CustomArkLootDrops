@@ -64,26 +64,10 @@ ConfigOverrideSupplyCrateItems=(
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				),
 				(
-					EntryWeight=0.30,
-					ItemClassStrings=("PrimalItemConsumable_Egg_Dodo_C"),
-					ItemsWeights=(1.0),
-					MinQuantity=1.0,MaxQuantity=3.0,
-					MinQuality=1.0,MaxQuality=1.0,
-					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
-				),
-				(
-					EntryWeight=0.33,
-					ItemClassStrings=("PrimalItemConsumable_Egg_Dilo_C"),
-					ItemsWeights=(1.0),
-					MinQuantity=1.0,MaxQuantity=3.0,
-					MinQuality=1.0,MaxQuality=1.0,
-					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
-				),
-				(
 					EntryWeight=0.34,
-					ItemClassStrings=("PrimalItemConsumable_Egg_Para_C"),
-					ItemsWeights=(1.0),
-					MinQuantity=1.0,MaxQuantity=2.0,
+					ItemClassStrings=("PrimalItemConsumable_Egg_Para_C","PrimalItemConsumable_Egg_Dilo_C","PrimalItemConsumable_Egg_Dodo_C"),
+					ItemsWeights=(0.33,0.34,0.33),
+					MinQuantity=1.0,MaxQuantity=5.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				),
@@ -387,6 +371,14 @@ ConfigOverrideSupplyCrateItems=(
 					ItemClassStrings=("PrimalItemResource_Crystal_C","PrimalItemResource_Metal_C"),
 					ItemsWeights=(0.5,0.5),
 					MinQuantity=11.0,MaxQuantity=21.0,
+					MinQuality=1.0,MaxQuality=1.0,
+					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
+				),
+				(
+					EntryWeight=0.29,
+					ItemClassStrings=("PrimalItemResource_Pelt_C"),
+					ItemsWeights=(1.0),
+					MinQuantity=12.0,MaxQuantity=35.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				)

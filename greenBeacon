@@ -535,6 +535,14 @@ ConfigOverrideSupplyCrateItems=(
 				),
 				(
 					EntryWeight=0.23,
+					ItemClassStrings=("PrimalItemArmor_DolphinSaddle_C"),
+					ItemsWeights=(1.0),
+					MinQuantity=1.0,MaxQuantity=1.0,
+					MinQuality=1.0,MaxQuality=1.2,
+					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.1
+				),
+				(
+					EntryWeight=0.23,
 					ItemClassStrings=("PrimalItemArmor_TurtleSaddle_C"),
 					ItemsWeights=(1.0),
 					MinQuantity=1.0,MaxQuantity=1.0,
@@ -566,7 +574,15 @@ ConfigOverrideSupplyCrateItems=(
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.2
 				),
 				(
-					EntryWeight=0.05,
+					EntryWeight=0.06,
+					ItemClassStrings=("PrimalItemArmor_DolphinSaddle_C"),
+					ItemsWeights=(1.0),
+					MinQuantity=1.0,MaxQuantity=1.0,
+					MinQuality=2.0,MaxQuality=2.5,
+					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.1
+				),
+				(
+					EntryWeight=0.06,
 					ItemClassStrings=("PrimalItemArmor_TurtleSaddle_C"),
 					ItemsWeights=(1.0),
 					MinQuantity=1.0,MaxQuantity=1.0,
@@ -574,10 +590,10 @@ ConfigOverrideSupplyCrateItems=(
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.2
 				),
 				(
-					EntryWeight=0.12,
+					EntryWeight=0.14,
 					ItemClassStrings=("PrimalItemConsumable_TheHorn_C"),
 					ItemsWeights=(1.0),
-					MinQuantity=1.0,MaxQuantity=1.0,
+					MinQuantity=1.0,MaxQuantity=2.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				),

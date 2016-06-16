@@ -227,25 +227,17 @@ ConfigOverrideSupplyCrateItems=(
 				),
 				(
 					EntryWeight=0.25,
-					ItemClassStrings=("PrimalItemConsumable_Soup_FriaCurry","PrimalItemConsumable_Soup_CalienSoup"),
+					ItemClassStrings=("PrimalItemConsumable_Soup_FriaCurry_C","PrimalItemConsumable_Soup_CalienSoup_C"),
 					ItemsWeights=(0.5,0.5),
 					MinQuantity=2.0,MaxQuantity=2.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				),
 				(
-					EntryWeight=0.14,
-					ItemClassStrings=("PrimalItemConsumable_Soup_LazarusChowder"),
-					ItemsWeights=(1.0),
-					MinQuantity=1.0,MaxQuantity=1.0,
-					MinQuality=1.0,MaxQuality=1.0,
-					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
-				),
-				(
-					EntryWeight=0.15,
-					ItemClassStrings=("PrimalItemConsumable_Soup_EnduroStew"),
-					ItemsWeights=(1.0),
-					MinQuantity=1.0,MaxQuantity=1.0,
+					EntryWeight=0.19,
+					ItemClassStrings=("PrimalItemConsumable_Soup_LazarusChowder_C", "PrimalItemConsumable_Soup_EnduroStew_C"),
+					ItemsWeights=(0.5,0.5),
+					MinQuantity=1.0,MaxQuantity=4.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				),

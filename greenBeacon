@@ -199,7 +199,7 @@ ConfigOverrideSupplyCrateItems=(
 					ItemsWeights=(1.0),
 					MinQuantity=10.0,MaxQuantity=24.0,
 					MinQuality=1.0,MaxQuality=1.0,
-					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.05
+					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.01
 				),
 				(
 					EntryWeight=0.26,

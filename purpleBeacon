@@ -61,6 +61,14 @@ ConfigOverrideSupplyCrateItems=(
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				),
 				(
+					EntryWeight=0.38,
+					ItemClassStrings=("PrimalItemAmmo_TranqDart_C"),
+					ItemsWeights=(1.0),
+					MinQuantity=15.0,MaxQuantity=25.0,
+					MinQuality=1.0,MaxQuality=1.0,
+					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
+				),
+				(
 					EntryWeight=0.52,
 					ItemClassStrings=("PrimalItemAmmo_SimpleShotgunBullet_C"),
 					ItemsWeights=(1.0),
@@ -77,10 +85,10 @@ ConfigOverrideSupplyCrateItems=(
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				),
 				(
-					EntryWeight=0.35,
-					ItemClassStrings=("PrimalItemAmmo_ArrowStone_C"),
+					EntryWeight=0.36,
+					ItemClassStrings=("PrimalItemAmmo_ArrowStone_C","PrimalItemAmmo_ArrowTranq_C"),
 					ItemsWeights=(1.0),
-					MinQuantity=35.0,MaxQuantity=55.0,
+					MinQuantity=25.0,MaxQuantity=45.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				),

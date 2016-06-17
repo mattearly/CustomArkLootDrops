@@ -312,8 +312,8 @@ ConfigOverrideSupplyCrateItems=(
 				),
 				(
 					EntryWeight=0.29,
-					ItemClassStrings=("PrimalItemConsumable_Egg_Stego_C","PrimalItemConsumable_Egg_Ankylo_C","PrimalItemConsumable_Egg_Boa_C", "PrimalItemConsumable_Egg_Scorpion", "PrimalItemConsumable_Egg_Spider_C"),
-					ItemsWeights=(0.33,0.33,0.34,0.33),
+					ItemClassStrings=("PrimalItemConsumable_Egg_Stego_C","PrimalItemConsumable_Egg_Ankylo_C","PrimalItemConsumable_Egg_Boa_C", "PrimalItemConsumable_Egg_Scorpion_C", "PrimalItemConsumable_Egg_Spider_C"),
+					ItemsWeights=(0.33,0.33,0.34,0.33,0.34),
 					MinQuantity=1.0,MaxQuantity=6.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0

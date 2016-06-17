@@ -62,6 +62,8 @@ green crate : 1-2 set : sdouble crates - upped quantity and quality
 
 	64% chance of resources
 		29% chance of 1-4 egg mix (turtle trike raptor)
+	saddles
+		raptor trike ptero dolphin turtle
 
 blue crate : 1-2 sets : double crates - upped quantity and quality
  
@@ -71,15 +73,25 @@ blue crate : 1-2 sets : double crates - upped quantity and quality
  	x% chance of saddle
  		scorp stego toad ankylo doed
 
- purple create : 1-2 sets : double crates - upped quantity and quality
+ purple crate : 1-2 sets : double crates - upped quantity and quality
 
  	65% chance of ammo/eggs
  		35% chance of egg mix
  			sarco galli bronto carno pachy dimorph oviraptor terrorbird diplo
  	55% chance of saddles
- 			carno sarco mammoth galli terrorbird protocopt rhino
+ 		carno sarco mammoth galli terrorbird protocopt rhino
 
+yellow crate : 1-2 sets : double crates - upped quantity and quality
 
+	65% chance of ammo/eggs
+		39% chance of eggs
+			argent kairuku Bronto Carno Oviraptor Terrorbird Diplo Boa
+	55% chance of saddle
+		megalodon diplo arthro manta direbear dunkleo beaver saber
+
+red crate : 1-2 sets : double crates - upped quantity and quality (not done yet)
+			eggs : rex spino quetz
+			saddles : argent rex direbear
 
 todo:  
 	add lystro eggs to white/fix white egg drops

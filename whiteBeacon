@@ -66,7 +66,7 @@ ConfigOverrideSupplyCrateItems=(
 				(
 					EntryWeight=0.34,
 					ItemClassStrings=("PrimalItemConsumable_Egg_Para_C","PrimalItemConsumable_Egg_Dilo_C","PrimalItemConsumable_Egg_Dodo_C"),
-					ItemsWeights=(0.33,0.34,0.33),
+					ItemsWeights=(1.0,1.0,1.0),
 					MinQuantity=1.0,MaxQuantity=5.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
@@ -77,7 +77,7 @@ ConfigOverrideSupplyCrateItems=(
 					ItemsWeights=(1.0),
 					MinQuantity=1.0,MaxQuantity=2.0,
 					MinQuality=1.0,MaxQuality=1.0,
-					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.05
+					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.25
 				),
 				(
 					EntryWeight=0.35,
@@ -91,69 +91,69 @@ ConfigOverrideSupplyCrateItems=(
 		),
 		(	
 			; Cloth Armor
-			MinNumItems=1,MaxNumItems=3,NumItemsPower=1.0,SetWeight=0.65,bItemsRandomWithoutReplacement=true,ItemEntries=(
+			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.65,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
-					EntryWeight=0.50,
+					EntryWeight=0.35,
 					ItemClassStrings=("PrimalItemArmor_ClothPants_C"),
 					ItemsWeights=(1.0),
 					MinQuantity=1.0,MaxQuantity=1.0,
-					MinQuality=1.0,MaxQuality=1.2,
+					MinQuality=1.0,MaxQuality=1.3,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.10
 				),
 				(
-					EntryWeight=0.55,
+					EntryWeight=0.35,
 					ItemClassStrings=("PrimalItemArmor_ClothShirt_C"),
 					ItemsWeights=(1.0),
 					MinQuantity=1.0,MaxQuantity=1.0,
-					MinQuality=1.0,MaxQuality=1.2,
+					MinQuality=1.0,MaxQuality=1.3,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.10
 				),
 				(
-					EntryWeight=0.60,
+					EntryWeight=0.35,
 					ItemClassStrings=("PrimalItemArmor_ClothHelmet_C"),
 					ItemsWeights=(1.0),
 					MinQuantity=1.0,MaxQuantity=1.0,
-					MinQuality=1.0,MaxQuality=1.2,
+					MinQuality=1.0,MaxQuality=1.3,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.10
 				),
 				(
-					EntryWeight=0.65,
+					EntryWeight=0.35,
 					ItemClassStrings=("PrimalItemArmor_ClothBoots_C"),
 					ItemsWeights=(1.0),
 					MinQuantity=1.0,MaxQuantity=1.0,
-					MinQuality=1.0,MaxQuality=1.2,
+					MinQuality=1.0,MaxQuality=1.3,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.10
 				),
 				(
-					EntryWeight=0.66,
+					EntryWeight=0.35,
 					ItemClassStrings=("PrimalItemArmor_ClothGloves_C"),
 					ItemsWeights=(1.0),
 					MinQuantity=1.0,MaxQuantity=1.0,
-					MinQuality=1.0,MaxQuality=1.2,
+					MinQuality=1.0,MaxQuality=1.3,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.10
 				),
 				(
-					EntryWeight=0.07,
+					EntryWeight=0.1,
 					ItemClassStrings=("PrimalItemArmor_ClothPants_C"),
 					ItemsWeights=(1.0),
 					MinQuantity=1.0,MaxQuantity=1.0,
-					MinQuality=1.2,MaxQuality=2.0,
+					MinQuality=1.4,MaxQuality=2.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.12
 				),
 				(
-					EntryWeight=0.08,
+					EntryWeight=0.1,
 					ItemClassStrings=("PrimalItemArmor_ClothShirt_C"),
 					ItemsWeights=(1.0),
 					MinQuantity=1.0,MaxQuantity=1.0,
-					MinQuality=1.2,MaxQuality=2.0,
+					MinQuality=1.4,MaxQuality=2.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.12
 				),
 				(
-					EntryWeight=0.09,
+					EntryWeight=0.1,
 					ItemClassStrings=("PrimalItemArmor_ClothHelmet_C"),
 					ItemsWeights=(1.0),
 					MinQuantity=1.0,MaxQuantity=1.0,
-					MinQuality=1.2,MaxQuality=2.0,
+					MinQuality=1.4,MaxQuality=2.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.12
 				),
 				(
@@ -161,19 +161,19 @@ ConfigOverrideSupplyCrateItems=(
 					ItemClassStrings=("PrimalItemArmor_ClothBoots_C"),
 					ItemsWeights=(1.0),
 					MinQuantity=1.0,MaxQuantity=1.0,
-					MinQuality=1.2,MaxQuality=2.0,
+					MinQuality=1.4,MaxQuality=2.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.12
 				),
 				(
-					EntryWeight=0.11,
+					EntryWeight=0.1,
 					ItemClassStrings=("PrimalItemArmor_ClothGloves_C"),
 					ItemsWeights=(1.0),
 					MinQuantity=1.0,MaxQuantity=1.0,
-					MinQuality=1.2,MaxQuality=2.0,
+					MinQuality=1.4,MaxQuality=2.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.12
 				),
 				(
-					EntryWeight=0.07,
+					EntryWeight=0.05,
 					ItemClassStrings=("PrimalItemArmor_ClothPants_C"),
 					ItemsWeights=(1.0),
 					MinQuantity=1.0,MaxQuantity=1.0,
@@ -181,7 +181,7 @@ ConfigOverrideSupplyCrateItems=(
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.12
 				),
 				(
-					EntryWeight=0.08,
+					EntryWeight=0.05,
 					ItemClassStrings=("PrimalItemArmor_ClothShirt_C"),
 					ItemsWeights=(1.0),
 					MinQuantity=1.0,MaxQuantity=1.0,
@@ -189,7 +189,7 @@ ConfigOverrideSupplyCrateItems=(
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.12
 				),
 				(
-					EntryWeight=0.09,
+					EntryWeight=0.05,
 					ItemClassStrings=("PrimalItemArmor_ClothHelmet_C"),
 					ItemsWeights=(1.0),
 					MinQuantity=1.0,MaxQuantity=1.0,
@@ -197,7 +197,7 @@ ConfigOverrideSupplyCrateItems=(
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.12
 				),
 				(
-					EntryWeight=0.1,
+					EntryWeight=0.05,
 					ItemClassStrings=("PrimalItemArmor_ClothBoots_C"),
 					ItemsWeights=(1.0),
 					MinQuantity=1.0,MaxQuantity=1.0,
@@ -205,7 +205,7 @@ ConfigOverrideSupplyCrateItems=(
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.12
 				),
 				(
-					EntryWeight=0.11,
+					EntryWeight=0.05,
 					ItemClassStrings=("PrimalItemArmor_ClothGloves_C"),
 					ItemsWeights=(1.0),
 					MinQuantity=1.0,MaxQuantity=1.0,
@@ -215,8 +215,8 @@ ConfigOverrideSupplyCrateItems=(
 			)
 		),
 		(	
-			; Weapons
-			MinNumItems=1,MaxNumItems=3,NumItemsPower=1.0,SetWeight=0.67,bItemsRandomWithoutReplacement=true,ItemEntries=(
+			; Weapons and tools
+			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.67,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
 					EntryWeight=0.23,
 					ItemClassStrings=("PrimalItem_WeaponStoneHatchet_C"),
@@ -242,7 +242,7 @@ ConfigOverrideSupplyCrateItems=(
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.05
 				),
 				(
-					EntryWeight=0.24,
+					EntryWeight=0.1,
 					ItemClassStrings=("PrimalItem_WeaponSpear_C"),
 					ItemsWeights=(1.0),
 					MinQuantity=1.0,MaxQuantity=1.0,
@@ -306,10 +306,10 @@ ConfigOverrideSupplyCrateItems=(
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.21
 				),
 				(
-					EntryWeight=0.65,
+					EntryWeight=0.2,
 					ItemClassStrings=("PrimalItemConsumable_BugRepellant_C"),
 					ItemsWeights=(1.0),
-					MinQuantity=1.0,MaxQuantity=5.0,
+					MinQuantity=1.0,MaxQuantity=3.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				)
@@ -351,17 +351,9 @@ ConfigOverrideSupplyCrateItems=(
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				),
 				(
-					EntryWeight=0.3,
-					ItemClassStrings=("PrimalItemResource_Hide_C"),
-					ItemsWeights=(1.0),
-					MinQuantity=25.0,MaxQuantity=75.0,
-					MinQuality=1.0,MaxQuality=1.0,
-					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
-				),
-				(
 					EntryWeight=0.38,
-					ItemClassStrings=("PrimalItemResource_Chitin_C"),
-					ItemsWeights=(1.0),
+					ItemClassStrings=("PrimalItemResource_Chitin_C",""PrimalItemResource_Hide_C""),
+					ItemsWeights=(0.4,0.3),
 					MinQuantity=50.0,MaxQuantity=75.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
@@ -379,6 +371,38 @@ ConfigOverrideSupplyCrateItems=(
 					ItemClassStrings=("PrimalItemResource_Pelt_C"),
 					ItemsWeights=(1.0),
 					MinQuantity=12.0,MaxQuantity=35.0,
+					MinQuality=1.0,MaxQuality=1.0,
+					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
+				),
+				(
+					EntryWeight=0.2,
+					ItemClassStrings=("PrimalItemResource_AnglerGel_C"),
+					ItemsWeights=(1.0),
+					MinQuantity=8.0,MaxQuantity=32.0,
+					MinQuality=1.0,MaxQuality=1.0,
+					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
+				),
+				(
+					EntryWeight=0.4,
+					ItemClassStrings=("PrimalItemResource_Sparkpowder_C"),
+					ItemsWeights=(1.0),
+					MinQuantity=25.0,MaxQuantity=65.0,
+					MinQuality=1.0,MaxQuality=1.0,
+					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
+				),
+				(
+					EntryWeight=0.31,
+					ItemClassStrings=("PrimalItemResource_Oil_C","PrimalItemResource_Silicon_C"),
+					ItemsWeights=(0.5,0.5),
+					MinQuantity=18.0,MaxQuantity=32.0,
+					MinQuality=1.0,MaxQuality=1.0,
+					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
+				),
+				(
+					EntryWeight=0.2,
+					ItemClassStrings=("PrimalItemResource_Polymer_C","PrimalItemResource_ChitinPaste_C"),
+					ItemsWeights=(1.0),
+					MinQuantity=15.0,MaxQuantity=30.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				)
@@ -431,7 +455,7 @@ ConfigOverrideSupplyCrateItems=(
 		),
 		( 
 			; Furniture
-			MinNumItems=2,MaxNumItems=4,NumItemsPower=1.0,SetWeight=0.62,bItemsRandomWithoutReplacement=true,ItemEntries=(
+			MinNumItems=1,MaxNumItems=2,NumItemsPower=1.0,SetWeight=0.62,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
 					EntryWeight=0.4,
 					ItemClassStrings=("PrimalItemStructure_WoodSign_C"),
@@ -463,73 +487,49 @@ ConfigOverrideSupplyCrateItems=(
 					MinQuantity=1.0,MaxQuantity=2.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.05
-				),
-				(
-					EntryWeight=0.2,
-					ItemClassStrings=("PrimalItemResource_AnglerGel_C"),
-					ItemsWeights=(1.0),
-					MinQuantity=8.0,MaxQuantity=32.0,
-					MinQuality=1.0,MaxQuality=1.0,
-					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
-				),
-				(
-					EntryWeight=0.65,
-					ItemClassStrings=("PrimalItemResource_Sparkpowder_C"),
-					ItemsWeights=(1.0),
-					MinQuantity=25.0,MaxQuantity=65.0,
-					MinQuality=1.0,MaxQuality=1.0,
-					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
-				),
-				(
-					EntryWeight=0.31,
-					ItemClassStrings=("PrimalItemResource_Oil_C","PrimalItemResource_Silicon_C"),
-					ItemsWeights=(0.5,0.5),
-					MinQuantity=18.0,MaxQuantity=32.0,
-					MinQuality=1.0,MaxQuality=1.0,
-					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
-				),
-				(
-					EntryWeight=0.2,
-					ItemClassStrings=("PrimalItemResource_Polymer_C"),
-					ItemsWeights=(1.0),
-					MinQuantity=15.0,MaxQuantity=30.0,
-					MinQuality=1.0,MaxQuality=1.0,
-					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				)
 			)
 		),
 		( 
 			; Saddle
-			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.65,bItemsRandomWithoutReplacement=true,ItemEntries=(
+			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.50,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
-					EntryWeight=0.2,
+					EntryWeight=0.31,
 					ItemClassStrings=("PrimalItemArmor_PhiomiaSaddle_C"),
 					ItemsWeights=(1.0),
 					MinQuantity=1.0,MaxQuantity=1.0,
-					MinQuality=1.0,MaxQuality=1.0,
+					MinQuality=1.0,MaxQuality=1.3,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.1
 				),
 				(
-					EntryWeight=0.2,
+					EntryWeight=0.31,
 					ItemClassStrings=("PrimalItemArmor_ParaSaddle_C"),
 					ItemsWeights=(1.0),
 					MinQuantity=1.0,MaxQuantity=1.0,
-					MinQuality=1.0,MaxQuality=1.0,
+					MinQuality=1.0,MaxQuality=1.3,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.1
 				),
 				(
-					EntryWeight=0.1,
+					EntryWeight=0.16,
+					ItemClassStrings=("PrimalItemArmor_PhiomiaSaddle_C"),
+					ItemsWeights=(1.0),
+					MinQuantity=1.0,MaxQuantity=1.0,
+					MinQuality=1.4,MaxQuality=2.0,
+					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.1
+				),
+				(
+					EntryWeight=0.16,
+					ItemClassStrings=("PrimalItemArmor_ParaSaddle_C"),
+					ItemsWeights=(1.0),
+					MinQuantity=1.0,MaxQuantity=1.0,
+					MinQuality=1.4,MaxQuality=2.0,
+					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.1
+				),
+				(
+					EntryWeight=0.06,
 					ItemClassStrings=("PrimalItemConsumable_TheHorn_C"),
 					ItemsWeights=(1.0),
 					MinQuantity=1.0,MaxQuantity=1.0,
-					MinQuality=1.0,MaxQuality=1.0,
-					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
-				),
-				(
-					EntryWeight=1.0,
-					ItemClassStrings=("PrimalItemResource_Hide_C"),
-					ItemsWeights=(1.0),
-					MinQuantity=50.0,MaxQuantity=60.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				)

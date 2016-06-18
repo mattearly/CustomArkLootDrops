@@ -51,7 +51,7 @@ ConfigOverrideSupplyCrateItems=(
 		),
 		(	
 			; FLAK Armor
-			MinNumItems=1,MaxNumItems=3,NumItemsPower=1.0,SetWeight=0.61,bItemsRandomWithoutReplacement=true,ItemEntries=(
+			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.61,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
 					EntryWeight=0.53,
 					ItemClassStrings=("PrimalItemArmor_MetalPants_C"),

@@ -1,4 +1,4 @@
-Note: THIS IS NOT COMPLETE - This is basically my random personal notes, and this will be the full sudo code later.
+Note: THIS IS NOT COMPLETE - This is basically my random personal notes and will likely be useless to others right now, and this will be the full sudo code later!
 
 white crate : 2 sets : double crates - upped quantity and quality
 
@@ -95,8 +95,19 @@ red crate : 1-2 sets : double crates - upped quantity and quality (not done yet)
 
 todo:  
 	add lystro eggs to white/fix white egg drops
-	add metal fence foundation somewhere (blue?)
+	add metal fence foundation somewhere (yellow?)
 	add stone behemoth gateway and gate somewhere
 	add metal behemoth gateway and gate somewhere
-	add transponder node and tracker somewhere
+	add transponder node and tracker somewhere - in with gps area
+	remove frog saddle (since its in sea crates) - removed from blue
+	reduce quantity of chitin, improve quality a notch
+	blue spawns stone house but sometimes inconsistant - fixed and learned some about sets (order of set items does not matter)
+	repellant numbers seem a little high in green and white
+	green sometimes has a toooon of stuff
+
+Questions I have:
+	Does item entries order matter?  seems like no, decently confirmed with stone house test example in blue crates
+	Does set entries order matter?
+	Should the set weights and entry weights add up the something specific, like 100?  
+
 

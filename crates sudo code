@@ -90,7 +90,7 @@ yellow crate : 1-2 sets : double crates - upped quantity and quality
 		megalodon diplo arthro manta direbear dunkleo beaver saber
 
 red crate : 1-2 sets : double crates - upped quantity and quality (not done yet)
-			eggs : rex spino quetz
+			eggs : rex spino quetz giga(rare)
 			saddles : argent rex direbear spino
 
 todo:  
@@ -100,7 +100,7 @@ todo:
 	add metal behemoth gateway and gate somewhere
 	add transponder node and tracker somewhere - in with gps area
 	remove frog saddle (since its in sea crates) - removed from blue
-	reduce quantity of chitin, improve quality a notch
+	reduce quantity of chitin, improve quality a notch - done
 	blue spawns stone house but sometimes inconsistant - fixed and learned some about sets (order of set items does not matter)
 	repellant numbers seem a little high in green and white
 	green sometimes has a toooon of stuff

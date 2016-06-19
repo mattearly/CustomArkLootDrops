@@ -62,7 +62,7 @@ ConfigOverrideSupplyCrateItems=(
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=2.0,MaxQuality=2.4,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.2
-				),
+				)
 			)
 		),
 		(	
@@ -391,7 +391,7 @@ ConfigOverrideSupplyCrateItems=(
 					MinQuantity=1.0,MaxQuantity=4.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
-				),
+				)
 			)
 		)
 	)

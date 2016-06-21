@@ -94,24 +94,25 @@ red crate : 1-2 sets : double crates - upped quantity and quality (not done yet)
 			saddles : argent rex direbear spino
 
 todo:  
-	add lystro eggs to white drops
+	add lystro eggs to white drops - DONE 
 	add metal fence foundation somewhere (yellow?)
 	add wood dino gateway and gate somewhere
 	add stone dino gateway and reinforced gate somewhere
 	add metal dino gateway and gate somewhere
 	add stone behemoth gateway and gate somewhere
 	add metal behemoth gateway and gate somewhere - in red now
-	add Rhino Saddle
+	add Rhino Saddle - IN blue or purple
 	add Manta Ray Saddle
 	add Chemistry Table
 	add Turrets and Cannons
-	add Training Dummy
+	add Training Dummy 
 	add leech blood and potions
 	add transponder node and tracker somewhere - in with gps area
 	remove frog saddle (since its in sea crates) - removed from blue
 	blue spawns stone house but sometimes inconsistant - fixed and learned some about sets (order of set items does not seem to matter)
 	repellant numbers seem a little high in green and white
 	potions in blue beacon need moved to potion section
+	remove doedicurous saddle from purple(in sea crates)
 
 Questions I have:
 	Does item entries order matter?  seems like no, decently confirmed with stone house test example in blue crates

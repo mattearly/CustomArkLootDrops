@@ -277,14 +277,6 @@ ConfigOverrideSupplyCrateItems=(
 					MinQuantity=1.0,MaxQuantity=3.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
-				),
-				(
-					EntryWeight=0.9,
-					ItemClassStrings=("PrimalItemResource_ChitinPaste_C","PrimalItemResource_Chitin_C","PrimalItemResource_Fibers_C","PrimalItemResource_MetalIngot_C","PrimalItemResource_Pelt_C"),
-					ItemsWeights=(0.5,0.5,0.5,0.5,0.6),
-					MinQuantity=125.0,MaxQuantity=200.0,
-					MinQuality=1.0,MaxQuality=1.0,
-					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				)
 			)
 		)

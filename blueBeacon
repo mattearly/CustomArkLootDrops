@@ -431,8 +431,8 @@ ConfigOverrideSupplyCrateItems=(
 				),
 				(
 					EntryWeight=0.40,
-					ItemClassStrings=("PrimalItem_WeaponSpyglass_C","PrimalItem_WeaponMagnifyingGlass_C"),
-					ItemsWeights=(0.5,0.5),
+					ItemClassStrings=("PrimalItem_WeaponMagnifyingGlass_C"),
+					ItemsWeights=(1.0),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.10

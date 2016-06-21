@@ -63,7 +63,7 @@ green crate : 1-2 set : sdouble crates - upped quantity and quality
 	64% chance of resources
 		29% chance of 1-4 egg mix (turtle trike raptor)
 	saddles
-		raptor trike ptero dolphin turtle
+		raptor trike dolphin turtle
 
 blue crate : 1-2 sets : double crates - upped quantity and quality
  
@@ -71,7 +71,7 @@ blue crate : 1-2 sets : double crates - upped quantity and quality
  		29% chance of 1-6 egg mix (stego ankylo boa scorpion spider)
 
  	x% chance of saddle
- 		scorp stego toad ankylo doed
+ 		scorp stego ankylo ptero
 
  purple crate : 1-2 sets : double crates - upped quantity and quality
 
@@ -100,19 +100,22 @@ todo:
 	add stone dino gateway and reinforced gate somewhere
 	add metal dino gateway and gate somewhere
 	add stone behemoth gateway and gate somewhere
-	add metal behemoth gateway and gate somewhere - in red now
-	add Rhino Saddle - IN blue or purple
+	add metal behemoth gateway and gate somewhere, in red now - DONE
+	add Rhino Saddle - already IN blue or purple
 	add Manta Ray Saddle
 	add Chemistry Table
 	add Turrets and Cannons
 	add Training Dummy 
 	add leech blood and potions
-	add transponder node and tracker somewhere - in with gps area
-	remove frog saddle (since its in sea crates) - removed from blue
-	blue spawns stone house but sometimes inconsistant - fixed and learned some about sets (order of set items does not seem to matter)
+	add transponder node and tracker somewhere, in with gps area - DONE
+	remove frog saddle from blue (since its in sea crates) - DONE
+	blue spawns stone house but sometimes inconsistant, fixed and learned some about sets (order of set items does not seem to matter) - DONE
 	repellant numbers seem a little high in green and white
 	potions in blue beacon need moved to potion section
-	remove doedicurous saddle from purple(in sea crates)
+	remove doedicurous saddle from purple(in sea crates) - DONE
+	move ptero saddle from green to blue crates
+	add second story wood building parts
+	add second story stone building parts
 
 Questions I have:
 	Does item entries order matter?  seems like no, decently confirmed with stone house test example in blue crates

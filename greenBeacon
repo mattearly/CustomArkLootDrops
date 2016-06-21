@@ -192,7 +192,7 @@ ConfigOverrideSupplyCrateItems=(
 				),
 				(
 					EntryWeight=0.14,
-					ItemClassStrings=("PrimalItemResource_Chitin_C",PrimalItemResource_Hide_C"),
+					ItemClassStrings=("PrimalItemResource_Chitin_C","PrimalItemResource_Hide_C"),
 					ItemsWeights=(0.6,0.4),
 					MinQuantity=75.0,MaxQuantity=125.0,
 					MinQuality=1.0,MaxQuality=1.0,

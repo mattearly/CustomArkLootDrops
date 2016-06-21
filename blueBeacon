@@ -467,14 +467,6 @@ ConfigOverrideSupplyCrateItems=(
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.1
 				),
 				(
-					EntryWeight=0.25,
-					ItemClassStrings=("PrimalItemArmor_DoedSaddle_C"),
-					ItemsWeights=(1.0),
-					MinQuantity=1.0,MaxQuantity=1.0,
-					MinQuality=1.1,MaxQuality=1.3,
-					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.1
-				),
-				(
 					EntryWeight=0.11,
 					ItemClassStrings=("PrimalItemArmor_ScorpionSaddle_C"),
 					ItemsWeights=(1.0),
@@ -498,13 +490,13 @@ ConfigOverrideSupplyCrateItems=(
 					MinQuality=1.4,MaxQuality=2.5,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.2
 				),
-				(
-					EntryWeight=0.11,
-					ItemClassStrings=("PrimalItemArmor_DoedSaddle_C"),
+								(
+					EntryWeight=0.26,
+					ItemClassStrings=("PrimalItemConsumable_TheHorn_C"),
 					ItemsWeights=(1.0),
-					MinQuantity=1.0,MaxQuantity=1.0,
-					MinQuality=1.4,MaxQuality=2.5,
-					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.2
+					MinQuantity=1.0,MaxQuantity=3.0,
+					MinQuality=1.0,MaxQuality=1.0,
+					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				)
 			)
 		)

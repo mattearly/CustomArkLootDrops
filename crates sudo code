@@ -105,15 +105,15 @@ todo:
 	add Manta Ray Saddle
 	add Chemistry Table
 	add Turrets and Cannons
-	add Training Dummy 
+	add Training Dummy, now in green crate - DONE
 	add leech blood and potions
 	add transponder node and tracker somewhere, in with gps area - DONE
 	remove frog saddle from blue (since its in sea crates) - DONE
 	blue spawns stone house but sometimes inconsistant, fixed and learned some about sets (order of set items does not seem to matter) - DONE
-	repellant numbers seem a little high in green and white
+	repellant numbers seem a little high in green and white, lowered - DONE
 	potions in blue beacon need moved to potion section
 	remove doedicurous saddle from purple(in sea crates) - DONE
-	move ptero saddle from green to blue crates
+	move ptero saddle from green to blue crates - DONE
 	add second story wood building parts
 	add second story stone building parts
 

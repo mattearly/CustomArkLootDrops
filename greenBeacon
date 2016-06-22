@@ -200,7 +200,7 @@ ConfigOverrideSupplyCrateItems=(
 				),
 				(
 					EntryWeight=0.07,
-					ItemClassStrings=(PrimalItemResource_Obsidian_C"),
+					ItemClassStrings=("PrimalItemResource_Obsidian_C"),
 					ItemsWeights=(1.0),
 					MinQuantity=20.0,MaxQuantity=30.0,
 					MinQuality=1.0,MaxQuality=1.0,

@@ -128,7 +128,7 @@ ConfigOverrideSupplyCrateItems=(
 				),
 				(
 					EntryWeight=0.10,
-					ItemClassStrings=(PrimalItemConsumable_StaminaSoup_C"),
+					ItemClassStrings=("PrimalItemConsumable_StaminaSoup_C"),
 					ItemsWeights=(1.0),
 					MinQuantity=3.0,MaxQuantity=8.0,
 					MinQuality=1.0,MaxQuality=1.0,

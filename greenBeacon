@@ -326,7 +326,7 @@ ConfigOverrideSupplyCrateItems=(
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				),
 				(
-					EntryWeight=0.27,
+					EntryWeight=0.20,
 					ItemClassStrings=("PrimalItemStructure_Bed_Simple_C","PrimalItemStructure_StorageBox_Large_C"),
 					ItemsWeights=(.5,.5),
 					MinQuantity=2.0,MaxQuantity=5.0,
@@ -334,7 +334,7 @@ ConfigOverrideSupplyCrateItems=(
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.05
 				),
 				(
-					EntryWeight=0.15,
+					EntryWeight=0.12,
 					ItemClassStrings=("PrimalItem_WeaponPaintbrush_C","PrimalItem_WeaponSprayPaint_C"),
 					ItemsWeights=(.7,.3),
 					MinQuantity=1.0,MaxQuantity=1.0,
@@ -342,12 +342,20 @@ ConfigOverrideSupplyCrateItems=(
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.15
 				),
 				(
-					EntryWeight=0.27,
+					EntryWeight=0.21,
 					ItemClassStrings=("PrimalItemStructure_Forge_C","PrimalItemStructure_AnvilBench_C","PrimalItemStructure_MortarAndPestle_C","PrimalItemStructure_CookingPot_C"),
 					ItemsWeights=(.25,.25,.25,.25),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.3
+				),
+				(
+					EntryWeight=0.16,
+					ItemClassStrings=("PrimalItemStructure_WoodGateframe_C","PrimalItemStructure_WoodGate_C"),
+					ItemsWeights=(.5,.5),
+					MinQuantity=1.0,MaxQuantity=1.0,
+					MinQuality=1.0,MaxQuality=1.0,
+					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.75
 				)
 			)
 		),
@@ -368,7 +376,7 @@ ConfigOverrideSupplyCrateItems=(
 					ItemsWeights=(.25,.25,.25,.25),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.4,MaxQuality=2.0,
-					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.38
+					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.40
 				),
 				(
 					EntryWeight=0.02,
@@ -376,7 +384,7 @@ ConfigOverrideSupplyCrateItems=(
 					ItemsWeights=(.25,.25,.25,.25),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=2.1,MaxQuality=3.0,
-					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.41
+					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.45
 				),
 				(
 					EntryWeight=0.20,

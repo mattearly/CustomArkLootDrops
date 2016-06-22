@@ -318,7 +318,7 @@ ConfigOverrideSupplyCrateItems=(
 			; Saddles
 			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.55,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
-					EntryWeight=0.58,
+					EntryWeight=0.61,
 					ItemClassStrings=("PrimalItemArmor_MegalodonSaddle_C","PrimalItemArmor_DiplodocusSaddle_C","PrimalItemArmor_ArthroSaddle_C","PrimalItemArmor_MantaSaddle_C","PrimalItemArmor_SaberSaddle_C","PrimalItemArmor_DunkleosteusSaddle_C","PrimalItemArmor_BeaverSaddle_C"),
 					ItemsWeights=(.14,.14,.15,.14,.15,.14,.14),
 					MinQuantity=1.0,MaxQuantity=1.0,
@@ -326,7 +326,7 @@ ConfigOverrideSupplyCrateItems=(
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.35
 				),
 				(
-					EntryWeight=0.18,
+					EntryWeight=0.21,
 					ItemClassStrings=("PrimalItemArmor_MegalodonSaddle_C","PrimalItemArmor_DiplodocusSaddle_C","PrimalItemArmor_ArthroSaddle_C","PrimalItemArmor_MantaSaddle_C","PrimalItemArmor_SaberSaddle_C","PrimalItemArmor_DunkleosteusSaddle_C","PrimalItemArmor_BeaverSaddle_C"),
 					ItemsWeights=(.14,.14,.15,.14,.15,.14,.14),
 					MinQuantity=1.0,MaxQuantity=1.0,
@@ -334,7 +334,7 @@ ConfigOverrideSupplyCrateItems=(
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.40
 				),
 				(
-					EntryWeight=0.03,
+					EntryWeight=0.04,
 					ItemClassStrings=("PrimalItemArmor_MegalodonSaddle_C","PrimalItemArmor_DiplodocusSaddle_C","PrimalItemArmor_ArthroSaddle_C","PrimalItemArmor_MantaSaddle_C","PrimalItemArmor_SaberSaddle_C","PrimalItemArmor_DunkleosteusSaddle_C","PrimalItemArmor_BeaverSaddle_C"),
 					ItemsWeights=(.14,.14,.15,.14,.15,.14,.14),
 					MinQuantity=1.0,MaxQuantity=1.0,

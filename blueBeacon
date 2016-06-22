@@ -274,7 +274,7 @@ ConfigOverrideSupplyCrateItems=(
 		),
 		(	
 			; POTION
-			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.33,bItemsRandomWithoutReplacement=true,ItemEntries=(
+			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.31,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
 					EntryWeight=0.33,
 					ItemClassStrings=("PrimalItemConsumable_HealSoup_C","PrimalItemConsumable_StaminaSoup_C"),
@@ -319,7 +319,7 @@ ConfigOverrideSupplyCrateItems=(
 		),
 		( 
 			; Resources
-			MinNumItems=2,MaxNumItems=4,NumItemsPower=1.0,SetWeight=0.40,bItemsRandomWithoutReplacement=true,ItemEntries=(
+			MinNumItems=2,MaxNumItems=4,NumItemsPower=1.0,SetWeight=0.38,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
 					EntryWeight=0.33,
 					ItemClassStrings=("PrimalItemConsumable_Narcotic_C","PrimalItemConsumable_Stimulant"),
@@ -360,14 +360,7 @@ ConfigOverrideSupplyCrateItems=(
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				),
-				(
-					EntryWeight=0.31,
-					ItemClassStrings=("PrimalItemConsumable_Egg_Stego_C","PrimalItemConsumable_Egg_Ankylo_C","PrimalItemConsumable_Egg_Boa_C", "PrimalItemConsumable_Egg_Scorpion_C", "PrimalItemConsumable_Egg_Spider_C"),
-					ItemsWeights=(0.33,0.33,0.34,0.33,0.34),
-					MinQuantity=1.0,MaxQuantity=4.0,
-					MinQuality=1.0,MaxQuality=1.0,
-					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
-				),
+				
 				(
 					EntryWeight=0.29,
 					ItemClassStrings=("PrimalItemResource_RareMushroom_C","PrimalItemResource_RareFlower_C"),
@@ -378,9 +371,54 @@ ConfigOverrideSupplyCrateItems=(
 				)
 			)
 		),
+		(
+			; Eggs
+			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.09,bItemsRandomWithoutReplacement=true,ItemEntries=(
+				(
+					EntryWeight=0.21,
+					ItemClassStrings=("PrimalItemConsumable_Egg_Stego_C"),
+					ItemsWeights=(1.0),
+					MinQuantity=1.0,MaxQuantity=3.0,
+					MinQuality=1.0,MaxQuality=1.0,
+					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
+				),
+				(
+					EntryWeight=0.21,
+					ItemClassStrings=("PrimalItemConsumable_Egg_Ankylo_C"),
+					ItemsWeights=(1.0),
+					MinQuantity=1.0,MaxQuantity=3.0,
+					MinQuality=1.0,MaxQuality=1.0,
+					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
+				),
+				(
+					EntryWeight=0.21,
+					ItemClassStrings=("PrimalItemConsumable_Egg_Boa_C"),
+					ItemsWeights=(1.0),
+					MinQuantity=1.0,MaxQuantity=3.0,
+					MinQuality=1.0,MaxQuality=1.0,
+					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
+				),
+				(
+					EntryWeight=0.21,
+					ItemClassStrings=("PrimalItemConsumable_Egg_Scorpion_C"),
+					ItemsWeights=(1.0),
+					MinQuantity=1.0,MaxQuantity=3.0,
+					MinQuality=1.0,MaxQuality=1.0,
+					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
+				),
+				(
+					EntryWeight=0.16,
+					ItemClassStrings=("PrimalItemConsumable_Egg_Spider_C"),
+					ItemsWeights=(1.0),
+					MinQuantity=1.0,MaxQuantity=3.0,
+					MinQuality=1.0,MaxQuality=1.0,
+					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
+				)
+			)
+		),
 		( 
 			; Trinkets and Odds blueprints
-			MinNumItems=1,MaxNumItems=2,NumItemsPower=1.0,SetWeight=0.45,bItemsRandomWithoutReplacement=true,ItemEntries=(
+			MinNumItems=1,MaxNumItems=2,NumItemsPower=1.0,SetWeight=0.43,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
 					EntryWeight=0.20,
 					ItemClassStrings=("PrimalItemConsumable_WaterJarCraftable_C","PrimalItem_WeaponCompass_C"),
@@ -441,7 +479,7 @@ ConfigOverrideSupplyCrateItems=(
 		),
 		( 
 			; Saddle
-			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.35,bItemsRandomWithoutReplacement=true,ItemEntries=(
+			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.33,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
 					EntryWeight=0.58,
 					ItemClassStrings=("PrimalItemArmor_ScorpionSaddle_C","PrimalItemArmor_PteroSaddle_C","PrimalItemArmor_StegoSaddle_C","PrimalItemArmor_AnkyloSaddle_C"),

@@ -141,7 +141,7 @@ ConfigOverrideSupplyCrateItems=(
 		),
 		( 
 			; Resources
-			MinNumItems=2,MaxNumItems=4,NumItemsPower=1.0,SetWeight=0.13,bItemsRandomWithoutReplacement=true,ItemEntries=(
+			MinNumItems=2,MaxNumItems=4,NumItemsPower=1.0,SetWeight=0.14,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
 					EntryWeight=0.2,
 					ItemClassStrings=(,"PrimalItemResource_Wood_C","PrimalItemResource_Thatch_C"),
@@ -210,12 +210,12 @@ ConfigOverrideSupplyCrateItems=(
 		),
 		(
 			; Eggs
-			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.09,bItemsRandomWithoutReplacement=true,ItemEntries=(
+			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.07,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
 					EntryWeight=0.25,
 					ItemClassStrings=("PrimalItemConsumable_Egg_Para_C"),
 					ItemsWeights=(1.0),
-					MinQuantity=1.0,MaxQuantity=3.0,
+					MinQuantity=1.0,MaxQuantity=2.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				),
@@ -292,7 +292,7 @@ ConfigOverrideSupplyCrateItems=(
 		),
 		( 
 			; Furniture
-			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.13,bItemsRandomWithoutReplacement=true,ItemEntries=(
+			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.14,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
 					EntryWeight=1.0,
 					ItemClassStrings=("PrimalItemStructure_WoodSign_C","PrimalItemStructure_StorageBox_Small_C","PrimalItemStructure_Bed_Simple_C","PrimalItemStructure_StandingTorch_C"),

@@ -157,7 +157,7 @@ ConfigOverrideSupplyCrateItems=(
 		),
 		( 
 			; Resources
-			MinNumItems=2,MaxNumItems=3,NumItemsPower=1.0,SetWeight=0.13,bItemsRandomWithoutReplacement=true,ItemEntries=(
+			MinNumItems=2,MaxNumItems=3,NumItemsPower=1.0,SetWeight=0.14,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
 					EntryWeight=0.14,
 					ItemClassStrings=(,"PrimalItemResource_Wood_C","PrimalItemResource_Thatch_C"),
@@ -242,12 +242,12 @@ ConfigOverrideSupplyCrateItems=(
 		),
 		(
 			; Eggs
-			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.09,bItemsRandomWithoutReplacement=true,ItemEntries=(
+			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.07,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
 					EntryWeight=0.33,
 					ItemClassStrings=("PrimalItemConsumable_Egg_Turtle_C"),
 					ItemsWeights=(1.0),
-					MinQuantity=1.0,MaxQuantity=3.0,
+					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				),
@@ -255,7 +255,7 @@ ConfigOverrideSupplyCrateItems=(
 					EntryWeight=0.33,
 					ItemClassStrings=("PrimalItemConsumable_Egg_Trike_C"),
 					ItemsWeights=(1.0),
-					MinQuantity=1.0,MaxQuantity=3.0,
+					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				),
@@ -263,7 +263,7 @@ ConfigOverrideSupplyCrateItems=(
 					EntryWeight=0.34,
 					ItemClassStrings=("PrimalItemConsumable_Egg_Raptor_C"),
 					ItemsWeights=(1.0),
-					MinQuantity=1.0,MaxQuantity=3.0,
+					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				)
@@ -316,7 +316,7 @@ ConfigOverrideSupplyCrateItems=(
 		),
 		( 
 			; Furniture
-			MinNumItems=1,MaxNumItems=2,NumItemsPower=1.0,SetWeight=0.13,bItemsRandomWithoutReplacement=true,ItemEntries=(
+			MinNumItems=1,MaxNumItems=2,NumItemsPower=1.0,SetWeight=0.14,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
 					EntryWeight=0.31,
 					ItemClassStrings=("PrimalEarthDye_Red_C","PrimalEarthDye_Green_C","PrimalEarthDye_Blue_C","PrimalEarthDye_Yellow_C","PrimalEarthDye_Purple_C","PrimalEarthDye_Orange_C","PrimalEarthDye_Black_C","PrimalEarthDye_White_C","PrimalEarthDye_Brown_C","PrimalEarthDye_Cyan_C","PrimalEarthDye_Forest_C","PrimalEarthDye_Parchment_C","PrimalEarthDye_Pink_C","PrimalEarthDye_Royalty_C","PrimalEarthDye_Silver_C","PrimalEarthDye_Sky_C","PrimalEarthDye_Tan_C","PrimalEarthDye_Tangerine_C","PrimalEarthDye_ActuallyMagenta_C","PrimalEarthDye_Brick_C","PrimalEarthDye_Cantaloupe_C","PrimalEarthDye_Mud_C","PrimalEarthDye_Navy_C","PrimalEarthDye_Olive_C","PrimalEarthDye_Slate_C"),

@@ -67,7 +67,7 @@ ConfigOverrideSupplyCrateItems=(
 		),
 		(	
 			; Miner's Helm Armor
-			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.15,bItemsRandomWithoutReplacement=true,ItemEntries=(
+			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.3,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
 					EntryWeight=0.70,
 					ItemClassStrings=("PrimalItemArmor_MinersHelmet_C"),
@@ -96,7 +96,7 @@ ConfigOverrideSupplyCrateItems=(
 		),
 		( 
 			; Resources (Ammo)
-			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.38,bItemsRandomWithoutReplacement=true,ItemEntries=(
+			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.50,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
 					EntryWeight=0.33,
 					ItemClassStrings=("PrimalItemC4Ammo_C"),
@@ -221,7 +221,7 @@ ConfigOverrideSupplyCrateItems=(
 		),
 		( 
 			; EGGS
-			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.28,bItemsRandomWithoutReplacement=true,ItemEntries=(
+			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.34,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
 					EntryWeight=1.0,
 					ItemClassStrings=("PrimalItemConsumable_Egg_Rex_C","PrimalItemConsumable_Egg_Spino_C","PrimalItemConsumable_Egg_Quetz_C", "PrimalItemConsumable_Egg_Gigant_C"),

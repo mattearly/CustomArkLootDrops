@@ -307,7 +307,7 @@ ConfigOverrideSupplyCrateItems=(
 			; Saddle
 			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.13,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
-					EntryWeight=0.68,
+					EntryWeight=0.62,
 					ItemClassStrings=("PrimalItemArmor_PhiomiaSaddle_C","PrimalItemArmor_ParaSaddle_C"),
 					ItemsWeights=(.5,.5),
 					MinQuantity=1.0,MaxQuantity=1.0,
@@ -315,15 +315,15 @@ ConfigOverrideSupplyCrateItems=(
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.25
 				),
 				(
-					EntryWeight=0.22,
+					EntryWeight=0.16,
 					ItemClassStrings=("PrimalItemArmor_PhiomiaSaddle_C","PrimalItemArmor_ParaSaddle_C"),
 					ItemsWeights=(.5,.5),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.4,MaxQuality=2.0,
-					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.28
+					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.35
 				),
 				(
-					EntryWeight=0.1,
+					EntryWeight=0.22,
 					ItemClassStrings=("PrimalItemConsumable_TheHorn_C"),
 					ItemsWeights=(1.0),
 					MinQuantity=1.0,MaxQuantity=1.0,

@@ -265,23 +265,23 @@ ConfigOverrideSupplyCrateItems=(
 					ItemsWeights=(0.3,0.5,0.45,0.3),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.0,MaxQuality=1.0,
-					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.25
+					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.75
 				),
 				(
 					EntryWeight=0.45,
-					ItemClassStrings=("PrimalItemStructure_PowerGenerator_C","PrimalItemStructure_Fabricator_C","PrimalItemStructure_WaterTankMetal_C","PrimalItemStructure_Grill_C","PrimalItemStructure_IceBox_C"),
+					ItemClassStrings=("PrimalItemStructure_PowerGenerator_C","PrimalItemStructure_Fabricator_C","PrimalItemStructure_WaterTankMetal_C","PrimalItemStructure_Grill_C","PrimalItemStructure_IceBox_C","PrimalItemStructure_TreePlatform_Metal_C"),
 					ItemsWeights=(0.5,0.4,0.4,0.25,0.4),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.0,MaxQuality=1.0,
-					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.25
+					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.75
 				),
 				(
 					EntryWeight=0.40,
 					ItemClassStrings=("PrimalItemTransGPSAmmo_C","PrimalItemAmmo_GrapplingHook_C","PrimalItem_WeaponTripwireC4_C"),
 					ItemsWeights=(0.4,0.6,0.4),
-					MinQuantity=1.0,MaxQuantity=3.0,
+					MinQuantity=1.0,MaxQuantity=4.0,
 					MinQuality=1.0,MaxQuality=1.0,
-					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.06
+					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.04
 				),
 				(
 					EntryWeight=0.18,
@@ -289,7 +289,7 @@ ConfigOverrideSupplyCrateItems=(
 					ItemsWeights=(0.5,0.5,0.5,0.5),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.0,MaxQuality=1.0,
-					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.08
+					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.75
 				),
 				(
 					EntryWeight=0.30,

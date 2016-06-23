@@ -245,7 +245,7 @@ ConfigOverrideSupplyCrateItems=(
 				),
 				(
 					EntryWeight=0.55,
-					ItemClassStrings=("PrimalItemStructure_PowerGenerator_C","PrimalItemStructure_Fabricator_C","PrimalItemStructure_WaterTankMetal_C","PrimalItemStructure_Grill_C","PrimalItemStructure_IceBox_C","PrimalItemStructure_AirConditioner"),
+					ItemClassStrings=("PrimalItemStructure_IndustrialForge_C","PrimalItemStructure_Fabricator_C","PrimalItemStructure_WaterTankMetal_C","PrimalItemStructure_Grill_C","PrimalItemStructure_IceBox_C","PrimalItemStructure_AirConditioner"),
 					ItemsWeights=(0.5,0.4,0.4,0.25,0.4,0.6),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.0,MaxQuality=1.0,

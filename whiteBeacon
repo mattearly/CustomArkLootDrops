@@ -98,7 +98,7 @@ ConfigOverrideSupplyCrateItems=(
 			; Weapons and tools
 			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.13,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
-					EntryWeight=0.45,
+					EntryWeight=0.51,
 					ItemClassStrings=("PrimalItem_WeaponStonePick_C","PrimalItem_WeaponStoneHatchet_C","PrimalItem_WeaponSlingshot_C","PrimalItem_WeaponTorch_C"),
 					ItemsWeights=(.25,.25,.25,.25),
 					MinQuantity=1.0,MaxQuantity=1.0,
@@ -114,7 +114,7 @@ ConfigOverrideSupplyCrateItems=(
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.50
 				),
 				(
-					EntryWeight=0.2,
+					EntryWeight=0.18,
 					ItemClassStrings=("PrimalItem_WeaponFlareGun_C"),
 					ItemsWeights=(1.0),
 					MinQuantity=3.0,MaxQuantity=8.0,
@@ -122,7 +122,7 @@ ConfigOverrideSupplyCrateItems=(
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				),
 				(
-					EntryWeight=0.15,
+					EntryWeight=0.12,
 					ItemClassStrings=("PrimalItem_WeaponBola_C"),
 					ItemsWeights=(1.0),
 					MinQuantity=1.0,MaxQuantity=2.0,
@@ -130,7 +130,7 @@ ConfigOverrideSupplyCrateItems=(
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				),
 				(
-					EntryWeight=0.15,
+					EntryWeight=0.12,
 					ItemClassStrings=("PrimalItem_WeaponSpear_C"),
 					ItemsWeights=(1.0),
 					MinQuantity=1.0,MaxQuantity=3.0,
@@ -138,7 +138,7 @@ ConfigOverrideSupplyCrateItems=(
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				),
 				(
-					EntryWeight=0.03,
+					EntryWeight=0.05,
 					ItemClassStrings=("PrimalItem_WeaponFlareGun_C","PrimalItem_WeaponBola_C","PrimalItem_WeaponSpear_C"),
 					ItemsWeights=(.33,.33,.33),
 					MinQuantity=1.0,MaxQuantity=1.0,

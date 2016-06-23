@@ -106,7 +106,7 @@ ConfigOverrideSupplyCrateItems=(
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.60
 				),
 				(
-					EntryWeight=0.15,
+					EntryWeight=0.17,
 					ItemClassStrings=("PrimalItemAmmo_ArrowStone_C"),
 					ItemsWeights=(1.0),
 					MinQuantity=15.0,MaxQuantity=28.0,
@@ -114,7 +114,7 @@ ConfigOverrideSupplyCrateItems=(
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				),
 				(
-					EntryWeight=0.12,
+					EntryWeight=0.10,
 					ItemClassStrings=("PrimalItemAmmo_ArrowTranq_C"),
 					ItemsWeights=(1.0),
 					MinQuantity=5.0,MaxQuantity=18.0,

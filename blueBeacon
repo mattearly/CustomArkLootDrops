@@ -117,7 +117,7 @@ ConfigOverrideSupplyCrateItems=(
 		),
 		(	
 			; POTION
-			MinNumItems=2,MaxNumItems=4,NumItemsPower=1.0,SetWeight=0.17,bItemsRandomWithoutReplacement=true,ItemEntries=(
+			MinNumItems=2,MaxNumItems=4,NumItemsPower=1.0,SetWeight=0.18,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
 					EntryWeight=0.13,
 					ItemClassStrings=("PrimalItemConsumable_HealSoup_C"),
@@ -194,7 +194,7 @@ ConfigOverrideSupplyCrateItems=(
 		),
 		( 
 			; Resources
-			MinNumItems=2,MaxNumItems=3,NumItemsPower=1.0,SetWeight=0.15,bItemsRandomWithoutReplacement=true,ItemEntries=(
+			MinNumItems=2,MaxNumItems=3,NumItemsPower=1.0,SetWeight=0.14,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
 					EntryWeight=0.14,
 					ItemClassStrings=("PrimalItemConsumable_Narcotic_C","PrimalItemConsumable_Stimulant"),
@@ -238,9 +238,9 @@ ConfigOverrideSupplyCrateItems=(
 				
 				(
 					EntryWeight=0.14,
-					ItemClassStrings=("PrimalItemResource_RareMushroom_C","PrimalItemResource_RareFlower_C"),
-					ItemsWeights=(0.6,0.4),
-					MinQuantity=15.0,MaxQuantity=52.0,
+					ItemClassStrings=("PrimalItemResource_RareMushroom_C","PrimalItemResource_RareFlower_C","PrimalItemResource_Sap_C"),
+					ItemsWeights=(0.33,.33,.34),
+					MinQuantity=12.0,MaxQuantity=23.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				)

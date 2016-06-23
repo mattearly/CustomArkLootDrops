@@ -112,14 +112,6 @@ ConfigOverrideSupplyCrateItems=(
 					MinQuantity=1.0,MaxQuantity=5.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
-				),
-				(
-					EntryWeight=0.02,
-					ItemClassStrings=("PrimalItemStructure_TreeTap_C"),
-					ItemsWeights=(1.0),
-					MinQuantity=1.0,MaxQuantity=1.0,
-					MinQuality=1.0,MaxQuality=1.0,
-					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.75
 				)
 			)
 		),
@@ -304,8 +296,8 @@ ConfigOverrideSupplyCrateItems=(
 			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.12,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
 					EntryWeight=0.2,
-					ItemClassStrings=("PrimalItemConsumable_WaterJarCraftable_C","PrimalItem_WeaponCompass_C","PrimalItemStructure_CropPlot_Medium_C","PrimalItem_WeaponMagnifyingGlass_C"),
-					ItemsWeights=(.25,.25,.25,.25),
+					ItemClassStrings=("PrimalItemConsumable_WaterJarCraftable_C","PrimalItem_WeaponCompass_C","PrimalItemStructure_CropPlot_Medium_C","PrimalItem_WeaponMagnifyingGlass_C","PrimalItemStructure_TreeTap_C"),
+					ItemsWeights=(.22,.22,.22,.17,.17),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.75

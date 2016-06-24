@@ -8,7 +8,7 @@ ConfigOverrideSupplyCrateItems=(
 			; Weapons
 			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.09,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
-					EntryWeight=0.70,
+					EntryWeight=0.73,
 					ItemClassStrings=("PrimalItem_WeaponMachinedPistol_C","PrimalItem_WeaponOneShotRifle_C","PrimalItem_WeaponShotgun_C"),
 					ItemsWeights=(0.4,0.3,0.3),
 					MinQuantity=1.0,MaxQuantity=1.0,
@@ -16,9 +16,9 @@ ConfigOverrideSupplyCrateItems=(
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.40
 				),
 				(
-					EntryWeight=0.20,
+					EntryWeight=0.22,
 					ItemClassStrings=("PrimalItem_WeaponMachinedPistol_C","PrimalItem_WeaponOneShotRifle_C","PrimalItem_WeaponShotgun_C"),
-					ItemsWeights=(0.5,0.33,0.33),
+					ItemsWeights=(0.4,0.3,0.3),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.4,MaxQuality=1.9,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.50
@@ -26,9 +26,9 @@ ConfigOverrideSupplyCrateItems=(
 				(
 					EntryWeight=0.05,
 					ItemClassStrings=("PrimalItem_WeaponMachinedPistol_C","PrimalItem_WeaponOneShotRifle_C","PrimalItem_WeaponShotgun_C"),
-					ItemsWeights=(0.5,0.33,0.33),
+					ItemsWeights=(0.4,0.3,0.3),
 					MinQuantity=1.0,MaxQuantity=1.0,
-					MinQuality=2.0,MaxQuality=2.4,
+					MinQuality=2.0,MaxQuality=2.6,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.60
 				)
 			)
@@ -37,7 +37,7 @@ ConfigOverrideSupplyCrateItems=(
 			; FLAK Armor
 			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.21,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
-					EntryWeight=0.70,
+					EntryWeight=0.73,
 					ItemClassStrings=("PrimalItemArmor_MetalPants_C","PrimalItemArmor_MetalShirt_C","PrimalItemArmor_MetalHelmet_C","PrimalItemArmor_MetalBoots_C","PrimalItemArmor_MetalGloves_C"),
 					ItemsWeights=(.2,.2,.2,.2,.2),
 					MinQuantity=1.0,MaxQuantity=1.0,
@@ -45,11 +45,11 @@ ConfigOverrideSupplyCrateItems=(
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.40
 				),
 				(
-					EntryWeight=0.20,
+					EntryWeight=0.22,
 					ItemClassStrings=("PrimalItemArmor_MetalPants_C","PrimalItemArmor_MetalShirt_C","PrimalItemArmor_MetalHelmet_C","PrimalItemArmor_MetalBoots_C","PrimalItemArmor_MetalGloves_C"),
 					ItemsWeights=(.2,.2,.2,.2,.2),
 					MinQuantity=1.0,MaxQuantity=1.0,
-					MinQuality=1.3,MaxQuality=2.0,
+					MinQuality=1.4,MaxQuality=1.9,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.50
 				),
 				(
@@ -57,7 +57,7 @@ ConfigOverrideSupplyCrateItems=(
 					ItemClassStrings=("PrimalItemArmor_MetalPants_C","PrimalItemArmor_MetalShirt_C","PrimalItemArmor_MetalHelmet_C","PrimalItemArmor_MetalBoots_C","PrimalItemArmor_MetalGloves_C"),
 					ItemsWeights=(.2,.2,.2,.2,.2),
 					MinQuantity=1.0,MaxQuantity=1.0,
-					MinQuality=2.1,MaxQuality=2.9,
+					MinQuality=2.0,MaxQuality=2.6,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.60
 				)
 			)
@@ -182,23 +182,23 @@ ConfigOverrideSupplyCrateItems=(
 					ItemsWeights=(.14,.14,.15,.14,.15,.14,.14),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.0,MaxQuality=1.3,
-					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.35
+					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.40
 				),
 				(
 					EntryWeight=0.21,
 					ItemClassStrings=("PrimalItemArmor_MegalodonSaddle_C","PrimalItemArmor_DiplodocusSaddle_C","PrimalItemArmor_ArthroSaddle_C","PrimalItemArmor_MantaSaddle_C","PrimalItemArmor_SaberSaddle_C","PrimalItemArmor_DunkleosteusSaddle_C","PrimalItemArmor_BeaverSaddle_C"),
 					ItemsWeights=(.14,.14,.15,.14,.15,.14,.14),
 					MinQuantity=1.0,MaxQuantity=1.0,
-					MinQuality=1.4,MaxQuality=2.0,
-					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.40
+					MinQuality=1.4,MaxQuality=1.9,
+					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.50
 				),
 				(
 					EntryWeight=0.04,
 					ItemClassStrings=("PrimalItemArmor_MegalodonSaddle_C","PrimalItemArmor_DiplodocusSaddle_C","PrimalItemArmor_ArthroSaddle_C","PrimalItemArmor_MantaSaddle_C","PrimalItemArmor_SaberSaddle_C","PrimalItemArmor_DunkleosteusSaddle_C","PrimalItemArmor_BeaverSaddle_C"),
 					ItemsWeights=(.14,.14,.15,.14,.15,.14,.14),
 					MinQuantity=1.0,MaxQuantity=1.0,
-					MinQuality=2.1,MaxQuality=3.0,
-					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.45
+					MinQuality=2.0,MaxQuality=2.6,
+					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.60
 				),
 				(
 					EntryWeight=0.14,

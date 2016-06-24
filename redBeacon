@@ -189,7 +189,7 @@ ConfigOverrideSupplyCrateItems=(
 				),
 				(
 					EntryWeight=0.35,
-					ItemClassStrings=("PrimalItemStructure_IndustrialForge_C","PrimalItemStructure_ChemBench_C",PrimalItemStructure_Grill_C","PrimalItemStructure_IndustrialCookingPot_C","PrimalItemStructure_StorageBox_Huge_C"),
+					ItemClassStrings=("PrimalItemStructure_IndustrialForge_C","PrimalItemStructure_ChemBench_C","PrimalItemStructure_Grill_C","PrimalItemStructure_IndustrialCookingPot_C","PrimalItemStructure_StorageBox_Huge_C"),
 					ItemsWeights=(.2,.2,.2,.2,.2),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.0,MaxQuality=1.0,

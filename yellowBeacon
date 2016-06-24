@@ -66,31 +66,23 @@ ConfigOverrideSupplyCrateItems=(
 			; Resources (Ammo)
 			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.21,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
-					EntryWeight=0.51,
+					EntryWeight=0.23,
 					ItemClassStrings=("PrimalItemAmmo_AdvancedBullet_C"),
 					ItemsWeights=(1.0),
-					MinQuantity=22.0,MaxQuantity=48.0,
+					MinQuantity=16.0,MaxQuantity=36.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				),
 				(
-					EntryWeight=0.36,
+					EntryWeight=0.16,
 					ItemClassStrings=("PrimalItemAmmo_TranqDart_C"),
 					ItemsWeights=(1.0),
-					MinQuantity=15.0,MaxQuantity=25.0,
+					MinQuantity=8.0,MaxQuantity=16.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				),
 				(
-					EntryWeight=0.34,
-					ItemClassStrings=("PrimalItemAmmo_SimpleBullet_C"),
-					ItemsWeights=(1.0),
-					MinQuantity=18.0,MaxQuantity=34.0,
-					MinQuality=1.0,MaxQuality=1.0,
-					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
-				),
-				(
-					EntryWeight=0.34,
+					EntryWeight=0.20,
 					ItemClassStrings=("PrimalItemAmmo_SimpleShotgunBullet_C"),
 					ItemsWeights=(1.0),
 					MinQuantity=12.0,MaxQuantity=24.0,
@@ -98,18 +90,18 @@ ConfigOverrideSupplyCrateItems=(
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				),
 				(
-					EntryWeight=0.34,
+					EntryWeight=0.20,
 					ItemClassStrings=("PrimalItemAmmo_SimpleRifleBullet_C"),
 					ItemsWeights=(1.0),
-					MinQuantity=15.0,MaxQuantity=30.0,
+					MinQuantity=12.0,MaxQuantity=24.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				),
 				(
-					EntryWeight=0.32,
+					EntryWeight=0.10,
 					ItemClassStrings=("PrimalItemAmmo_AdvancedBullet_C","PrimalItemAmmo_SimpleShotgunBullet_C","PrimalItemAmmo_SimpleRifleBullet_C"),
 					ItemsWeights=(0.4,0.3,0.3),
-					MinQuantity=33.0,MaxQuantity=71.0,
+					MinQuantity=60.0,MaxQuantity=110.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				),

@@ -87,7 +87,7 @@ ConfigOverrideSupplyCrateItems=(
 					ItemsWeights=(0.37,0.33,.30),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.1,MaxQuality=1.3,
-					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.35
+					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.40
 				),
 				(
 					EntryWeight=0.18,
@@ -95,7 +95,7 @@ ConfigOverrideSupplyCrateItems=(
 					ItemsWeights=(0.37,0.33,.30),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.4,MaxQuality=1.7,
-					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.42
+					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.50
 				),
 				(
 					EntryWeight=0.04,
@@ -103,7 +103,7 @@ ConfigOverrideSupplyCrateItems=(
 					ItemsWeights=(0.37,0.33,.30),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.8,MaxQuality=2.7,
-					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.49
+					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.60
 				),
 				(
 					EntryWeight=0.05,

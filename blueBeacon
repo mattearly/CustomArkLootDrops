@@ -117,12 +117,12 @@ ConfigOverrideSupplyCrateItems=(
 		),
 		(	
 			; POTION
-			MinNumItems=2,MaxNumItems=4,NumItemsPower=1.0,SetWeight=0.18,bItemsRandomWithoutReplacement=true,ItemEntries=(
+			MinNumItems=2,MaxNumItems=3,NumItemsPower=1.0,SetWeight=0.18,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
 					EntryWeight=0.13,
 					ItemClassStrings=("PrimalItemConsumable_HealSoup_C"),
 					ItemsWeights=(1.0),
-					MinQuantity=3.0,MaxQuantity=8.0,
+					MinQuantity=2.0,MaxQuantity=7.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				),
@@ -130,7 +130,7 @@ ConfigOverrideSupplyCrateItems=(
 					EntryWeight=0.10,
 					ItemClassStrings=("PrimalItemConsumable_StaminaSoup_C"),
 					ItemsWeights=(1.0),
-					MinQuantity=3.0,MaxQuantity=8.0,
+					MinQuantity=2.0,MaxQuantity=7.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				),
@@ -138,7 +138,7 @@ ConfigOverrideSupplyCrateItems=(
 					EntryWeight=0.12,
 					ItemClassStrings=("PrimalItemConsumable_Soup_FriaCurry_C"),
 					ItemsWeights=(1.0),
-					MinQuantity=1.0,MaxQuantity=4.0,
+					MinQuantity=1.0,MaxQuantity=3.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				),
@@ -146,7 +146,7 @@ ConfigOverrideSupplyCrateItems=(
 					EntryWeight=0.12,
 					ItemClassStrings=("PrimalItemConsumable_Soup_CalienSoup_C"),
 					ItemsWeights=(1.0),
-					MinQuantity=1.0,MaxQuantity=4.0,
+					MinQuantity=1.0,MaxQuantity=3.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				),
@@ -154,7 +154,7 @@ ConfigOverrideSupplyCrateItems=(
 					EntryWeight=0.12,
 					ItemClassStrings=("PrimalItemConsumable_Soup_LazarusChowder_C"),
 					ItemsWeights=(1.0),
-					MinQuantity=1.0,MaxQuantity=4.0,
+					MinQuantity=1.0,MaxQuantity=3.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				),
@@ -162,7 +162,7 @@ ConfigOverrideSupplyCrateItems=(
 					EntryWeight=0.12,
 					ItemClassStrings=("PrimalItemConsumable_Soup_EnduroStew_C"),
 					ItemsWeights=(1.0),
-					MinQuantity=1.0,MaxQuantity=4.0,
+					MinQuantity=1.0,MaxQuantity=3.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				),
@@ -170,7 +170,7 @@ ConfigOverrideSupplyCrateItems=(
 					EntryWeight=0.12,
 					ItemClassStrings=("PrimalItemConsumable_Soup_ShadowSteak_C"),
 					ItemsWeights=(1.0),
-					MinQuantity=1.0,MaxQuantity=4.0,
+					MinQuantity=1.0,MaxQuantity=3.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				),
@@ -178,7 +178,7 @@ ConfigOverrideSupplyCrateItems=(
 					EntryWeight=0.12,
 					ItemClassStrings=("PrimalItemConsumable_Soup_BattleTartare_C"),
 					ItemsWeights=(1.0),
-					MinQuantity=1.0,MaxQuantity=4.0,
+					MinQuantity=1.0,MaxQuantity=3.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				),
@@ -186,7 +186,7 @@ ConfigOverrideSupplyCrateItems=(
 					EntryWeight=0.05,
 					ItemClassStrings=("PrimalItemConsumable_BugRepellant_C"),
 					ItemsWeights=(1.0),
-					MinQuantity=1.0,MaxQuantity=4.0,
+					MinQuantity=1.0,MaxQuantity=3.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				)
@@ -239,8 +239,8 @@ ConfigOverrideSupplyCrateItems=(
 				(
 					EntryWeight=0.14,
 					ItemClassStrings=("PrimalItemResource_RareMushroom_C","PrimalItemResource_RareFlower_C","PrimalItemResource_Sap_C"),
-					ItemsWeights=(0.33,.33,.34),
-					MinQuantity=12.0,MaxQuantity=23.0,
+					ItemsWeights=(0.3,.3,.4),
+					MinQuantity=14.0,MaxQuantity=25.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				)

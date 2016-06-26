@@ -132,7 +132,7 @@ ConfigOverrideSupplyCrateItems=(
 			; Trinkets and Odds blueprints 
 			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.20,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
-					EntryWeight=0.35,
+					EntryWeight=0.30,
 					ItemClassStrings=("PrimalItem_WeaponTransGPS_C","PrimalItem_WeaponGPS_C","PrimalItemStructure_LamppostOmni_C","PrimalItemStructure_Lamppost_C"),
 					ItemsWeights=(.2,.40,.2,.2),
 					MinQuantity=1.0,MaxQuantity=1.0,
@@ -140,15 +140,23 @@ ConfigOverrideSupplyCrateItems=(
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.75
 				),
 				(
-					EntryWeight=0.10,
+					EntryWeight=0.1,
 					ItemClassStrings=("PrimalItemStructure_IndustrialCookingPot_C","PrimalItemStructure_Fabricator_C","PrimalItemStructure_WaterTankMetal_C","PrimalItemStructure_Grill_C","PrimalItemStructure_IceBox_C","PrimalItemStructure_AirConditioner_C"),
 					ItemsWeights=(.14,.18,.18,.15,.18,.18),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.0,MaxQuality=1.0,
-					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.75
+					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.80
 				),
 				(
-					EntryWeight=0.35,
+					EntryWeight=0.15,
+					ItemClassStrings=("PrimalItemStructure_MetalGate_C","PrimalItemStructure_MetalGateframe_C"),
+					ItemsWeights=(.5,.5),
+					MinQuantity=1.0,MaxQuantity=1.0,
+					MinQuality=1.0,MaxQuality=1.0,
+					bForceBlueprint=true,ChanceToBeBlueprintOverride=0.0
+				),
+				(
+					EntryWeight=0.30,
 					ItemClassStrings=("PrimalItemTransGPSAmmo_C","PrimalItemAmmo_GrapplingHook_C","PrimalItem_WeaponTripwireC4_C"),
 					ItemsWeights=(0.4,0.6,0.4),
 					MinQuantity=1.0,MaxQuantity=4.0,

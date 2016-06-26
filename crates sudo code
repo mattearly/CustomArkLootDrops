@@ -96,39 +96,17 @@ red crate : 1-2 sets : double crates - upped quantity and quality (not done yet)
 			saddles : argent rex direbear spino titanosuar(ultra rare)
 
 todo:  
-	add lystro eggs to white drops - DONE 
-	add metal fence foundation somewhere (purple) - DONE
-	add wood dino gateway and gate somewhere - in furniture section - DONE
-	add stone dino gateway and reinforced gate somewhere - to blue - DONE
-	add metal dino gateway and gate somewhere - to yellow - DONE
-	add stone behemoth gateway and gate somewhere - to purple - DONE
-	add metal behemoth gateway and gate somewhere, in red now - DONE
-	add Manta Ray Saddle - DONE
-	add Chemistry Table - DONE
 	add Turrets and Cannons
 	add table and chairs
-	add Training Dummy, now in green crate - DONE
 	add leech blood and potions
-	add transponder node and tracker somewhere, in with gps area - DONE
-	remove frog saddle from blue (since its in sea crates) - DONE
-	blue spawns stone house but sometimes inconsistant, fixed and learned some about sets (order of set items does not seem to matter) - DONE
-	potions in blue beacon need moved to potion section, BLUES are for BREWS - Done
-	remove doedicurous saddle from purple(in sea crates) - DONE
-	move ptero saddle from green to blue crates - DONE
 	add second story wood building parts
 	add second story stone building parts
-	purple drops too many potions and eggs! - FIXED
-	metal pipes are in blue instead of purple -DONE
-	metal house building all going to purple - DONE
-	add wood spikes to green - DONE
-	add metal spikes to blue - DONE
 	add any sloped walls and ceilings?
-	add raft somewhere (to green) - DONE
-	add new tree bio crafting stuff - DONE
 
 Questions I have:
 	Does item entries order matter?  seems like no, decently confirmed with stone house test example in blue crates
 	Does set entries order matter?   not sure on this yet
-	Should the set weights and entry weights add up the something specific, like 100? or 1?   trying with adding up to '1' as 100% most things weighted in .xx
+	Is there a max item list (see dyes in green, we have yet to have any drop)? 
+	Should the set weights and entry weights add up the something specific, like 100? or 1?   trying with adding up to '1' as 100% most things weighted in .xx - seems good so far
 
 

@@ -111,12 +111,20 @@ ConfigOverrideSupplyCrateItems=(
 			; Trinkets and Odds blueprints 
 			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.21,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
-					EntryWeight=0.3,
+					EntryWeight=0.25,
 					ItemClassStrings=("PrimalItemStructure_Fabricator_C","PrimalItemStructure_CropPlot_Large_C","PrimalItemStructure_Grill_C","PrimalItemStructure_PowerGenerator_C","PrimalItemStructure_TreePlatform_Wood_C"),
 					ItemsWeights=(.27,.3,.09,.20,.14),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.75
+				),
+				(
+					EntryWeight=0.1,
+					ItemClassStrings=("PrimalItemStructure_StoneGateframe_Large_C","PrimalItemStructure_StoneGateLarge_C"),
+					ItemsWeights=(.5,.5),
+					MinQuantity=1.0,MaxQuantity=1.0,
+					MinQuality=1.0,MaxQuality=1.0,
+					bForceBlueprint=true,ChanceToBeBlueprintOverride=0.0
 				),
 				(
 					EntryWeight=0.3,
@@ -127,7 +135,7 @@ ConfigOverrideSupplyCrateItems=(
 					bForceBlueprint=true,ChanceToBeBlueprintOverride=0.0
 				),
 				(
-					EntryWeight=0.4,
+					EntryWeight=0.35,
 					ItemClassStrings=("PrimalItemWeaponAttachment_Silencer_C","PrimalItemWeaponAttachment_HoloScope_C","PrimalItemWeaponAttachment_Laser_C","PrimalItemWeaponAttachment_Scope_C","PrimalItemWeaponAttachment_Flashlight_C"),
 					ItemsWeights=(0.5,0.5,0.5,0.5,0.5),
 					MinQuantity=1.0,MaxQuantity=1.0,

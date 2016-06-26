@@ -296,7 +296,7 @@ ConfigOverrideSupplyCrateItems=(
 				(
 					EntryWeight=0.31,
 					ItemClassStrings=("PrimalEarthDye_Red_C","PrimalEarthDye_Green_C","PrimalEarthDye_Blue_C","PrimalEarthDye_Yellow_C","PrimalEarthDye_Purple_C","PrimalEarthDye_Orange_C","PrimalEarthDye_Black_C","PrimalEarthDye_White_C","PrimalEarthDye_Brown_C","PrimalEarthDye_Cyan_C","PrimalEarthDye_Forest_C","PrimalEarthDye_Parchment_C","PrimalEarthDye_Pink_C","PrimalEarthDye_Royalty_C","PrimalEarthDye_Silver_C","PrimalEarthDye_Sky_C","PrimalEarthDye_Tan_C","PrimalEarthDye_Tangerine_C","PrimalEarthDye_ActuallyMagenta_C","PrimalEarthDye_Brick_C","PrimalEarthDye_Cantaloupe_C","PrimalEarthDye_Mud_C","PrimalEarthDye_Navy_C","PrimalEarthDye_Olive_C","PrimalEarthDye_Slate_C"),
-					ItemsWeights=(1.0),
+					ItemsWeights=(.04,.04,.04,.04,.04,.04,.04,.04,.04,.04,.04,.04,.04,.04,.04,.04,.04,.04,.04,.04,.04,.04,.04,.04,.04),
 					MinQuantity=6.0,MaxQuantity=15.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
@@ -315,15 +315,15 @@ ConfigOverrideSupplyCrateItems=(
 					ItemsWeights=(.7,.3),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.0,MaxQuality=1.0,
-					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.15
+					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.45
 				),
 				(
 					EntryWeight=0.21,
-					ItemClassStrings=("PrimalItemStructure_Forge_C","PrimalItemStructure_AnvilBench_C","PrimalItemStructure_MortarAndPestle_C","PrimalItemStructure_CookingPot_C"),
-					ItemsWeights=(.25,.25,.25,.25),
+					ItemClassStrings=("PrimalItemStructure_Forge_C","PrimalItemStructure_AnvilBench_C","PrimalItemStructure_MortarAndPestle_C","PrimalItemStructure_CookingPot_C","PrimalItemStructure_WoodSpikeWall_C","PrimalItemRaft_C"),
+					ItemsWeights=(.18,.18,.18,.18,.18,.1),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.0,MaxQuality=1.0,
-					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.3
+					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.45
 				),
 				(
 					EntryWeight=0.16,

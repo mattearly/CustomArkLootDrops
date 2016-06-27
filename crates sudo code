@@ -116,19 +116,19 @@ todo:
 		trophy base PrimalItemStructure_TrophyBase  lvl 20
 		trophy mount PrimalItemStructure_TrophyWall lvl 20
 
-	add wardrums PrimalItemStructure_Wardrums
-	add warmap PrimalItemStructure_WarMap
-	add bunk bed PrimalItemStructure_Bed_Modern
-	add stone fireplace
-	add underwater mine
-	add wooden cage
-	add handcuffs
+	add wardrums PrimalItemStructure_Wardrums lvl 10
+	add warmap PrimalItemStructure_WarMap lvl 50
+	add bunk bed PrimalItemStructure_Bed_Modern lvl 60
+	add stone fireplace lvl 30
+	add underwater mine lvl 75
+	add wooden cage lvl 10
+	add handcuffs lvl 25
 	add black pearl
 	add rhino horn
 	add absorbent substrate PrimalItemResource_SubstrateAbsorbent
 	add rope ladder PrimalItemStructure_RopeLadder
-	add beer barrel
-	add leech blood and potions
+	add beer barrel lvl 35
+	add leech blood and potions lvl 20
 	add second story wood building parts
 	add second story stone building parts
 2	add any sloped walls and ceilings?

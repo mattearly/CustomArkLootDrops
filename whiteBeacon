@@ -302,17 +302,17 @@ ConfigOverrideSupplyCrateItems=(
 			; Furniture
 			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.14,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
-					EntryWeight=.9,
-					ItemClassStrings=("PrimalItemStructure_WoodSign_C","PrimalItemStructure_StorageBox_Small_C","PrimalItemStructure_Bed_Simple_C","PrimalItemStructure_StandingTorch_C","PrimalItemStructure_Furniture_WoodChair_C","PrimalItemStructure_WoodCage_C","PrimalItemStructure_Wardrums_C"),
-					ItemsWeights=(.15,.15,.15,.15,.15,.15,.9),
+					EntryWeight=.8,
+					ItemClassStrings=("PrimalItemStructure_WoodSign_C","PrimalItemStructure_StorageBox_Small_C","PrimalItemStructure_Bed_Simple_C","PrimalItemStructure_StandingTorch_C","PrimalItemStructure_Furniture_WoodChair_C","PrimalItemStructure_WoodCage_C","PrimalItemStructure_Wardrums_C","PrimalItemStructure_RopeLadder_C"),
+					ItemsWeights=(.13,.14,.14,.14,.13,.13,.9,.9),
 					MinQuantity=2.0,MaxQuantity=6.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				),
 				(
-					EntryWeight=.1,
-					ItemClassStrings=("PrimalItemStructure_WoodSign_C","PrimalItemStructure_StorageBox_Small_C","PrimalItemStructure_Bed_Simple_C","PrimalItemStructure_StandingTorch_C","PrimalItemStructure_Furniture_WoodChair_C","PrimalItemStructure_WoodCage_C","PrimalItemStructure_Wardrums_C"),
-					ItemsWeights=(.15,.15,.15,.15,.15,.15,.9),
+					EntryWeight=.2,
+					ItemClassStrings=("PrimalItemStructure_WoodSign_C","PrimalItemStructure_StorageBox_Small_C","PrimalItemStructure_Bed_Simple_C","PrimalItemStructure_StandingTorch_C","PrimalItemStructure_Furniture_WoodChair_C","PrimalItemStructure_WoodCage_C","PrimalItemStructure_Wardrums_C","PrimalItemStructure_RopeLadder_C"),
+					ItemsWeights=(.13,.14,.14,.14,.13,.13,.9,.9),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=true,ChanceToBeBlueprintOverride=0.0

@@ -55,9 +55,6 @@ white crate : 2 sets : double crates - upped quantity and quality
 		10% chance of elixir of enlightenment
 		100% chance of 50-60 hide
 
-
-
-
 green crate : 1-2 set : sdouble crates - upped quantity and quality
 
 	64% chance of resources
@@ -109,29 +106,29 @@ todo:
 			cannon ball PrimalItemAmmo_CannonBall lvl 35
 			
 	add table and chairs
-		wooden chair PrimalItemStructure_Furniture_WoodChair lvl 10
-		wooden bench PrimalItemStructure_Furniture_WoodBench lvl 15
-		wooden table PrimalItemStructure_Furniture_WoodTable 15
-		basic gravestone PrimalItemStructure_Furniture_Gravestone lvl 15
+		wooden chair PrimalItemStructure_Furniture_WoodChair lvl 10 (in white) - DONE
+		wooden bench PrimalItemStructure_Furniture_WoodBench lvl 15 (in green) - DONE
+		wooden table PrimalItemStructure_Furniture_WoodTable 15 (in green) - DONE
+		basic gravestone PrimalItemStructure_Furniture_Gravestone lvl 15 (in green) - DONE
 		trophy base PrimalItemStructure_TrophyBase  lvl 20
 		trophy mount PrimalItemStructure_TrophyWall lvl 20
 
-	add wardrums PrimalItemStructure_Wardrums lvl 10
+	add wardrums PrimalItemStructure_Wardrums lvl 10 (in white) - DONE
 	add warmap PrimalItemStructure_WarMap lvl 50
 	add bunk bed PrimalItemStructure_Bed_Modern lvl 60
 	add stone fireplace lvl 30
 	add underwater mine lvl 75
-	add wooden cage lvl 10
+	add wooden cage lvl 10 (in white) - DONE
 	add handcuffs lvl 25
 	add black pearl
 	add rhino horn
 	add absorbent substrate PrimalItemResource_SubstrateAbsorbent
-	add rope ladder PrimalItemStructure_RopeLadder
+	add rope ladder PrimalItemStructure_RopeLadder lvl 10 (in white) - DONE
 	add beer barrel lvl 35
 	add leech blood and potions lvl 20
 	add second story wood building parts
 	add second story stone building parts
-2	add any sloped walls and ceilings?
+	add any sloped walls and ceilings?
 
 Questions I have:
 	Does item entries order matter?  seems like no, decently confirmed with stone house test example in blue crates

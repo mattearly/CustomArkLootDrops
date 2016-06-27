@@ -19,7 +19,7 @@ ConfigOverrideSupplyCrateItems=(
 					EntryWeight=0.16,
 					ItemClassStrings=("PrimalItemResource_Sparkpowder_C"),
 					ItemsWeights=(1.0),
-					MinQuantity=15.0,MaxQuantity=30.0,
+					MinQuantity=15.0,MaxQuantity=35.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				),

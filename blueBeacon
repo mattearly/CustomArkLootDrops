@@ -49,9 +49,46 @@ ConfigOverrideSupplyCrateItems=(
 				)
 			)
 		),
+		( 
+			; Advanced Stone Shack
+			MinNumItems=4,MaxNumItems=4,NumItemsPower=1.0,SetWeight=0.09,bItemsRandomWithoutReplacement=true,ItemEntries=(
+				(
+					EntryWeight=1.0,
+					ItemClassStrings=("PrimalItemStructure_StoneCeilingWithTrapdoor_C","PrimalItemStructure_StoneTrapdoor_C"),
+					ItemsWeights=(1.0,1.0),
+					MinQuantity=2.0,MaxQuantity=2.0,
+					MinQuality=1.0,MaxQuality=1.0,
+					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
+				),
+				(
+					EntryWeight=1.0,
+					ItemClassStrings=("PrimalItemStructure_StoneRailing_C"),
+					ItemsWeights=(1.0),
+					MinQuantity=2.0,MaxQuantity=2.0,
+					MinQuality=1.0,MaxQuality=1.0,
+					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
+				),
+				(
+					EntryWeight=1.0,
+					ItemClassStrings=("PrimalItemStructure_StoneWallWithWindow_C","PrimalItemStructure_StoneWindow_C"),
+					ItemsWeights=(1.0,1.0),
+					MinQuantity=1.0,MaxQuantity=1.0,
+					MinQuality=1.0,MaxQuality=1.0,
+					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
+				),
+				(
+					EntryWeight=1.0,
+					ItemClassStrings=("PrimalItemStructure_StonePillar_C","PrimalItemStructure_StoneFenceFoundation_C"),
+					ItemsWeights=(1.0,1.0),
+					MinQuantity=1.0,MaxQuantity=2.0,
+					MinQuality=1.0,MaxQuality=1.0,
+					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
+				)
+			)
+		),
 		(	
 			; Chitin Armor
-			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.12,bItemsRandomWithoutReplacement=true,ItemEntries=(
+			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.09,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
 					EntryWeight=0.75,
 					ItemClassStrings=("PrimalItemArmor_ChitinPants_C","PrimalItemArmor_ChitinShirt_C","PrimalItemArmor_ChitinHelmet_C","PrimalItemArmor_ChitinBoots_C","PrimalItemArmor_ChitinGloves_C"),
@@ -80,7 +117,7 @@ ConfigOverrideSupplyCrateItems=(
 		),
 		(	
 			; Weapons
-			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.15,bItemsRandomWithoutReplacement=true,ItemEntries=(
+			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.12,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
 					EntryWeight=0.71,
 					ItemClassStrings=("PrimalItem_WeaponMetalPick_C","PrimalItem_WeaponMetalHatchet_C","PrimalItem_WeaponPike_C"),
@@ -117,7 +154,7 @@ ConfigOverrideSupplyCrateItems=(
 		),
 		(	
 			; POTION
-			MinNumItems=2,MaxNumItems=3,NumItemsPower=1.0,SetWeight=0.18,bItemsRandomWithoutReplacement=true,ItemEntries=(
+			MinNumItems=2,MaxNumItems=3,NumItemsPower=1.0,SetWeight=0.17,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
 					EntryWeight=0.13,
 					ItemClassStrings=("PrimalItemConsumable_HealSoup_C"),
@@ -194,7 +231,7 @@ ConfigOverrideSupplyCrateItems=(
 		),
 		( 
 			; Resources
-			MinNumItems=2,MaxNumItems=3,NumItemsPower=1.0,SetWeight=0.14,bItemsRandomWithoutReplacement=true,ItemEntries=(
+			MinNumItems=2,MaxNumItems=3,NumItemsPower=1.0,SetWeight=0.13,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
 					EntryWeight=0.14,
 					ItemClassStrings=("PrimalItemConsumable_Narcotic_C","PrimalItemConsumable_Stimulant"),
@@ -296,24 +333,24 @@ ConfigOverrideSupplyCrateItems=(
 			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.12,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
 					EntryWeight=0.2,
-					ItemClassStrings=("PrimalItemConsumable_WaterJarCraftable_C","PrimalItem_WeaponCompass_C","PrimalItemStructure_CropPlot_Medium_C","PrimalItem_WeaponMagnifyingGlass_C","PrimalItemStructure_TreeTap_C"),
-					ItemsWeights=(.22,.22,.22,.17,.17),
+					ItemClassStrings=("PrimalItem_WeaponHandcuffs_C","PrimalItemConsumable_WaterJarCraftable_C","PrimalItem_WeaponCompass_C","PrimalItemStructure_CropPlot_Medium_C","PrimalItem_WeaponMagnifyingGlass_C","PrimalItemStructure_TreeTap_C","PrimalItemStructure_TurretBallista_C","PrimalItemStructure_TrophyBase_C","PrimalItemStructure_TrophyWall_C"),
+					ItemsWeights=(.12,.12,.12,.12,.10,.10,.10,.11,.11),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.75
 				),
 				(
 					EntryWeight=0.2,
-					ItemClassStrings=("PrimalItemStructure_StoneGateframe_C","PrimalItemStructure_StoneGate_C","PrimalItemStructure_MetalSpikeWall_C","PrimalItemStructure_MetalSign_C"),
-					ItemsWeights=(.25,.25,.25,.25),
+					ItemClassStrings=("PrimalItemStructure_StoneGateframe_C","PrimalItemStructure_StoneGate_C","PrimalItemStructure_MetalSpikeWall_C","PrimalItemStructure_MetalSign_C","PrimalItemStructure_TurretCatapult_C"),
+					ItemsWeights=(.2,.2,.2,.2,.2),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.75
 				),
 				(
 					EntryWeight=0.2,
-					ItemClassStrings=("PrimalItemStructure_StoneFloor_C","PrimalItemStructure_StoneDoor_C","PrimalItemStructure_StoneWallWithDoor_C","PrimalItemStructure_StoneWall_C","PrimalItemStructure_StoneCeiling_C","PrimalItemStructure_StonePillar_C","PrimalItemStructure_StoneWallWithWindow_C","PrimalItemStructure_StoneCeilingWithTrapdoor_C","PrimalItemStructure_StoneTrapdoor_C","PrimalItemStructure_StoneWindow_C"),
-					ItemsWeights=(.12,.09,.09,.12,.11,.11,.11,.09,.09,.09),
+					ItemClassStrings=("PrimalItemStructure_StoneFloor_C","PrimalItemStructure_StoneDoor_C","PrimalItemStructure_StoneWallWithDoor_C","PrimalItemStructure_StoneWall_C","PrimalItemStructure_StoneCeiling_C","PrimalItemStructure_StonePillar_C","PrimalItemStructure_StoneWallWithWindow_C","PrimalItemStructure_StoneCeilingWithTrapdoor_C","PrimalItemStructure_StoneTrapdoor_C","PrimalItemStructure_StoneWindow_C","PrimalItemStructure_StoneRailing_C"),
+					ItemsWeights=(.11,.09,.09,.11,.1,.1,.1,.08,.08,.08,.08),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=true,ChanceToBeBlueprintOverride=0.0
@@ -338,7 +375,7 @@ ConfigOverrideSupplyCrateItems=(
 		),
 		( 
 			; Saddle
-			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.12,bItemsRandomWithoutReplacement=true,ItemEntries=(
+			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.11,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
 					EntryWeight=0.58,
 					ItemClassStrings=("PrimalItemArmor_ScorpionSaddle_C","PrimalItemArmor_PteroSaddle_C","PrimalItemArmor_StegoSaddle_C","PrimalItemArmor_AnkyloSaddle_C"),

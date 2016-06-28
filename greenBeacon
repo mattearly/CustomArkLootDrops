@@ -6,12 +6,12 @@ ConfigOverrideSupplyCrateItems=(
 	ItemSets=(
 		( 
 			; Wooden Shack Blueprints
-			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.12,bItemsRandomWithoutReplacement=true,ItemEntries=(
+			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.11,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
 					EntryWeight=1.0,
 					ItemClassStrings=("PrimalItemStructure_WoodFloor_C","PrimalItemStructure_WoodDoor_C","PrimalItemStructure_WoodWallWithDoor_C","PrimalItemStructure_WoodCeilingWithTrapdoor_C","PrimalItemStructure_WoodCeilingWithTrapdoor_C","PrimalItemStructure_WoodWall_C","PrimalItemStructure_WoodCeiling_C","PrimalItemStructure_WoodLadder_C","PrimalItemStructure_WoodRamp_C","PrimalItemStructure_WoodSign_C","PrimalItemStructure_WoodSign_Large_C","PrimalItemStructure_WoodPillar_C","PrimalItemStructure_WoodCatwalk_C","PrimalItemStructure_WoodFenceFoundation_C","PrimalItemStructure_WoodWallWithWindow_C","PrimalItemStructure_WoodWindow_C"),
 					ItemsWeights=(1.0),
-					MinQuantity=2.0,MaxQuantity=2.0,
+					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				)
@@ -19,7 +19,7 @@ ConfigOverrideSupplyCrateItems=(
 		),
 		( 
 			; Wooden Shack
-			MinNumItems=5,MaxNumItems=5,NumItemsPower=1.0,SetWeight=0.10,bItemsRandomWithoutReplacement=true,ItemEntries=(
+			MinNumItems=5,MaxNumItems=5,NumItemsPower=1.0,SetWeight=0.13,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
 					EntryWeight=1.0,
 					ItemClassStrings=("PrimalItemStructure_WoodFloor_C"),
@@ -64,7 +64,7 @@ ConfigOverrideSupplyCrateItems=(
 		),
 		( 
 			; Advanced Wooden Shack
-			MinNumItems=5,MaxNumItems=5,NumItemsPower=1.0,SetWeight=0.17,bItemsRandomWithoutReplacement=true,ItemEntries=(
+			MinNumItems=5,MaxNumItems=5,NumItemsPower=1.0,SetWeight=0.12,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
 					EntryWeight=1.0,
 					ItemClassStrings=("PrimalItemStructure_WoodCeilingWithTrapdoor_C","PrimalItemStructure_WoodCeilingWithTrapdoor_C"),
@@ -84,7 +84,7 @@ ConfigOverrideSupplyCrateItems=(
 				(
 					EntryWeight=1.0,
 					ItemClassStrings=("PrimalItemStructure_WoodWallWithWindow_C","PrimalItemStructure_WoodWindow_C"),
-					ItemsWeights=(1.0),
+					ItemsWeights=(1.0,1.0),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
@@ -92,7 +92,7 @@ ConfigOverrideSupplyCrateItems=(
 				(
 					EntryWeight=1.0,
 					ItemClassStrings=("PrimalItemStructure_WoodSign_C","PrimalItemStructure_WoodSign_Large_C"),
-					ItemsWeights=(1.0),
+					ItemsWeights=(1.0,1.0),
 					MinQuantity=1.0,MaxQuantity=2.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
@@ -100,7 +100,7 @@ ConfigOverrideSupplyCrateItems=(
 				(
 					EntryWeight=1.0,
 					ItemClassStrings=("PrimalItemStructure_WoodPillar_C","PrimalItemStructure_WoodCatwalk_C","PrimalItemStructure_WoodFenceFoundation_C"),
-					ItemsWeights=(1.0),
+					ItemsWeights=(1.0,1.0,1.0),
 					MinQuantity=2.0,MaxQuantity=2.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
@@ -109,7 +109,7 @@ ConfigOverrideSupplyCrateItems=(
 		),
 		(	
 			; Hide Armor
-			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.07,bItemsRandomWithoutReplacement=true,ItemEntries=(
+			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.1,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
 					EntryWeight=0.75,
 					ItemClassStrings=("PrimalItemArmor_HidePants_C","PrimalItemArmor_HideShirt_C","PrimalItemArmor_HideHelmet_C","PrimalItemArmor_HideBoots_C","PrimalItemArmor_HideGloves_C"),

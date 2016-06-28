@@ -66,7 +66,7 @@ ConfigOverrideSupplyCrateItems=(
 			; Resources (Ammo)
 			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.20,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
-					EntryWeight=0.23,
+					EntryWeight=0.24,
 					ItemClassStrings=("PrimalItemAmmo_AdvancedBullet_C"),
 					ItemsWeights=(1.0),
 					MinQuantity=16.0,MaxQuantity=36.0,
@@ -82,7 +82,7 @@ ConfigOverrideSupplyCrateItems=(
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				),
 				(
-					EntryWeight=0.21,
+					EntryWeight=0.23,
 					ItemClassStrings=("PrimalItemAmmo_SimpleShotgunBullet_C"),
 					ItemsWeights=(1.0),
 					MinQuantity=12.0,MaxQuantity=24.0,
@@ -90,7 +90,7 @@ ConfigOverrideSupplyCrateItems=(
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				),
 				(
-					EntryWeight=0.21,
+					EntryWeight=0.23,
 					ItemClassStrings=("PrimalItemAmmo_SimpleRifleBullet_C"),
 					ItemsWeights=(1.0),
 					MinQuantity=12.0,MaxQuantity=24.0,
@@ -106,9 +106,9 @@ ConfigOverrideSupplyCrateItems=(
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				),
 				(
-					EntryWeight=0.03,
-					ItemClassStrings=("PrimalItemAmmo_AdvancedBullet_C"),
-					ItemsWeights=(1.0),
+					EntryWeight=0.04,
+					ItemClassStrings=("PrimalItemAmmo_AdvancedBullet_C","PrimalItemAmmo_ChainBola_C"),
+					ItemsWeights=(.7,.3),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=true,ChanceToBeBlueprintOverride=0.0
@@ -133,8 +133,8 @@ ConfigOverrideSupplyCrateItems=(
 			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.20,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
 					EntryWeight=0.30,
-					ItemClassStrings=("PrimalItem_WeaponTransGPS_C","PrimalItem_WeaponGPS_C","PrimalItemStructure_LamppostOmni_C","PrimalItemStructure_Lamppost_C"),
-					ItemsWeights=(.2,.40,.2,.2),
+					ItemClassStrings=("PrimalItem_WeaponTransGPS_C","PrimalItem_WeaponGPS_C","PrimalItemStructure_LamppostOmni_C","PrimalItemStructure_Lamppost_C","PrimalItemStructure_WarMap_C"),
+					ItemsWeights=(.15,.35,.2,.15,.15),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.75

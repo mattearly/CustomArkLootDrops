@@ -1,133 +1,41 @@
 Note: THIS IS NOT COMPLETE - This is basically my random personal notes and will likely be useless to others right now, and this will be the full sudo code later!
 
-white crate : 2 sets : double crates - upped quantity and quality
-
-	69% chance of camp site stuff : (2-4 items)
-		65% chance of 1-2 campfires
-		65% chance of 15-30 sparkpowder
-		45% chance of 1 full water jar (5% chance to be a blueprint)
-		50% chance of 1-2 sleeping bags (5% chance to be a blueprint)
-		55% chance of 20 raw meat
-		55% chance of 25-50 mejoberries
-		45% chance of 3-12 jerky/cooked mix
-		30% chance of 1-3 dodo eggs
-		33% chance of 1-3 dilo eggs
-		34% chance of 1-2 para eggs
-		60% chance of 1-2 medium crop plots (5% chance of blueprint)
-		35% chance of 1-5 fertilizer
-
-	65% chance of cloth armor : (1-3 items) 
-		all 5 cloth items added
-		12% chance of blueprint instead on each item. quality is improved, super high quality items exist but are rare
-
-	67% chance of weapons : (1-3 items)
-		mosts basics, rare chance of epics bows, arrows added, some narcotic added, rare epic torches added, rare chance of pike
-
-	64% chance of resources (2-4 items)
-		60% chance of 40-70 stone/wood mix
-		73% chance of 50-100 thatch
-		65% chance of 15-35 flint
-		65% chance of 34-70 fiber
-		30% chance of 125-200 hide
-		38% chacne of 75-100 chitin
-		25% chance of 18-29 crystal/metal mix
-
-	52% thatch house (5 items)
-		15 thatch walls
-		1 thatch doorway
-		1 thatch door
-		4 thatch foundations
-		4 thatch ceilings
-
-	62% chance of furniture
-		40% chance of 1-3 wooden signs (8% blueprint)
-		65% chance of 1-3 small box (5% blueprint)
-		65% chacne of 1-2 simple bed (8% blueprint)
-		25% chance of 1-3 standing torch (8% blueprint)
-		20% chance of 10-23 angler gel
-		65% chance of 50-100 sparkpowder
-		31% chance of 23-39 oil/pearl mix
-		20% chance of 15-30 polymer
-
-	70% chance of saddle (1 item)
-		20% chance of phiomia saddle (10% blueprint)
-		20% chance of parasaur saddle (10% blueprint)
-		10% chance of elixir of enlightenment
-		100% chance of 50-60 hide
-
-green crate : 1-2 set : sdouble crates - upped quantity and quality
-
-	64% chance of resources
-		29% chance of 1-4 egg mix (turtle trike raptor)
-	saddles
-		raptor trike dolphin turtle
-
-blue crate : 1-2 sets : double crates - upped quantity and quality
-
-	blues are BREWS - all potions will be in this crate deemed the potion crates
- 
- 	25% chance of resources
- 		29% chance of 1-6 egg mix (stego ankylo boa scorpion spider)
-
- 	x% chance of saddle
- 		scorp stego ankylo ptero
-
- purple crate : 1-2 sets : double crates - upped quantity and quality
-
- 	65% chance of ammo/eggs
- 		35% chance of egg mix
- 			sarco galli bronto carno pachy dimorph oviraptor terrorbird diplo
- 	55% chance of saddles
- 		carno sarco mammoth galli terrorbird protocopt rhino
-
-yellow crate : 1-2 sets : double crates - upped quantity and quality
-
-	65% chance of ammo/eggs
-		39% chance of eggs
-			argent kairuku Bronto Carno Oviraptor Terrorbird Diplo Boa
-	55% chance of saddle
-		megalodon diplo arthro manta direbear dunkleo beaver saber
-
-red crate : 1-2 sets : double crates - upped quantity and quality (not done yet)
-			eggs : rex spino quetz giga(rare)
-			saddles : argent rex direbear spino titanosuar(ultra rare)
-
 todo:  
 	add Turrets and Cannons
-		auto turret PrimalItemStructure_Turret lvl 60
-		ballista turret PrimalItemStructure_TurretBallista lvl 25
-			ballista bolt lvl 25
-			chain bola lvl 45
+		auto turret PrimalItemStructure_Turret lvl 60 (in red) - DONE
+		ballista turret PrimalItemStructure_TurretBallista lvl 25 (In Blue) - DONE
+			ballista bolt lvl 25 (bp in purple) - DONE
+			chain bola lvl 45 (bp in yellow) - DONE
 
-		minigun turret PrimalItemStructure_TurretMinigun lvl 85
-		catapult turret PrimalItemStructure_TurretCatapult lvl 30
-		rocket turret PrimalItemStructure_TurretRocket lvl 90
-		primitive cannon PrimalItemStructure_Cannon lvl 35
-			cannon ball PrimalItemAmmo_CannonBall lvl 35
+		minigun turret PrimalItemStructure_TurretMinigun lvl 85 (in red) - DONE
+		catapult turret PrimalItemStructure_TurretCatapult lvl 30 (in blue) - DONE
+		rocket turret PrimalItemStructure_TurretRocket lvl 90 (in red) - DONE
+		primitive cannon PrimalItemStructure_Cannon lvl 35 (in purple) - DONE
+			cannon ball PrimalItemAmmo_CannonBall lvl 35 (in purple) - DONE
 			
 	add table and chairs
 		wooden chair PrimalItemStructure_Furniture_WoodChair lvl 10 (in white) - DONE
 		wooden bench PrimalItemStructure_Furniture_WoodBench lvl 15 (in green) - DONE
 		wooden table PrimalItemStructure_Furniture_WoodTable 15 (in green) - DONE
 		basic gravestone PrimalItemStructure_Furniture_Gravestone lvl 15 (in green) - DONE
-		trophy base PrimalItemStructure_TrophyBase  lvl 20
-		trophy mount PrimalItemStructure_TrophyWall lvl 20
+		trophy base PrimalItemStructure_TrophyBase  lvl 20 (in blue) - DONE
+		trophy mount PrimalItemStructure_TrophyWall lvl 20 (in blue) - DONE
 
 	add wardrums PrimalItemStructure_Wardrums lvl 10 (in white) - DONE
-	add warmap PrimalItemStructure_WarMap lvl 50
-	add bunk bed PrimalItemStructure_Bed_Modern lvl 60
-	add stone fireplace lvl 30
-	add underwater mine lvl 75
+	add warmap PrimalItemStructure_WarMap lvl 50 (in yellow) - DONE
+	add bunk bed PrimalItemStructure_Bed_Modern lvl 60 (in red) - DONE
+	add stone fireplace lvl 30 (in purple) - DONE
+	add underwater mine lvl 75 (in red) - DONE
 	add wooden cage lvl 10 (in white) - DONE
-	add handcuffs lvl 25
-	add black pearl
-	add rhino horn
-	add absorbent substrate PrimalItemResource_SubstrateAbsorbent
+	add handcuffs lvl 25 (in blue) - DONE
+	add black pearl (in red) - DONE
+	add rhino horn (in purple) - DONE
+	add absorbent substrate PrimalItemResource_SubstrateAbsorbent (in red) - DONE
 	add rope ladder PrimalItemStructure_RopeLadder lvl 10 (in white) - DONE
-	add beer barrel lvl 35
-	add leech blood and potions lvl 20
-	add second story wood building parts
-	add second story stone building parts
+	add beer barrel lvl 35 (in purple) - DONE
+	add leech blood and potions lvl 20 - left out on purpose
+	add second story wood building parts (in green) - DONE
+	add second story stone building parts (in blue) - DONE
 	add any sloped walls and ceilings?
 
 Questions I have:

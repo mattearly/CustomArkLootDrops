@@ -109,7 +109,7 @@ ConfigOverrideSupplyCrateItems=(
 					EntryWeight=0.05,
 					ItemClassStrings=("PrimalItemConsumable_Seed_DefensePlant_C"),
 					ItemsWeights=(1.0),
-					MinQuantity=1.0,MaxQuantity=5.0,
+					MinQuantity=2.0,MaxQuantity=6.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				)
@@ -250,41 +250,9 @@ ConfigOverrideSupplyCrateItems=(
 			; Eggs
 			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.07,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
-					EntryWeight=0.21,
-					ItemClassStrings=("PrimalItemConsumable_Egg_Stego_C"),
-					ItemsWeights=(1.0),
-					MinQuantity=1.0,MaxQuantity=1.0,
-					MinQuality=1.0,MaxQuality=1.0,
-					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
-				),
-				(
-					EntryWeight=0.21,
-					ItemClassStrings=("PrimalItemConsumable_Egg_Ankylo_C"),
-					ItemsWeights=(1.0),
-					MinQuantity=1.0,MaxQuantity=1.0,
-					MinQuality=1.0,MaxQuality=1.0,
-					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
-				),
-				(
-					EntryWeight=0.21,
-					ItemClassStrings=("PrimalItemConsumable_Egg_Boa_C"),
-					ItemsWeights=(1.0),
-					MinQuantity=1.0,MaxQuantity=1.0,
-					MinQuality=1.0,MaxQuality=1.0,
-					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
-				),
-				(
-					EntryWeight=0.21,
-					ItemClassStrings=("PrimalItemConsumable_Egg_Scorpion_C"),
-					ItemsWeights=(1.0),
-					MinQuantity=1.0,MaxQuantity=1.0,
-					MinQuality=1.0,MaxQuality=1.0,
-					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
-				),
-				(
-					EntryWeight=0.16,
-					ItemClassStrings=("PrimalItemConsumable_Egg_Spider_C"),
-					ItemsWeights=(1.0),
+					EntryWeight=1.0,
+					ItemClassStrings=("PrimalItemConsumable_Egg_Stego_C","PrimalItemConsumable_Egg_Ankylo_C","PrimalItemConsumable_Egg_Boa_C","PrimalItemConsumable_Egg_Scorpion_C","PrimalItemConsumable_Egg_Spider_C"),
+					ItemsWeights=(0.25,0.25,0.25,0.25),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
@@ -296,16 +264,16 @@ ConfigOverrideSupplyCrateItems=(
 			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.12,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
 					EntryWeight=0.2,
-					ItemClassStrings=("PrimalItemConsumable_WaterJarCraftable_C","PrimalItem_WeaponCompass_C","PrimalItemStructure_CropPlot_Medium_C","PrimalItem_WeaponMagnifyingGlass_C","PrimalItemStructure_TreeTap_C"),
-					ItemsWeights=(.22,.22,.22,.17,.17),
+					ItemClassStrings=("PrimalItemConsumable_WaterJarCraftable_C","PrimalItem_WeaponCompass_C","PrimalItemStructure_CropPlot_Medium_C","PrimalItem_WeaponMagnifyingGlass_C","PrimalItemStructure_TreeTap_C","PrimalItemStructure_TurretBallista_C"),
+					ItemsWeights=(UPDATE),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.75
 				),
 				(
 					EntryWeight=0.2,
-					ItemClassStrings=("PrimalItemStructure_StoneGateframe_C","PrimalItemStructure_StoneGate_C","PrimalItemStructure_MetalSpikeWall_C","PrimalItemStructure_MetalSign_C"),
-					ItemsWeights=(.25,.25,.25,.25),
+					ItemClassStrings=("PrimalItemStructure_StoneGateframe_C","PrimalItemStructure_StoneGate_C","PrimalItemStructure_MetalSpikeWall_C","PrimalItemStructure_MetalSign_C","PrimalItemStructure_TrophyBase_C","PrimalItemStructure_TrophyWall_C"),
+					ItemsWeights=(UPDATE),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.75

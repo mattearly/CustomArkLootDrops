@@ -180,17 +180,25 @@ ConfigOverrideSupplyCrateItems=(
 			; Trinkets and Odds blueprints 
 			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.07,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
-					EntryWeight=0.65,
-					ItemClassStrings=("PrimalItemStructure_Turret_C","PrimalItemStructure_MetalGateframe_Large_C","PrimalItemStructure_MetalGate_Large_C","PrimalItemStructure_TreePlatform_Metal_C"),
+					EntryWeight=0.55,
+					ItemClassStrings=("PrimalItemStructure_WarMap_C","PrimalItemStructure_MetalGateframe_Large_C","PrimalItemStructure_MetalGate_Large_C","PrimalItemStructure_TreePlatform_Metal_C"),
 					ItemsWeights=(.25,.25,.25,.25),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.75
 				),
 				(
-					EntryWeight=0.35,
-					ItemClassStrings=("PrimalItemStructure_IndustrialForge_C","PrimalItemStructure_ChemBench_C","PrimalItemStructure_Grill_C","PrimalItemStructure_IndustrialCookingPot_C","PrimalItemStructure_StorageBox_Huge_C"),
-					ItemsWeights=(.2,.2,.2,.2,.2),
+					EntryWeight=0.20,
+					ItemClassStrings=("PrimalItemStructure_IndustrialForge_C","PrimalItemStructure_ChemBench_C","PrimalItemStructure_Grill_C","PrimalItemStructure_IndustrialCookingPot_C","PrimalItemStructure_StorageBox_Huge_C","PrimalItemStructure_Bed_Modern_C"),
+					ItemsWeights=(UPDATE),
+					MinQuantity=1.0,MaxQuantity=1.0,
+					MinQuality=1.0,MaxQuality=1.0,
+					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.75
+				),
+				(
+					EntryWeight=0.25,
+					ItemClassStrings=("PrimalItemStructure_Turret_C","PrimalItemStructure_Turret_C","PrimalItemStructure_TurretMinigun_C","PrimalItemStructure_TurretRocket_C"),
+					ItemsWeights=(UPDATE),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.75

@@ -107,8 +107,8 @@ ConfigOverrideSupplyCrateItems=(
 				),
 				(
 					EntryWeight=0.03,
-					ItemClassStrings=("PrimalItemAmmo_AdvancedBullet_C"),
-					ItemsWeights=(1.0),
+					ItemClassStrings=("PrimalItemAmmo_AdvancedBullet_C","PrimalItemAmmo_ChainBola_C"),
+					ItemsWeights=(UPDATE),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=true,ChanceToBeBlueprintOverride=0.0

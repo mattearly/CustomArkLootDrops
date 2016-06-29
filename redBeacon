@@ -198,7 +198,7 @@ ConfigOverrideSupplyCrateItems=(
 				(
 					EntryWeight=0.20,
 					ItemClassStrings=("PrimalItemStructure_IndustrialForge_C","PrimalItemStructure_ChemBench_C","PrimalItemStructure_Grill_C","PrimalItemStructure_IndustrialCookingPot_C","PrimalItemStructure_StorageBox_Huge_C","PrimalItemStructure_Bed_Modern_C"),
-					ItemsWeights=(UPDATE),
+					ItemsWeights=(0.17,0.17,0.17,0.17,,0.16,0.16),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.75
@@ -206,7 +206,7 @@ ConfigOverrideSupplyCrateItems=(
 				(
 					EntryWeight=0.25,
 					ItemClassStrings=("PrimalItemStructure_Turret_C","PrimalItemStructure_Turret_C","PrimalItemStructure_TurretMinigun_C","PrimalItemStructure_TurretRocket_C","PrimalItemStructure_SeaMine_C"),
-					ItemsWeights=(UPDATE),
+					ItemsWeights=(0.2,0.2,0.2,0.2,0.2),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.75

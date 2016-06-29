@@ -10,7 +10,7 @@ ConfigOverrideSupplyCrateItems=(
 				(
 					EntryWeight=1.0,
 					ItemClassStrings=("PrimalItemStructure_WoodFloor_C","PrimalItemStructure_WoodDoor_C","PrimalItemStructure_WoodWallWithDoor_C","PrimalItemStructure_WoodCeilingWithTrapdoor_C","PrimalItemStructure_WoodCeilingWithTrapdoor_C","PrimalItemStructure_WoodWall_C","PrimalItemStructure_WoodCeiling_C","PrimalItemStructure_WoodLadder_C","PrimalItemStructure_WoodRamp_C","PrimalItemStructure_WoodSign_C","PrimalItemStructure_WoodSign_Large_C","PrimalItemStructure_WoodPillar_C","PrimalItemStructure_WoodCatwalk_C","PrimalItemStructure_WoodFenceFoundation_C","PrimalItemStructure_WoodWallWithWindow_C","PrimalItemStructure_WoodWindow_C","PrimalItemStructure_WoodRailing_C"),
-					ItemsWeights=(UPDATE),
+					ItemsWeights=(0.06,0.06,0.06,0.06,0.06,0.06,0.06,0.06,0.06,0.06,0.06,0.06,0.06,0.06,0.06,0.05,0.05),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0

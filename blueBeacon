@@ -294,7 +294,7 @@ ConfigOverrideSupplyCrateItems=(
 				(
 					EntryWeight=0.2,
 					ItemClassStrings=("PrimalItemConsumable_WaterJarCraftable_C","PrimalItem_WeaponCompass_C","PrimalItemStructure_CropPlot_Medium_C","PrimalItem_WeaponMagnifyingGlass_C","PrimalItemStructure_TreeTap_C","PrimalItem_WeaponHandcuffs_C"),
-					ItemsWeights=(UPDATE),
+					ItemsWeights=(0.17,0.17,0.17,0.17,0.16,0.16),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.75
@@ -302,7 +302,7 @@ ConfigOverrideSupplyCrateItems=(
 				(
 					EntryWeight=0.2,
 					ItemClassStrings=("PrimalItemStructure_StoneGateframe_C","PrimalItemStructure_StoneGate_C","PrimalItemStructure_MetalSpikeWall_C","PrimalItemStructure_MetalSign_C","PrimalItemStructure_TrophyBase_C","PrimalItemStructure_TrophyWall_C","PrimalItemStructure_TurretBallista_C"),
-					ItemsWeights=(UPDATE),
+					ItemsWeights=(0.15,0.15,0.14,0.14,0.14,0.14,0.14),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.75
@@ -310,7 +310,7 @@ ConfigOverrideSupplyCrateItems=(
 				(
 					EntryWeight=0.2,
 					ItemClassStrings=("PrimalItemStructure_StoneFloor_C","PrimalItemStructure_StoneDoor_C","PrimalItemStructure_StoneWallWithDoor_C","PrimalItemStructure_StoneWall_C","PrimalItemStructure_StoneCeiling_C","PrimalItemStructure_StonePillar_C","PrimalItemStructure_StoneWallWithWindow_C","PrimalItemStructure_StoneCeilingWithTrapdoor_C","PrimalItemStructure_StoneTrapdoor_C","PrimalItemStructure_StoneWindow_C","PrimalItemStructure_StoneRailing_C"),
-					ItemsWeights=(UPDATE),
+					ItemsWeights=(.12,.11,.11,.11,.11,.11,.11,.11,.11),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=true,ChanceToBeBlueprintOverride=0.0
@@ -318,7 +318,7 @@ ConfigOverrideSupplyCrateItems=(
 				(
 					EntryWeight=0.2,
 					ItemClassStrings=("PrimalItemStructure_MetalPipeIntake_C","PrimalItemStructure_MetalPipeIntersection_C","PrimalItemStructure_MetalPipeIncline_C","PrimalItemStructure_MetalPipeIntersection_C","PrimalItemStructure_MetalPipeVertical_C","PrimalItemStructure_MetalPipeTap_C"),
-					ItemsWeights=(0.16,0.17,0.16,0.16,0.16,0.16),
+					ItemsWeights=(0.17,0.17,0.17,0.17,0.16,0.16),
 					MinQuantity=5.0,MaxQuantity=8.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0

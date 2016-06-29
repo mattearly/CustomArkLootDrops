@@ -87,7 +87,7 @@ ConfigOverrideSupplyCrateItems=(
 				(
 					EntryWeight=0.05,
 					ItemClassStrings=("PrimalItemAmmo_SimpleBullet_C","PrimalItemAmmo_SimpleShotgunBullet_C","PrimalItemAmmo_SimpleRifleBullet_C","PrimalItemAmmo_ArrowStone_C","PrimalItemAmmo_ArrowTranq_C","PrimalItem_WeaponGrenade_C","PrimalItemAmmo_BallistaArrow_C","PrimalItemAmmo_CannonBall_C"),
-					ItemsWeights=(UPDATE),
+					ItemsWeights=(0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=true,ChanceToBeBlueprintOverride=0.0
@@ -113,7 +113,7 @@ ConfigOverrideSupplyCrateItems=(
 				(
 					EntryWeight=0.25,
 					ItemClassStrings=("PrimalItemStructure_Fabricator_C","PrimalItemStructure_CropPlot_Large_C","PrimalItemStructure_Grill_C","PrimalItemStructure_PowerGenerator_C","PrimalItemStructure_TreePlatform_Wood_C","PrimalItemStructure_Fireplace_C","PrimalItemStructure_BeerBarrel_C"),
-					ItemsWeights=(UPDATE),
+					ItemsWeights=(0.17,0.17,0.17,0.17,0.17,0.16,0.16),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.75

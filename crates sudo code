@@ -20,8 +20,8 @@ todo:
 		trophy mount PrimalItemStructure_TrophyWall lvl 20 BLUE
 
 	add warmap PrimalItemStructure_WarMap lvl 50 RED
-	add bunk bed PrimalItemStructure_Bed_Modern lvl 60
-	add stone fireplace lvl 30
+	add bunk bed PrimalItemStructure_Bed_Modern lvl 60 RED
+	add stone fireplace lvl 30 PURPLE
 	add underwater mine lvl 75
 	add handcuffs lvl 25
 	add black pearl

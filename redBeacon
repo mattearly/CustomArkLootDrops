@@ -167,9 +167,17 @@ ConfigOverrideSupplyCrateItems=(
 			; EGGS
 			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.12,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
-					EntryWeight=1.0,
+					EntryWeight=0.5,
 					ItemClassStrings=("PrimalItemConsumable_Egg_Rex_C","PrimalItemConsumable_Egg_Spino_C","PrimalItemConsumable_Egg_Quetz_C", "PrimalItemConsumable_Egg_Gigant_C"),
 					ItemsWeights=(0.33,0.33,0.33,0.01),
+					MinQuantity=1.0,MaxQuantity=1.0,
+					MinQuality=1.0,MaxQuality=1.0,
+					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
+				),
+				(
+					EntryWeight=0.5,
+					ItemClassStrings=("PrimalItemResource_BlackPearl_C","PrimalItemResource_SubstrateAbsorbent_C"),
+					ItemsWeights=(0.5,0.5),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
@@ -197,7 +205,7 @@ ConfigOverrideSupplyCrateItems=(
 				),
 				(
 					EntryWeight=0.25,
-					ItemClassStrings=("PrimalItemStructure_Turret_C","PrimalItemStructure_Turret_C","PrimalItemStructure_TurretMinigun_C","PrimalItemStructure_TurretRocket_C"),
+					ItemClassStrings=("PrimalItemStructure_Turret_C","PrimalItemStructure_Turret_C","PrimalItemStructure_TurretMinigun_C","PrimalItemStructure_TurretRocket_C","PrimalItemStructure_SeaMine_C"),
 					ItemsWeights=(UPDATE),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.0,MaxQuality=1.0,

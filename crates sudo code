@@ -22,15 +22,15 @@ todo:
 	add warmap PrimalItemStructure_WarMap lvl 50 RED
 	add bunk bed PrimalItemStructure_Bed_Modern lvl 60 RED
 	add stone fireplace lvl 30 PURPLE
-	add underwater mine lvl 75
-	add handcuffs lvl 25
-	add black pearl
-	add rhino horn
-	add absorbent substrate PrimalItemResource_SubstrateAbsorbent
-	add beer barrel lvl 35
-	add leech blood and potions lvl 20
-	add second story wood building parts
-	add second story stone building parts
+	add underwater mine lvl 75 RED
+	add handcuffs lvl 25 BLUE
+	add black pearl RED
+	add rhino horn YELLOW
+	add absorbent substrate PrimalItemResource_SubstrateAbsorbent RED
+	add beer barrel lvl 35 PURPLE
+	add leech blood and potions lvl 20 - LEFT OUT
+	add second story wood building parts - DONE
+	add second story stone building parts - DONE
 	add any sloped walls and ceilings?
 
 

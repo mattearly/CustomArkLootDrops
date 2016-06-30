@@ -197,7 +197,7 @@
 ### Set 6 | 14% | Resources | 2 to 3 Items
 
 * 10% - 35-65 Narcotic + Stimulant Mix
-* 18% - 45-100 Cementing Paste
+* 18% - 45-110 Cementing Paste
 * 13% - 15-25 Crystal + Metal Ingot Mix
 * 17% - 18-65 Polymer
 * 17% - 22-65 Pelt

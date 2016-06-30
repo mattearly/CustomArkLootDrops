@@ -1,4 +1,3 @@
-#bytePro17124's Balanced World Beacon Loot Logic  
 **Info:** Each Beacon will drop 1 to 2 sets of items. These sets can contain either single or multiple items as shown below. Every once in a while (approx 10% of the time) a crate will be a 'Double', which will drop 2 to 3 sets of items. The Double crates will also have increased quality of any items it contains that have the quality stat (approx. 30% better quality).  
 ## White Beacon  
 

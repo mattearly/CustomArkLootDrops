@@ -264,26 +264,26 @@
 * 20% - 1 Mid Quality Machined Pistol, Longneck Rifle, or Double-Barrel Shotgun (50% Blueprint Chance)
 * 5% - 1 High Quality Machined Pistol, Longneck Rifle, or Double-Barrel Shotgun (60% Blueprint Chance)
 
-### Set 2 | 20% | Flak Armor | 1 Item
+### Set 2 | 18% | Flak Armor | 1 Item
 
 * 75% - 1 Low Quality Flak Pants, Shirt, Helmet, Boots, or Gloves (40% Blueprint Chance)  
 * 20% - 1 Mid Quality Flak Pants, Shirt, Helmet, Boots, or Gloves (50% Blueprint Chance)  
 * 5% - 1 High Quality Flak Pants, Shirt, Helmet, Boots, or Gloves (60% Blueprint Chance)
 
-### Set 3 | 20% | Ammo | 1 Item
+### Set 3 | 19% | Ammo | 1 Item
 
-* 24% - 16-36 Advanced Bullet
-* 10% - 8-16 Tranq Dart
+* 22% - 16-36 Advanced Bullet
+* 19% - 8-16 Tranq Dart
 * 20% - 12-24 Shotgun Bullet
-* 28% - 12-24 Simple Rifle Bullet
-* 14% - 60-110 Advanced Bullet + Shotgun Bullet + Simple Rifle Bullet + c4 Tripwire + Grappling Hook Mix (Gunner Pack)
-* 3% - 1 Advanced Bullet, Chain Bola, Transponder Node, Grappling Hook, or c4 Tripwire Blueprint
+* 25% - 12-24 Simple Rifle Bullet
+* 10% - 55-105 Advanced Bullet + Shotgun Bullet + Simple Rifle Bullet + c4 Tripwire + Grappling Hook Mix (Gunner Pack)
+* 4% - 1 Advanced Bullet, Chain Bola, Transponder Node, Grappling Hook, or c4 Tripwire Blueprint
 
 ### Set 4 | 8% | Eggs | 1 Item
 
 * 1 Argent, Kairuku, Carno, Oviraptor, Terrorbird, or Boa Egg, or Rhino Horn
 
-### Set 5 | 20% | Trickets and Odds | 1 Item
+### Set 5 | 23% | Trinkets and Odds | 1 Item
 
 * 30% - 1 Transponder Tracker, GPS, Omni Lampost, Lampost, Canteen, or C4 Detonator (75% Blueprint Chance)
 * 16% - 1 Industrial Cooker, Fabricator, Metal Water Tank, Industrial Grill, Refrigerator, or Air Conditioner (80% Blueprint Chance)

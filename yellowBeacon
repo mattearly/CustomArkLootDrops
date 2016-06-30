@@ -8,7 +8,7 @@ ConfigOverrideSupplyCrateItems=(
 			; Weapons
 			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.13,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
-					EntryWeight=0.73,
+					EntryWeight=0.75,
 					ItemClassStrings=("PrimalItem_WeaponMachinedPistol_C","PrimalItem_WeaponOneShotRifle_C","PrimalItem_WeaponShotgun_C"),
 					ItemsWeights=(0.4,0.3,0.3),
 					MinQuantity=1.0,MaxQuantity=1.0,
@@ -16,7 +16,7 @@ ConfigOverrideSupplyCrateItems=(
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.40
 				),
 				(
-					EntryWeight=0.22,
+					EntryWeight=0.20,
 					ItemClassStrings=("PrimalItem_WeaponMachinedPistol_C","PrimalItem_WeaponOneShotRifle_C","PrimalItem_WeaponShotgun_C"),
 					ItemsWeights=(0.4,0.3,0.3),
 					MinQuantity=1.0,MaxQuantity=1.0,
@@ -28,7 +28,7 @@ ConfigOverrideSupplyCrateItems=(
 					ItemClassStrings=("PrimalItem_WeaponMachinedPistol_C","PrimalItem_WeaponOneShotRifle_C","PrimalItem_WeaponShotgun_C"),
 					ItemsWeights=(0.4,0.3,0.3),
 					MinQuantity=1.0,MaxQuantity=1.0,
-					MinQuality=2.0,MaxQuality=2.6,
+					MinQuality=2.0,MaxQuality=2.7,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.60
 				)
 			)
@@ -37,7 +37,7 @@ ConfigOverrideSupplyCrateItems=(
 			; FLAK Armor
 			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.20,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
-					EntryWeight=0.73,
+					EntryWeight=0.75,
 					ItemClassStrings=("PrimalItemArmor_MetalPants_C","PrimalItemArmor_MetalShirt_C","PrimalItemArmor_MetalHelmet_C","PrimalItemArmor_MetalBoots_C","PrimalItemArmor_MetalGloves_C"),
 					ItemsWeights=(.2,.2,.2,.2,.2),
 					MinQuantity=1.0,MaxQuantity=1.0,
@@ -45,7 +45,7 @@ ConfigOverrideSupplyCrateItems=(
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.40
 				),
 				(
-					EntryWeight=0.22,
+					EntryWeight=0.20,
 					ItemClassStrings=("PrimalItemArmor_MetalPants_C","PrimalItemArmor_MetalShirt_C","PrimalItemArmor_MetalHelmet_C","PrimalItemArmor_MetalBoots_C","PrimalItemArmor_MetalGloves_C"),
 					ItemsWeights=(.2,.2,.2,.2,.2),
 					MinQuantity=1.0,MaxQuantity=1.0,
@@ -57,7 +57,7 @@ ConfigOverrideSupplyCrateItems=(
 					ItemClassStrings=("PrimalItemArmor_MetalPants_C","PrimalItemArmor_MetalShirt_C","PrimalItemArmor_MetalHelmet_C","PrimalItemArmor_MetalBoots_C","PrimalItemArmor_MetalGloves_C"),
 					ItemsWeights=(.2,.2,.2,.2,.2),
 					MinQuantity=1.0,MaxQuantity=1.0,
-					MinQuality=2.0,MaxQuality=2.6,
+					MinQuality=2.0,MaxQuality=2.7,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.60
 				)
 			)
@@ -66,7 +66,7 @@ ConfigOverrideSupplyCrateItems=(
 			; Resources (Ammo)
 			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.20,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
-					EntryWeight=0.23,
+					EntryWeight=0.24,
 					ItemClassStrings=("PrimalItemAmmo_AdvancedBullet_C"),
 					ItemsWeights=(1.0),
 					MinQuantity=16.0,MaxQuantity=36.0,
@@ -74,7 +74,7 @@ ConfigOverrideSupplyCrateItems=(
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				),
 				(
-					EntryWeight=0.16,
+					EntryWeight=0.10,
 					ItemClassStrings=("PrimalItemAmmo_TranqDart_C"),
 					ItemsWeights=(1.0),
 					MinQuantity=8.0,MaxQuantity=16.0,
@@ -82,7 +82,7 @@ ConfigOverrideSupplyCrateItems=(
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				),
 				(
-					EntryWeight=0.21,
+					EntryWeight=0.20,
 					ItemClassStrings=("PrimalItemAmmo_SimpleShotgunBullet_C"),
 					ItemsWeights=(1.0),
 					MinQuantity=12.0,MaxQuantity=24.0,
@@ -90,7 +90,7 @@ ConfigOverrideSupplyCrateItems=(
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				),
 				(
-					EntryWeight=0.21,
+					EntryWeight=0.28,
 					ItemClassStrings=("PrimalItemAmmo_SimpleRifleBullet_C"),
 					ItemsWeights=(1.0),
 					MinQuantity=12.0,MaxQuantity=24.0,
@@ -98,17 +98,17 @@ ConfigOverrideSupplyCrateItems=(
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				),
 				(
-					EntryWeight=0.10,
-					ItemClassStrings=("PrimalItemAmmo_AdvancedBullet_C","PrimalItemAmmo_SimpleShotgunBullet_C","PrimalItemAmmo_SimpleRifleBullet_C"),
-					ItemsWeights=(0.4,0.3,0.3),
+					EntryWeight=0.15,
+					ItemClassStrings=("PrimalItemAmmo_AdvancedBullet_C","PrimalItemAmmo_SimpleShotgunBullet_C","PrimalItemAmmo_SimpleRifleBullet_C","PrimalItemAmmo_GrapplingHook_C","PrimalItem_WeaponTripwireC4_C"),
+					ItemsWeights=(0.15,0.25,0.4,.1,.1),
 					MinQuantity=60.0,MaxQuantity=110.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				),
 				(
 					EntryWeight=0.03,
-					ItemClassStrings=("PrimalItemAmmo_AdvancedBullet_C"),
-					ItemsWeights=(1.0),
+					ItemClassStrings=("PrimalItemAmmo_AdvancedBullet_C","PrimalItemAmmo_ChainBola_C","PrimalItemTransGPSAmmo_C","PrimalItemAmmo_GrapplingHook_C","PrimalItem_WeaponTripwireC4_C"),
+					ItemsWeights=(.2,.2,.2,.2,.2),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=true,ChanceToBeBlueprintOverride=0.0
@@ -120,8 +120,8 @@ ConfigOverrideSupplyCrateItems=(
 			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.08,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
 					EntryWeight=1.0,
-					ItemClassStrings=("PrimalItemConsumable_Egg_Argent_C","PrimalItemConsumable_Egg_Kairuku_C","PrimalItemConsumable_Egg_Bronto_C", "PrimalItemConsumable_Egg_Carno_C","PrimalItemConsumable_Egg_Oviraptor_C","PrimalItemConsumable_Egg_TerrorBird_C","PrimalItemConsumable_Egg_Diplo_C","PrimalItemConsumable_Egg_Boa_C"),
-					ItemsWeights=(.13,.13,.13,.13,.12,.12,.12,.12),
+					ItemClassStrings=("PrimalItemConsumable_Egg_Argent_C","PrimalItemConsumable_Egg_Kairuku_C", "PrimalItemConsumable_Egg_Carno_C","PrimalItemConsumable_Egg_Oviraptor_C","PrimalItemConsumable_Egg_TerrorBird_C","PrimalItemConsumable_Egg_Boa_C","PrimalItemResource_Horn_C"),
+					ItemsWeights=(.12,.11,.11,.11,.11,.11,.11,.11,.11),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
@@ -133,14 +133,14 @@ ConfigOverrideSupplyCrateItems=(
 			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.20,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
 					EntryWeight=0.30,
-					ItemClassStrings=("PrimalItem_WeaponTransGPS_C","PrimalItem_WeaponGPS_C","PrimalItemStructure_LamppostOmni_C","PrimalItemStructure_Lamppost_C"),
-					ItemsWeights=(.2,.40,.2,.2),
+					ItemClassStrings=("PrimalItem_WeaponTransGPS_C","PrimalItem_WeaponGPS_C","PrimalItemStructure_LamppostOmni_C","PrimalItemStructure_Lamppost_C","PrimalItemConsumable_CanteenCraftable_C","PrimalItem_WeaponC4_C"),
+					ItemsWeights=(.15,.23,.18,.16,.18,.1),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.75
 				),
 				(
-					EntryWeight=0.1,
+					EntryWeight=0.16,
 					ItemClassStrings=("PrimalItemStructure_IndustrialCookingPot_C","PrimalItemStructure_Fabricator_C","PrimalItemStructure_WaterTankMetal_C","PrimalItemStructure_Grill_C","PrimalItemStructure_IceBox_C","PrimalItemStructure_AirConditioner_C"),
 					ItemsWeights=(.14,.18,.18,.15,.18,.18),
 					MinQuantity=1.0,MaxQuantity=1.0,
@@ -148,7 +148,7 @@ ConfigOverrideSupplyCrateItems=(
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.80
 				),
 				(
-					EntryWeight=0.15,
+					EntryWeight=0.17,
 					ItemClassStrings=("PrimalItemStructure_MetalGate_C","PrimalItemStructure_MetalGateframe_C"),
 					ItemsWeights=(.5,.5),
 					MinQuantity=1.0,MaxQuantity=1.0,
@@ -156,20 +156,28 @@ ConfigOverrideSupplyCrateItems=(
 					bForceBlueprint=true,ChanceToBeBlueprintOverride=0.0
 				),
 				(
-					EntryWeight=0.30,
-					ItemClassStrings=("PrimalItemTransGPSAmmo_C","PrimalItemAmmo_GrapplingHook_C","PrimalItem_WeaponTripwireC4_C"),
-					ItemsWeights=(0.4,0.6,0.4),
-					MinQuantity=1.0,MaxQuantity=4.0,
+					EntryWeight=0.13,
+					ItemClassStrings=("PrimalItemTransGPSAmmo_C"),
+					ItemsWeights=(1.0),
+					MinQuantity=1.0,MaxQuantity=2.0,
 					MinQuality=1.0,MaxQuality=1.0,
-					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.04
+					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				),
 				(
 					EntryWeight=0.20,
 					ItemClassStrings=("PrimalItemStructure_PowerOutlet_C","PrimalItemStructure_PowerCableIncline_C","PrimalItemStructure_PowerCableIntersection_C","PrimalItemStructure_PowerCableStraight_C","PrimalItemStructure_PowerCableVertical_C"),
-					ItemsWeights=(0.5,0.5,0.6,0.6,0.6),
-					MinQuantity=1.0,MaxQuantity=4.0,
+					ItemsWeights=(.2,.2,.2,.2,.2),
+					MinQuantity=2.0,MaxQuantity=5.0,
 					MinQuality=1.0,MaxQuality=1.0,
-					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.1
+					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.00
+				),
+				(
+					EntryWeight=0.04,
+					ItemClassStrings=("PrimalItemStructure_PowerOutlet_C","PrimalItemStructure_PowerCableIncline_C","PrimalItemStructure_PowerCableIntersection_C","PrimalItemStructure_PowerCableStraight_C","PrimalItemStructure_PowerCableVertical_C"),
+					ItemsWeights=(.2,.2,.2,.2,.2),
+					MinQuantity=1.0,MaxQuantity=1.0,
+					MinQuality=1.0,MaxQuality=1.0,
+					bForceBlueprint=true,ChanceToBeBlueprintOverride=0.00
 				)
 			)
 		),
@@ -177,7 +185,7 @@ ConfigOverrideSupplyCrateItems=(
 			; Saddles
 			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.20,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
-					EntryWeight=0.61,
+					EntryWeight=0.72,
 					ItemClassStrings=("PrimalItemArmor_MegalodonSaddle_C","PrimalItemArmor_DiplodocusSaddle_C","PrimalItemArmor_ArthroSaddle_C","PrimalItemArmor_MantaSaddle_C","PrimalItemArmor_SaberSaddle_C","PrimalItemArmor_DunkleosteusSaddle_C","PrimalItemArmor_BeaverSaddle_C"),
 					ItemsWeights=(.14,.14,.15,.14,.15,.14,.14),
 					MinQuantity=1.0,MaxQuantity=1.0,
@@ -185,7 +193,7 @@ ConfigOverrideSupplyCrateItems=(
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.40
 				),
 				(
-					EntryWeight=0.21,
+					EntryWeight=0.20,
 					ItemClassStrings=("PrimalItemArmor_MegalodonSaddle_C","PrimalItemArmor_DiplodocusSaddle_C","PrimalItemArmor_ArthroSaddle_C","PrimalItemArmor_MantaSaddle_C","PrimalItemArmor_SaberSaddle_C","PrimalItemArmor_DunkleosteusSaddle_C","PrimalItemArmor_BeaverSaddle_C"),
 					ItemsWeights=(.14,.14,.15,.14,.15,.14,.14),
 					MinQuantity=1.0,MaxQuantity=1.0,
@@ -193,15 +201,15 @@ ConfigOverrideSupplyCrateItems=(
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.50
 				),
 				(
-					EntryWeight=0.04,
+					EntryWeight=0.03,
 					ItemClassStrings=("PrimalItemArmor_MegalodonSaddle_C","PrimalItemArmor_DiplodocusSaddle_C","PrimalItemArmor_ArthroSaddle_C","PrimalItemArmor_MantaSaddle_C","PrimalItemArmor_SaberSaddle_C","PrimalItemArmor_DunkleosteusSaddle_C","PrimalItemArmor_BeaverSaddle_C"),
 					ItemsWeights=(.14,.14,.15,.14,.15,.14,.14),
 					MinQuantity=1.0,MaxQuantity=1.0,
-					MinQuality=2.0,MaxQuality=2.6,
+					MinQuality=2.0,MaxQuality=2.7,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.60
 				),
 				(
-					EntryWeight=0.14,
+					EntryWeight=0.05,
 					ItemClassStrings=("PrimalItemConsumable_TheHorn_C"),
 					ItemsWeights=(1.0),
 					MinQuantity=1.0,MaxQuantity=3.0,

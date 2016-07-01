@@ -170,7 +170,7 @@ ConfigOverrideSupplyCrateItems=(
 		),
 		( 
 			; Trinkets and Odds blueprints 
-			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.07,bItemsRandomWithoutReplacement=true,ItemEntries=(
+			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.10,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
 					EntryWeight=0.25,
 					ItemClassStrings=("PrimalItemStructure_MetalGateframe_Large_C","PrimalItemStructure_MetalGate_Large_C","PrimalItemStructure_TreePlatform_Metal_C"),

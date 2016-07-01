@@ -100,7 +100,7 @@ ConfigOverrideSupplyCrateItems=(
 				(
 					EntryWeight=1.0,
 					ItemClassStrings=("PrimalItemConsumable_Egg_Sarco_C","PrimalItemConsumable_Egg_Galli_C","PrimalItemConsumable_Egg_Bronto_C","PrimalItemConsumable_Egg_Pachy_C","PrimalItemConsumable_Egg_Dimorph_C","PrimalItemConsumable_Egg_Diplo_C"),
-					ItemsWeights=(0.17,0.17,0.17,0.17,,0.16,0.16),
+					ItemsWeights=(0.17,0.17,0.17,0.17,0.16,0.16),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
@@ -113,7 +113,7 @@ ConfigOverrideSupplyCrateItems=(
 				(
 					EntryWeight=0.23,
 					ItemClassStrings=("PrimalItemStructure_Fabricator_C","PrimalItemStructure_CropPlot_Large_C","PrimalItemStructure_Grill_C","PrimalItemStructure_PowerGenerator_C","PrimalItemStructure_Fireplace_C","PrimalItemStructure_BeerBarrel_C"),
-					ItemsWeights=(0.17,0.17,0.17,0.17,,0.16,0.16),
+					ItemsWeights=(0.17,0.17,0.17,0.17,0.16,0.16),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.75

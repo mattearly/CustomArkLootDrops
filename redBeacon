@@ -66,18 +66,18 @@ ConfigOverrideSupplyCrateItems=(
 			; Resources (Ammo)
 			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.19,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
-					EntryWeight=0.08,
-					ItemClassStrings=("PrimalItemC4Ammo_C"),
-					ItemsWeights=(1.0),
-					MinQuantity=1.0,MaxQuantity=2.0,
-					MinQuality=1.0,MaxQuality=1.0,
-					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
-				),
-				(
 					EntryWeight=0.18,
 					ItemClassStrings=("PrimalItemAmmo_AdvancedRifleBullet_C"),
 					ItemsWeights=(1.0),
 					MinQuantity=30.0,MaxQuantity=90.0,
+					MinQuality=1.0,MaxQuality=1.0,
+					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
+				),
+				(
+					EntryWeight=0.17,
+					ItemClassStrings=("PrimalItemAmmo_CompoundBowArrow_C"),
+					ItemsWeights=(1.0),
+					MinQuantity=5.0,MaxQuantity=18.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				),
@@ -98,14 +98,6 @@ ConfigOverrideSupplyCrateItems=(
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				),
 				(
-					EntryWeight=0.17,
-					ItemClassStrings=("PrimalItemAmmo_CompoundBowArrow_C"),
-					ItemsWeights=(1.0),
-					MinQuantity=5.0,MaxQuantity=18.0,
-					MinQuality=1.0,MaxQuality=1.0,
-					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
-				),
-				(
 					EntryWeight=0.1,
 					ItemClassStrings=("PrimalItemAmmo_SimpleShotgunBullet_C"),
 					ItemsWeights=(1.0),
@@ -118,6 +110,14 @@ ConfigOverrideSupplyCrateItems=(
 					ItemClassStrings=("PrimalItemAmmo_SimpleRifleBullet_C"),
 					ItemsWeights=(1.0),
 					MinQuantity=14.0,MaxQuantity=26.0,
+					MinQuality=1.0,MaxQuality=1.0,
+					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
+				),
+				(
+					EntryWeight=0.08,
+					ItemClassStrings=("PrimalItemC4Ammo_C"),
+					ItemsWeights=(1.0),
+					MinQuantity=1.0,MaxQuantity=2.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				),

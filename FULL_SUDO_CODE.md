@@ -315,14 +315,15 @@
 
 ### Set 3 | 19% | Ammo | 1 Item
 
-* 7% - 1-3 C4 Charge
-* 14% - 40-120 Advanced Rifle Bullets
-* 11% - 2-6 Rockets
-* 11% - 15-30 Metal Arrows
-* 7% - 16-32 Shotgun Bullets
-* 7% - 14-26 Simple Rifle Bullets
-* 8% - 150-200 Advanced Rifle Bullets + Sniper Bullets + Metal Arrows + Rockets + Shotgun Bullets +  Simple Rifle Bullets (Death-bringer Pack)
-* 4% - 250-400 Advanced Rifle Bullets + Sniper Bullets + Metal Arrows + Rockets + Shotgun Bullets +  Simple Rifle Bullets (Endgame Pack)
+* 8% - 1-2 C4 Charge
+* 18% - 30-90 Advanced Rifle Bullets
+* 16% - 7-22 Advanced Sniper Bullets
+* 10% - 1-3 Rockets
+* 17% - 5-18 Metal Arrows
+* 10% - 6-14 Shotgun Bullets
+* 10% - 14-26 Simple Rifle Bullets
+* 4% - 75-150 Advanced Rifle Bullets + Sniper Bullets + Metal Arrows + Rockets + Shotgun Bullets +  Simple Rifle Bullets (Death-bringer Pack)
+* 2% - 175-275 Advanced Rifle Bullets + Sniper Bullets + Metal Arrows + Rockets + Shotgun Bullets +  Simple Rifle Bullets (Endgame Pack)
 * 5% - 1 Advanced Rifle Bullet, Rocket, Sniper Bullet, Compound Arrow, or C4 Charge Blueprint
 
 ### Set 4 | 12% | Eggs and Rares | 1 Item

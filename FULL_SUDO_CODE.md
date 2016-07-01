@@ -322,8 +322,8 @@
 * 17% - 5-18 Metal Arrows
 * 10% - 6-14 Shotgun Bullets
 * 10% - 14-26 Simple Rifle Bullets
-* 4% - 75-150 Advanced Rifle Bullets + Sniper Bullets + Metal Arrows + Rockets + Shotgun Bullets +  Simple Rifle Bullets (Death-bringer Pack)
-* 2% - 175-275 Advanced Rifle Bullets + Sniper Bullets + Metal Arrows + Rockets + Shotgun Bullets +  Simple Rifle Bullets (Endgame Pack)
+* 4% - 75-150 Deathbringer Ammo Pack: Advanced Rifle, Sniper, Metal Arrows, Rockets, Shotgun Shells, & Simple Rifle Ammo Weighted Mix
+* 2% - 175-275 Endgame Ammo Pack: Advanced Rifle, Sniper, Metal Arrows, Rockets, Shotgun Shells, & Simple Rifle Ammo Weighted Mix
 * 5% - 1 Advanced Rifle Bullet, Rocket, Sniper Bullet, Compound Arrow, or C4 Charge Blueprint
 
 ### Set 4 | 12% | Eggs and Rares | 1 Item

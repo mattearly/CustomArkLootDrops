@@ -54,7 +54,7 @@ ConfigOverrideSupplyCrateItems=(
 			MinNumItems=3,MaxNumItems=3,NumItemsPower=1.0,SetWeight=0.05,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
 					EntryWeight=1.0,
-					ItemClassStrings=("PrimalItemStructure_StoneCeilingWithTrapdoor_C","PrimalItemStructure_StoneCeilingWithTrapdoor_C","PrimalItemStructure_MetalLadder_C"),
+					ItemClassStrings=("PrimalItemStructure_StoneTrapdoor_C","PrimalItemStructure_StoneCeilingWithTrapdoor_C","PrimalItemStructure_MetalLadder_C"),
 					ItemsWeights=(1.0,1.0,1.0),
 					MinQuantity=3.0,MaxQuantity=3.0,
 					MinQuality=1.0,MaxQuality=1.0,

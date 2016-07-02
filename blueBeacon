@@ -51,19 +51,19 @@ ConfigOverrideSupplyCrateItems=(
 		),
 		( 
 			; Advanced Stone Shack
-			MinNumItems=3,MaxNumItems=3,NumItemsPower=1.0,SetWeight=0.05,bItemsRandomWithoutReplacement=true,ItemEntries=(
+			MinNumItems=6,MaxNumItems=6,NumItemsPower=1.0,SetWeight=0.05,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
 					EntryWeight=1.0,
-					ItemClassStrings=("PrimalItemStructure_StoneTrapdoor_C","PrimalItemStructure_StoneCeilingWithTrapdoor_C","PrimalItemStructure_MetalLadder_C"),
-					ItemsWeights=(1.0,1.0,1.0),
-					MinQuantity=3.0,MaxQuantity=3.0,
+					ItemClassStrings=("PrimalItemStructure_MetalLadder_C"),
+					ItemsWeights=(1.0),
+					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				),
 				(
 					EntryWeight=1.0,
-					ItemClassStrings=("PrimalItemStructure_StoneWallWithWindow_C","PrimalItemStructure_StoneWindow_C"),
-					ItemsWeights=(1.0,1.0),
+					ItemClassStrings=("PrimalItemStructure_StoneWallWithWindow_C"),
+					ItemsWeights=(1.0),
 					MinQuantity=2.0,MaxQuantity=2.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
@@ -71,6 +71,30 @@ ConfigOverrideSupplyCrateItems=(
 				(
 					EntryWeight=1.0,
 					ItemClassStrings=("PrimalItemStructure_StonePillar_C"),
+					ItemsWeights=(1.0),
+					MinQuantity=1.0,MaxQuantity=1.0,
+					MinQuality=1.0,MaxQuality=1.0,
+					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
+				),
+				(
+					EntryWeight=1.0,
+					ItemClassStrings=("PrimalItemStructure_StoneCeilingWithTrapdoor_C"),
+					ItemsWeights=(1.0),
+					MinQuantity=1.0,MaxQuantity=1.0,
+					MinQuality=1.0,MaxQuality=1.0,
+					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
+				),
+				(
+					EntryWeight=1.0,
+					ItemClassStrings=("PrimalItemStructure_StoneTrapdoor_C"),
+					ItemsWeights=(1.0),
+					MinQuantity=1.0,MaxQuantity=1.0,
+					MinQuality=1.0,MaxQuality=1.0,
+					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
+				),
+				(
+					EntryWeight=1.0,
+					ItemClassStrings=("PrimalItemStructure_StoneWindow_C"),
 					ItemsWeights=(1.0),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.0,MaxQuality=1.0,

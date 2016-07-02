@@ -271,12 +271,44 @@ ConfigOverrideSupplyCrateItems=(
 		),
 		( 
 			; Small Shanty Shack
-			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.12,bItemsRandomWithoutReplacement=true,ItemEntries=(
+			MinNumItems=5,MaxNumItems=5,NumItemsPower=1.0,SetWeight=0.12,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
 					EntryWeight=1.0,
-					ItemClassStrings=("PrimalItemStructure_ThatchFloor_C","PrimalItemStructure_ThatchCeiling_C","PrimalItemStructure_ThatchWall_C","PrimalItemStructure_ThatchWallWithDoor_C","PrimalItemStructure_ThatchDoor_C"),
-					ItemsWeights=(1.0,1.0,3.0,1.0,1.0),
-					MinQuantity=8.0,MaxQuantity=8.0,
+					ItemClassStrings=("PrimalItemStructure_ThatchFloor_C"),
+					ItemsWeights=(1.0),
+					MinQuantity=1.0,MaxQuantity=1.0,
+					MinQuality=1.0,MaxQuality=1.0,
+					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
+				),
+				(
+					EntryWeight=1.0,
+					ItemClassStrings=("PrimalItemStructure_ThatchCeiling_C"),
+					ItemsWeights=(1.0),
+					MinQuantity=1.0,MaxQuantity=1.0,
+					MinQuality=1.0,MaxQuality=1.0,
+					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
+				),
+				(
+					EntryWeight=1.0,
+					ItemClassStrings=("PrimalItemStructure_ThatchWall_C"),
+					ItemsWeights=(1.0),
+					MinQuantity=3.0,MaxQuantity=3.0,
+					MinQuality=1.0,MaxQuality=1.0,
+					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
+				),
+				(
+					EntryWeight=1.0,
+					ItemClassStrings=("PrimalItemStructure_ThatchWallWithDoor_C"),
+					ItemsWeights=(1.0),
+					MinQuantity=1.0,MaxQuantity=1.0,
+					MinQuality=1.0,MaxQuality=1.0,
+					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
+				),
+				(
+					EntryWeight=1.0,
+					ItemClassStrings=("PrimalItemStructure_ThatchDoor_C"),
+					ItemsWeights=(1.0),
+					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				)
@@ -360,7 +392,7 @@ ConfigOverrideSupplyCrateItems=(
 			; Saddle
 			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.13,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
-					EntryWeight=0.73,
+					EntryWeight=0.78,
 					ItemClassStrings=("PrimalItemArmor_PhiomiaSaddle_C","PrimalItemArmor_ParaSaddle_C"),
 					ItemsWeights=(.5,.5),
 					MinQuantity=1.0,MaxQuantity=1.0,
@@ -368,7 +400,7 @@ ConfigOverrideSupplyCrateItems=(
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.45
 				),
 				(
-					EntryWeight=0.18,
+					EntryWeight=0.16,
 					ItemClassStrings=("PrimalItemArmor_PhiomiaSaddle_C","PrimalItemArmor_ParaSaddle_C"),
 					ItemsWeights=(.5,.5),
 					MinQuantity=1.0,MaxQuantity=1.0,
@@ -384,7 +416,7 @@ ConfigOverrideSupplyCrateItems=(
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.65
 				),
 				(
-					EntryWeight=0.07,
+					EntryWeight=0.04,
 					ItemClassStrings=("PrimalItemConsumable_TheHorn_C"),
 					ItemsWeights=(1.0),
 					MinQuantity=1.0,MaxQuantity=1.0,

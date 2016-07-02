@@ -82,7 +82,7 @@ ConfigOverrideSupplyCrateItems=(
 					ItemsWeights=(.34,.33,.33,.33,.33),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.0,MaxQuality=1.4,
-					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.40
+					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.45
 				),
 				(
 					EntryWeight=0.18,
@@ -90,7 +90,7 @@ ConfigOverrideSupplyCrateItems=(
 					ItemsWeights=(.34,.33,.33,.33,.33),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.5,MaxQuality=1.8,
-					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.50
+					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.55
 				),
 				(
 					EntryWeight=0.02,
@@ -98,7 +98,7 @@ ConfigOverrideSupplyCrateItems=(
 					ItemsWeights=(.34,.33,.33,.33,.33),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.9,MaxQuality=2.6,
-					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.60
+					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.65
 				)
 			)
 		),
@@ -111,7 +111,7 @@ ConfigOverrideSupplyCrateItems=(
 					ItemsWeights=(.25,.25,.25,.25),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.0,MaxQuality=1.4,
-					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.40
+					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.45
 				),
 				(
 					EntryWeight=0.10,
@@ -119,7 +119,7 @@ ConfigOverrideSupplyCrateItems=(
 					ItemsWeights=(.25,.25,.25,.25),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.5,MaxQuality=1.8,
-					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.50
+					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.55
 				),
 				(
 					EntryWeight=0.02,
@@ -127,7 +127,7 @@ ConfigOverrideSupplyCrateItems=(
 					ItemsWeights=(.25,.25,.25,.25),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.9,MaxQuality=2.6,
-					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.60
+					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.65
 				),
 				(
 					EntryWeight=0.18,
@@ -159,7 +159,7 @@ ConfigOverrideSupplyCrateItems=(
 					ItemsWeights=(.33,.33,.33),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.0,MaxQuality=1.0,
-					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
+					bForceBlueprint=true,ChanceToBeBlueprintOverride=0.0
 				)
 			)
 		),
@@ -271,44 +271,12 @@ ConfigOverrideSupplyCrateItems=(
 		),
 		( 
 			; Small Shanty Shack
-			MinNumItems=5,MaxNumItems=5,NumItemsPower=1.0,SetWeight=0.12,bItemsRandomWithoutReplacement=true,ItemEntries=(
+			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.12,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
 					EntryWeight=1.0,
-					ItemClassStrings=("PrimalItemStructure_ThatchFloor_C"),
-					ItemsWeights=(1.0),
-					MinQuantity=1.0,MaxQuantity=1.0,
-					MinQuality=1.0,MaxQuality=1.0,
-					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
-				),
-				(
-					EntryWeight=1.0,
-					ItemClassStrings=("PrimalItemStructure_ThatchCeiling_C"),
-					ItemsWeights=(1.0),
-					MinQuantity=1.0,MaxQuantity=1.0,
-					MinQuality=1.0,MaxQuality=1.0,
-					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
-				),
-				(
-					EntryWeight=1.0,
-					ItemClassStrings=("PrimalItemStructure_ThatchWall_C"),
-					ItemsWeights=(1.0),
-					MinQuantity=3.0,MaxQuantity=3.0,
-					MinQuality=1.0,MaxQuality=1.0,
-					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
-				),
-				(
-					EntryWeight=1.0,
-					ItemClassStrings=("PrimalItemStructure_ThatchWallWithDoor_C"),
-					ItemsWeights=(1.0),
-					MinQuantity=1.0,MaxQuantity=1.0,
-					MinQuality=1.0,MaxQuality=1.0,
-					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
-				),
-				(
-					EntryWeight=1.0,
-					ItemClassStrings=("PrimalItemStructure_ThatchDoor_C"),
-					ItemsWeights=(1.0),
-					MinQuantity=1.0,MaxQuantity=1.0,
+					ItemClassStrings=("PrimalItemStructure_ThatchFloor_C","PrimalItemStructure_ThatchCeiling_C","PrimalItemStructure_ThatchWall_C","PrimalItemStructure_ThatchWallWithDoor_C","PrimalItemStructure_ThatchDoor_C"),
+					ItemsWeights=(1.0,1.0,3.0,1.0,1.0),
+					MinQuantity=8.0,MaxQuantity=8.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				)
@@ -376,7 +344,7 @@ ConfigOverrideSupplyCrateItems=(
 					ItemsWeights=(0.33,0.33,0.34),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.0,MaxQuality=1.0,
-					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.50
+					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.80
 				),
 				(
 					EntryWeight=0.1,
@@ -397,7 +365,7 @@ ConfigOverrideSupplyCrateItems=(
 					ItemsWeights=(.5,.5),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.0,MaxQuality=1.4,
-					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.40
+					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.45
 				),
 				(
 					EntryWeight=0.18,
@@ -405,7 +373,7 @@ ConfigOverrideSupplyCrateItems=(
 					ItemsWeights=(.5,.5),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.5,MaxQuality=1.8,
-					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.50
+					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.55
 				),
 				(
 					EntryWeight=0.02,
@@ -413,7 +381,7 @@ ConfigOverrideSupplyCrateItems=(
 					ItemsWeights=(.5,.5),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.9,MaxQuality=2.6,
-					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.60
+					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.65
 				),
 				(
 					EntryWeight=0.07,

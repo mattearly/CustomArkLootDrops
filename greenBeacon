@@ -51,12 +51,20 @@ ConfigOverrideSupplyCrateItems=(
 		),
 		( 
 			; Advanced Wooden Shack
-			MinNumItems=5,MaxNumItems=5,NumItemsPower=1.0,SetWeight=0.1,bItemsRandomWithoutReplacement=true,ItemEntries=(
+			MinNumItems=7,MaxNumItems=7,NumItemsPower=1.0,SetWeight=0.1,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
 					EntryWeight=1.0,
-					ItemClassStrings=("PrimalItemStructure_WoodCeilingWithTrapdoor_C","PrimalItemStructure_WoodCeilingWithTrapdoor_C"),
-					ItemsWeights=(0.5,0.5),
-					MinQuantity=2.0,MaxQuantity=2.0,
+					ItemClassStrings=("PrimalItemStructure_WoodCeilingWithTrapdoor_C"),
+					ItemsWeights=(1.0),
+					MinQuantity=1.0,MaxQuantity=1.0,
+					MinQuality=1.0,MaxQuality=1.0,
+					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
+				),
+				(
+					EntryWeight=1.0,
+					ItemClassStrings=("PrimalItemStructure_WoodCeilingWithTrapdoor_C"),
+					ItemsWeights=(1.0),
+					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				),
@@ -64,15 +72,23 @@ ConfigOverrideSupplyCrateItems=(
 					EntryWeight=1.0,
 					ItemClassStrings=("PrimalItemStructure_WoodLadder_C","PrimalItemStructure_WoodRamp_C"),
 					ItemsWeights=(0.5,0.5),
-					MinQuantity=2.0,MaxQuantity=2.0,
+					MinQuantity=1.0,MaxQuantity=2.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				),
 				(
 					EntryWeight=1.0,
-					ItemClassStrings=("PrimalItemStructure_WoodWallWithWindow_C","PrimalItemStructure_WoodWindow_C"),
-					ItemsWeights=(0.5,0.5),
-					MinQuantity=2.0,MaxQuantity=2.0,
+					ItemClassStrings=("PrimalItemStructure_WoodWallWithWindow_C"),
+					ItemsWeights=(1.0),
+					MinQuantity=1.0,MaxQuantity=1.0,
+					MinQuality=1.0,MaxQuality=1.0,
+					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
+				),
+				(
+					EntryWeight=1.0,
+					ItemClassStrings=("PrimalItemStructure_WoodWindow_C"),
+					ItemsWeights=(1.0),
+					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				),
@@ -80,15 +96,15 @@ ConfigOverrideSupplyCrateItems=(
 					EntryWeight=1.0,
 					ItemClassStrings=("PrimalItemStructure_WoodSign_C","PrimalItemStructure_WoodSign_Large_C"),
 					ItemsWeights=(0.5,0.5),
-					MinQuantity=1.0,MaxQuantity=2.0,
+					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				),
 				(
 					EntryWeight=1.0,
 					ItemClassStrings=("PrimalItemStructure_WoodPillar_C","PrimalItemStructure_WoodCatwalk_C"),
-					ItemsWeights=(.5,.5),
-					MinQuantity=1.0,MaxQuantity=1.0,
+					ItemsWeights=(0.5,0.5),
+					MinQuantity=1.0,MaxQuantity=2.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				)

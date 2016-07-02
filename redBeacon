@@ -201,28 +201,28 @@ ConfigOverrideSupplyCrateItems=(
 			; Saddles
 			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.21,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
-					EntryWeight=0.73,
+					EntryWeight=0.78,
 					ItemClassStrings=("PrimalItemArmor_ArgentavisSaddle_C","PrimalItemArmor_RexSaddle_C","PrimalItemArmor_DireBearSaddle_C","PrimalItemArmor_PlesiaSaddle_C","PrimalItemArmor_SpinoSaddle_C","PrimalItemArmor_SauroSaddle_C","PrimalItemArmor_TitanSaddle_Platform_C"),
-					ItemsWeights=(.14,.14,.14,.14,.14,.14,.02),
+					ItemsWeights=(0.17,0.17,0.17,0.16,0.16,0.16,0.01),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.0,MaxQuality=1.3,
-					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.40
+					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.45
 				),
 				(
-					EntryWeight=0.20,
+					EntryWeight=0.16,
 					ItemClassStrings=("PrimalItemArmor_ArgentavisSaddle_C","PrimalItemArmor_RexSaddle_C","PrimalItemArmor_DireBearSaddle_C","PrimalItemArmor_PlesiaSaddle_C","PrimalItemArmor_SpinoSaddle_C","PrimalItemArmor_SauroSaddle_C","PrimalItemArmor_TitanSaddle_Platform_C"),
-					ItemsWeights=(.14,.14,.14,.14,.14,.14,.02),
+					ItemsWeights=(0.17,0.17,0.17,0.16,0.16,0.16,0.01),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.4,MaxQuality=1.9,
-					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.50
+					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.55
 				),
 				(
-					EntryWeight=0.03,
+					EntryWeight=0.02,
 					ItemClassStrings=("PrimalItemArmor_ArgentavisSaddle_C","PrimalItemArmor_RexSaddle_C","PrimalItemArmor_DireBearSaddle_C","PrimalItemArmor_PlesiaSaddle_C","PrimalItemArmor_SpinoSaddle_C","PrimalItemArmor_SauroSaddle_C","PrimalItemArmor_TitanSaddle_Platform_C"),
-					ItemsWeights=(.14,.14,.14,.14,.14,.14,.02),
+					ItemsWeights=(0.17,0.17,0.17,0.16,0.16,0.16,0.01),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=2.0,MaxQuality=2.6,
-					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.60
+					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.65
 				),
 				(
 					EntryWeight=0.04,

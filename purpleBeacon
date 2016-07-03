@@ -6,7 +6,7 @@ ConfigOverrideSupplyCrateItems=(
 	ItemSets=(
 		(	
 			; Weapons
-			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.21,bItemsRandomWithoutReplacement=true,ItemEntries=(
+			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.09,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
 					EntryWeight=0.84,
 					ItemClassStrings=("PrimalItem_WeaponGun_C","PrimalItem_WeaponOneShotRifle_C","PrimalItem_WeaponShotgun_C"),
@@ -35,7 +35,7 @@ ConfigOverrideSupplyCrateItems=(
 		),
 		( 
 			; AMMO
-			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.23,bItemsRandomWithoutReplacement=true,ItemEntries=(
+			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.24,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
 					EntryWeight=0.2,
 					ItemClassStrings=("PrimalItemAmmo_SimpleBullet_C"),
@@ -96,7 +96,7 @@ ConfigOverrideSupplyCrateItems=(
 		),
 		(
 			; Eggs
-			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.08,bItemsRandomWithoutReplacement=true,ItemEntries=(
+			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.1,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
 					EntryWeight=1.0,
 					ItemClassStrings=("PrimalItemConsumable_Egg_Sarco_C","PrimalItemConsumable_Egg_Galli_C","PrimalItemConsumable_Egg_Bronto_C","PrimalItemConsumable_Egg_Pachy_C","PrimalItemConsumable_Egg_Dimorph_C","PrimalItemConsumable_Egg_Diplo_C"),
@@ -109,7 +109,7 @@ ConfigOverrideSupplyCrateItems=(
 		),
 		( 
 			; Trinkets and Odds blueprints 
-			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.27,bItemsRandomWithoutReplacement=true,ItemEntries=(
+			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.35,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
 					EntryWeight=0.23,
 					ItemClassStrings=("PrimalItemStructure_Fabricator_C","PrimalItemStructure_CropPlot_Large_C","PrimalItemStructure_Grill_C","PrimalItemStructure_PowerGenerator_C","PrimalItemStructure_Fireplace_C","PrimalItemStructure_BeerBarrel_C"),
@@ -154,11 +154,11 @@ ConfigOverrideSupplyCrateItems=(
 		),
 		( 
 			; Saddles
-			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.21,bItemsRandomWithoutReplacement=true,ItemEntries=(
+			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.22,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
 					EntryWeight=0.80,
 					ItemClassStrings=("PrimalItemArmor_CarnoSaddle_C","PrimalItemArmor_SarcoSaddle_C","PrimalItemArmor_MammothSaddle_C","PrimalItemArmor_Gallimimus_C","PrimalItemArmor_TerrorBirdSaddle_C","PrimalItemArmor_ProcoptodonSaddle_C","PrimalItemArmor_RhinoSaddle_C"),
-					ItemsWeights=(.14,.14,.15,.14,.15,.14,.14),
+					ItemsWeights=(0.14,0.14,0.15,0.14,0.15,0.14,0.14),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.0,MaxQuality=1.4,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.45
@@ -166,7 +166,7 @@ ConfigOverrideSupplyCrateItems=(
 				(
 					EntryWeight=0.14,
 					ItemClassStrings=("PrimalItemArmor_CarnoSaddle_C","PrimalItemArmor_SarcoSaddle_C","PrimalItemArmor_MammothSaddle_C","PrimalItemArmor_Gallimimus_C","PrimalItemArmor_TerrorBirdSaddle_C","PrimalItemArmor_ProcoptodonSaddle_C","PrimalItemArmor_RhinoSaddle_C"),
-					ItemsWeights=(.14,.14,.15,.14,.15,.14,.14),
+					ItemsWeights=(0.14,0.14,0.15,0.14,0.15,0.14,0.14),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.5,MaxQuality=1.8,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.55
@@ -174,7 +174,7 @@ ConfigOverrideSupplyCrateItems=(
 				(
 					EntryWeight=0.02,
 					ItemClassStrings=("PrimalItemArmor_CarnoSaddle_C","PrimalItemArmor_SarcoSaddle_C","PrimalItemArmor_MammothSaddle_C","PrimalItemArmor_Gallimimus_C","PrimalItemArmor_TerrorBirdSaddle_C","PrimalItemArmor_ProcoptodonSaddle_C","PrimalItemArmor_RhinoSaddle_C"),
-					ItemsWeights=(.14,.14,.15,.14,.15,.14,.14),
+					ItemsWeights=(0.14,0.14,0.15,0.14,0.15,0.14,0.14),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.9,MaxQuality=2.6,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.65

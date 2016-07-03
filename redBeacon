@@ -6,7 +6,7 @@ ConfigOverrideSupplyCrateItems=(
 	ItemSets=(
 		(	
 			; Weapons
-			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.21,bItemsRandomWithoutReplacement=true,ItemEntries=(
+			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.11,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
 					EntryWeight=0.84,
 					ItemClassStrings=("PrimalItem_WeaponMachinedPistol_C","PrimalItem_WeaponOneShotRifle_C","PrimalItem_WeaponShotgun_C","PrimalItem_WeaponRifle_C","PrimalItem_WeaponRocketLauncher_C"),
@@ -35,7 +35,7 @@ ConfigOverrideSupplyCrateItems=(
 		),
 		(	
 			; Helms Armor
-			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.15,bItemsRandomWithoutReplacement=true,ItemEntries=(
+			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.13,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
 					EntryWeight=0.84,
 					ItemClassStrings=("PrimalItemArmor_MinersHelmet_C","PrimalItemArmor_GasMask_C"),
@@ -64,7 +64,7 @@ ConfigOverrideSupplyCrateItems=(
 		),
 		( 
 			; Resources (Ammo)
-			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.19,bItemsRandomWithoutReplacement=true,ItemEntries=(
+			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.24,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
 					EntryWeight=0.18,
 					ItemClassStrings=("PrimalItemAmmo_AdvancedRifleBullet_C"),
@@ -140,7 +140,7 @@ ConfigOverrideSupplyCrateItems=(
 				(
 					EntryWeight=0.05,
 					ItemClassStrings=("PrimalItemAmmo_AdvancedRifleBullet_C","PrimalItemAmmo_Rocket_C","PrimalItemAmmo_AdvancedSniperBullet_C","PrimalItemAmmo_CompoundBowArrow_C","PrimalItemC4Ammo_C"),
-					ItemsWeights=(.2,.2,.2,.2,.2),
+					ItemsWeights=(0.2,0.2,0.2,0.2,0.2),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=true,ChanceToBeBlueprintOverride=0.0
@@ -170,9 +170,9 @@ ConfigOverrideSupplyCrateItems=(
 		),
 		( 
 			; Trinkets and Odds blueprints 
-			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.10,bItemsRandomWithoutReplacement=true,ItemEntries=(
+			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.16,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
-					EntryWeight=0.25,
+					EntryWeight=0.35,
 					ItemClassStrings=("PrimalItemStructure_MetalGateframe_Large_C","PrimalItemStructure_MetalGate_Large_C","PrimalItemStructure_TreePlatform_Metal_C"),
 					ItemsWeights=(.33,.33,.34),
 					MinQuantity=1.0,MaxQuantity=1.0,
@@ -180,7 +180,7 @@ ConfigOverrideSupplyCrateItems=(
 					bForceBlueprint=true,ChanceToBeBlueprintOverride=0.00
 				),
 				(
-					EntryWeight=0.45,
+					EntryWeight=0.35,
 					ItemClassStrings=("PrimalItemStructure_IndustrialForge_C","PrimalItemStructure_ChemBench_C","PrimalItemStructure_StorageBox_Huge_C","PrimalItemStructure_Bed_Modern_C","PrimalItemStructure_WarMap_C"),
 					ItemsWeights=(0.2,0.2,0.2,0.2,0.2),
 					MinQuantity=1.0,MaxQuantity=1.0,
@@ -199,7 +199,7 @@ ConfigOverrideSupplyCrateItems=(
 		),
 		( 
 			; Saddles
-			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.21,bItemsRandomWithoutReplacement=true,ItemEntries=(
+			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.22,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
 					EntryWeight=0.80,
 					ItemClassStrings=("PrimalItemArmor_ArgentavisSaddle_C","PrimalItemArmor_RexSaddle_C","PrimalItemArmor_DireBearSaddle_C","PrimalItemArmor_PlesiaSaddle_C","PrimalItemArmor_SpinoSaddle_C","PrimalItemArmor_SauroSaddle_C","PrimalItemArmor_TitanSaddle_Platform_C"),

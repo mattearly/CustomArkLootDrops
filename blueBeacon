@@ -64,7 +64,7 @@ ConfigOverrideSupplyCrateItems=(
 					EntryWeight=1.0,
 					ItemClassStrings=("PrimalItemStructure_StoneWallWithWindow_C"),
 					ItemsWeights=(1.0),
-					MinQuantity=2.0,MaxQuantity=2.0,
+					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				),

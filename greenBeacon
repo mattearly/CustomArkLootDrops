@@ -369,7 +369,7 @@ ConfigOverrideSupplyCrateItems=(
 			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.19,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
 					EntryWeight=0.40,
-					ItemClassStrings=("PrimalEarthDye_Red_C","PrimalEarthDye_Green_C","PrimalEarthDye_Blue_C","PrimalEarthDye_Yellow_C","PrimalEarthDye_Purple_C","PrimalEarthDye_Orange_C","PrimalEarthDye_Black_C","PrimalEarthDye_White_C","PrimalEarthDye_Brown_C","PrimalEarthDye_Cyan_C","PrimalEarthDye_Forest_C","PrimalEarthDye_Parchment_C","PrimalEarthDye_Pink_C","PrimalEarthDye_Royalty_C","PrimalEarthDye_Silver_C","PrimalEarthDye_Sky_C","PrimalEarthDye_Tan_C","PrimalEarthDye_Tangerine_C","PrimalEarthDye_ActuallyMagenta_C","PrimalEarthDye_Brick_C","PrimalEarthDye_Cantaloupe_C","PrimalEarthDye_Mud_C","PrimalEarthDye_Navy_C","PrimalEarthDye_Olive_C","PrimalEarthDye_Slate_C"),
+					ItemClassStrings=("PrimalItemDye_Red_C","PrimalItemDye_Green_C","PrimalItemDye_Blue_C","PrimalItemDye_Yellow_C","PrimalItemDye_Purple_C","PrimalItemDye_Orange_C","PrimalItemDye_Black_C","PrimalItemDye_White_C","PrimalItemDye_Brown_C","PrimalItemDye_Cyan_C","PrimalItemDye_Forest_C","PrimalItemDye_Parchment_C","PrimalItemDye_Pink_C","PrimalItemDye_Royalty_C","PrimalItemDye_Silver_C","PrimalItemDye_Sky_C","PrimalItemDye_Tan_C","PrimalItemDye_Tangerine_C","PrimalItemDye_ActuallyMagenta_C","PrimalItemDye_Brick_C","PrimalItemDye_Cantaloupe_C","PrimalItemDye_Mud_C","PrimalItemDye_Navy_C","PrimalItemDye_Olive_C","PrimalItemDye_Slate_C"),
 					ItemsWeights=(0.04,0.04,0.04,0.04,0.04,0.04,0.04,0.04,0.04,0.04,0.04,0.04,0.04,0.04,0.04,0.04,0.04,0.04,0.04,0.04,0.04,0.04,0.04,0.04,0.04),
 					MinQuantity=6.0,MaxQuantity=15.0,
 					MinQuality=1.0,MaxQuality=1.0,

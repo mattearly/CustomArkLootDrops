@@ -244,7 +244,7 @@
 * 20% - 7-14 Shotgun Bullet
 * 20% - 8-16 Simple Rifle Bullet
 * 18% - 1-4 Grenade
-* 7% - 55-85 Simple Bullet + Shotgun Bullet + Rifle Bullet + Grenade Mix (Madman Ammo Pack)
+* 7% - 55-85 Simple Bullet + Shotgun Bullet + Rifle Bullet + Grenade Weighted Mix (Madman Ammo Pack)
 * 5% - 1 Blueprint of Simple Bullet, Tranq Dart, Shotgun Bullet, Simple Rifle Bullet, Ballista Arrow, or Cannonball
 
 ##### Set 3 | 10% | Egg | 1 Item
@@ -287,7 +287,7 @@
 * 17% - 1-4 Grappling Hook  
 * 22% - 8-14 Shotgun Bullet  
 * 22% - 10-16 Simple Rifle Bullet  
-* 8% - 55-100 Advanced Bullet + Shotgun Bullet + Simple Rifle Bullet + c4 Tripwire + Grappling Hook Mix (Gunner Pack)  
+* 8% - 55-100 Advanced Bullet + Shotgun Bullet + Simple Rifle Bullet + c4 Tripwire + Grappling Hook Weighted Mix (Gunner Pack)  
 * 4% - 1 Advanced Bullet, Chain Bola, Transponder Node, Grappling Hook, or c4 Tripwire Blueprint  
 
 ##### Set 4 | 9% | Eggs | 1 Item
@@ -297,7 +297,7 @@
 ##### Set 5 | 29% | Trinkets and Odds | 1 Item
 
 * 30% - 1 Transponder Tracker, GPS, Omni Lampost, Lampost, Canteen, or C4 Detonator (80% Blueprint Chance)
-* 16% - 1 Fabricator, Metal Water Tank, Industrial Grill, Refrigerator, or Air Conditioner (80% Blueprint Chance)
+* 16% - 1 Fabricator, Metal Water Tank, Refrigerator, or Air Conditioner (80% Blueprint Chance)
 * 17% - 1 Metal Gateway or Gate Blueprint
 * 13% - 1-2 Transponder Node
 * 20% - 2-5 Electrical Wiring Pieces
@@ -312,17 +312,17 @@
 
 ##Red Beacon
 
-##### Set 1 | 20% | Weapons | 1 Item
+##### Set 1 | 11% | Weapons | 1 Item
 
-* 75% - 1 Low Quality Machined Pistol, Longneck Rifle, Double-Barrel Shotgun, Assault Rifle, or Rocket Launcher (45% Blueprint Chance)
-* 20% - 1 Mid Quality Machined Pistol, Longneck Rifle, Double-Barrel Shotgun, Assault Rifle, or Rocket Launcher (55% Blueprint Chance)
-* 5% - 1 High Quality Machined Pistol, Longneck Rifle, Double-Barrel Shotgun, Assault Rifle, or Rocket Launcher (65% Blueprint Chance)
+* 84% - 1 Low Quality Machined Pistol, Longneck Rifle, Double-Barrel Shotgun, Assault Rifle, or Rocket Launcher (45% Blueprint Chance)
+* 14% - 1 Mid Quality Machined Pistol, Longneck Rifle, Double-Barrel Shotgun, Assault Rifle, or Rocket Launcher (55% Blueprint Chance)
+* 2% - 1 High Quality Machined Pistol, Longneck Rifle, Double-Barrel Shotgun, Assault Rifle, or Rocket Launcher (65% Blueprint Chance)
 
-##### Set 2 | 15% | Helm Armor | 1 Item
+##### Set 2 | 13% | Helm Armor | 1 Item
 
-* 75% - 1 Low Quality Miner's Helm or Gas Mask (45% Blueprint Chance)  
-* 20% - 1 Mid Quality Miner's Helm or Gas Mask (55% Blueprint Chance)  
-* 5% - 1 High Quality Miner's Helm or Gas Mask (65% Blueprint Chance)
+* 84% - 1 Low Quality Miner's Helm or Gas Mask (45% Blueprint Chance)  
+* 14% - 1 Mid Quality Miner's Helm or Gas Mask (55% Blueprint Chance)  
+* 2% - 1 High Quality Miner's Helm or Gas Mask (65% Blueprint Chance)
 
 ##### Set 3 | 19% | Ammo | 1 Item
 
@@ -331,26 +331,26 @@
 * 16% - 7-22 Advanced Sniper Bullets
 * 10% - 1-3 Rockets
 * 10% - 6-14 Shotgun Bullets
-* 10% - 14-26 Simple Rifle Bullets 
+* 10% - 12-18 Simple Rifle Bullets 
 * 8% - 1-2 C4 Charge
 * 4% - 75-150 Deathbringer Ammo Pack: Advanced Rifle, Sniper, Metal Arrows, Rockets, Shotgun Shells, & Simple Rifle Ammo Weighted Mix
 * 2% - 175-275 Endgame Ammo Pack: Advanced Rifle, Sniper, Metal Arrows, Rockets, Shotgun Shells, & Simple Rifle Ammo Weighted Mix
-* 5% - 1 Blueprint: Advanced Rifle Bullet, Sniper Bullet, Rocket, Compound Arrow, or C4 Charge
+* 5% - 1 Blueprint of Advanced Rifle Bullet, Sniper Bullet, Rocket, Compound Arrow, or C4 Charge
 
-##### Set 4 | 12% | Eggs and Rares | 1 Item
+##### Set 4 | 14% | Eggs and Rares | 1 Item
 
-* 55% - 1 Rex, Spino, Quetz, or Giga(very rare) Egg
-* 55% - 1 Black Pearl or Substrate Absorbent
+* 60% - 1 Rex, Spino, Quetz, or Giga(very rare) Egg
+* 40% - 1 Black Pearl or Substrate Absorbent
 
-##### Set 5 | 14% | Trinkets and Odds | 1 Item
+##### Set 5 | 16% | Trinkets and Odds | 1 Item
 
-* 25% - 1 Metal Gateframe, Gateway, or Tree Platform Blueprint
-* 45% - 1 Industrial Forge, Chemistry Bench, Vault, Bunk Bed, or War Map (80% Blueprint Chance)
+* 35% - 1 Metal Gateframe, Gateway, or Tree Platform Blueprint
+* 35% - 1 Industrial Forge, Chemistry Bench, Vault, Bunk Bed, or War Map (80% Blueprint Chance)
 * 30% - 1 Auto Turret, Minigun Turret, Rocket Turret, or Sea Mine (80% Blueprint Chance)
 
-##### Set 6 | 20% | Saddles | 1 Item
+##### Set 6 | 22% | Saddles | 1 Item
 
-* 73% - 1 Low Quality Argent, Rex, Dire Bear, Plesiasaur, Spino, Bronto, Titanosuar(very Rare) Saddle (45% Blueprint Chance)
-* 20% - 1 Mid Quality Argent, Rex, Dire Bear, Plesiasaur, Spino, Bronto, Titanosuar(very Rare) Saddle (55% Blueprint Chance)
-* 3% - 1 High Quality Argent, Rex, Dire Bear, Plesiasaur, Spino, Bronto, Titanosuar(very Rare) Saddle (65% Blueprint Chance)
+* 80% - 1 Low Quality Argent, Rex, Dire Bear, Plesiasaur, Spino, Bronto, Titanosuar(very Rare) Saddle (45% Blueprint Chance)
+* 14% - 1 Mid Quality Argent, Rex, Dire Bear, Plesiasaur, Spino, Bronto, Titanosuar(very Rare) Saddle (55% Blueprint Chance)
+* 2% - 1 High Quality Argent, Rex, Dire Bear, Plesiasaur, Spino, Bronto, Titanosuar(very Rare) Saddle (65% Blueprint Chance)
 * 4% - 1-3 Broth of Enlightenment

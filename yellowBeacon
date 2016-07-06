@@ -149,8 +149,8 @@ ConfigOverrideSupplyCrateItems=(
 				),
 				(
 					EntryWeight=0.16,
-					ItemClassStrings=("PrimalItemStructure_IndustrialCookingPot_C","PrimalItemStructure_Fabricator_C","PrimalItemStructure_WaterTankMetal_C","PrimalItemStructure_Grill_C","PrimalItemStructure_IceBox_C","PrimalItemStructure_AirConditioner_C"),
-					ItemsWeights=(.14,.18,.18,.15,.18,.18),
+					ItemClassStrings=("PrimalItemStructure_IndustrialCookingPot_C","PrimalItemStructure_Fabricator_C","PrimalItemStructure_WaterTankMetal_C","PrimalItemStructure_IceBox_C","PrimalItemStructure_AirConditioner_C"),
+					ItemsWeights=(0.2,0.2,0.2,0.2,0.2),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.80

@@ -12,41 +12,41 @@
 * 13% - 3-12 Jerky + Cooked Meat Mix  
 * 5% - 1 Blueprint of Campfire, Waterskin, or Sleeping Bag  
 
-##### Set 2 | 13% | Cloth Armor | 1 Item  
+##### Set 2 | 7% | Cloth Armor | 1 Item  
 
 * 84% - 1 Low Quality Cloth Pants, Shirt, Helmet, Boots, or Gloves (45% Blueprint Chance)  
 * 14% - 1 Mid Quality Cloth Pants, Shirt, Helmet, Boots, or Gloves (55% Blueprint Chance)  
 * 2% - 1 High Quality Cloth Pants, Shirt, Helmet, Boots, or Gloves (65% Blueprint Chance)  
 
-##### Set 3 | 13% | Weapons and Tools | 1 Item  
+##### Set 3 | 8% | Weapons and Tools | 1 Item  
 
-* 46% - 1 Low Quality Stone Pick, Hatchet, Slingshot, or Torch (45% Blueprint Chance)  
-* 12% - 1 Mid Quality Stone Pick, Hatchet, Slingshot, or Torch (55% Blueprint Chance)  
-* 3% - 1 High Quality Stone Pick, Hatchet, Slingshot, or Torch (65% Blueprint Chance)  
-* 18% - 3-8 Flare Gun  
-* 9% - 1-2 Bola  
-* 9% - 1-3 Spear  
+* 45% - 1 Low Quality Stone Pick, Hatchet, Slingshot, or Torch (45% Blueprint Chance)  
+* 5% - 1 Mid Quality Stone Pick, Hatchet, Slingshot, or Torch (55% Blueprint Chance)  
+* 1% - 1 High Quality Stone Pick, Hatchet, Slingshot, or Torch (65% Blueprint Chance)  
+* 20% - 2-6 Flare Gun  
+* 12% - 1-2 Bola  
+* 12% - 1-3 Spear  
 * 5% - 1 Blueprint of Flare Gun, Bola, or Spear  
 
-##### Set 4 | 15% | Resources | 2 to 4 Items  
+##### Set 4 | 18% | Resources | 2 to 4 Items  
 
-* 20% - 20-50 Wood + Thatch Mix  
-* 20% - 20-55 Stone + Flint Mix  
-* 20% - 25-50 Fiber  
-* 20% - 50-75 Chitin + Hide Mix 
-* 4% - 8-21 Crystal + Metal Mix  
-* 6% - 12-35 Pelt  
-* 4% - 18-34 Oil + Silica Pearl Mix  
-* 6% - 8-24 Obsidian  
+* 17% - 20-50 Wood + Thatch Mix  
+* 17% - 20-55 Stone + Flint Mix  
+* 17% - 25-50 Fiber  
+* 17% - 50-75 Chitin + Hide Mix 
+* 8% - 8-21 Crystal + Metal Mix  
+* 8% - 12-35 Pelt  
+* 8% - 18-34 Oil + Silica Pearl Mix  
+* 8% - 8-24 Obsidian  
 
-##### Set 5 | 7% | Eggs | 1 Item  
+##### Set 5 | 6% | Eggs | 1 Item  
 
-* 25% - 1-2 Parasaur Egg  
-* 25% - 1-3 Dilo Egg  
-* 25% - 1-3 Dodo Egg  
-* 25% - 1-3 Lystrosaurus Egg  
+* 25% - 1 Parasaur Egg  
+* 25% - 1-2 Dilo Egg  
+* 25% - 1-2 Dodo Egg  
+* 25% - 1-2 Lystrosaurus Egg  
 
-##### Set 6 | 11% | Small Shanty Shack | 5 Items(set)  
+##### Set 6 | 9% | Small Shanty Shack | 5 Items(set)  
 
 * 1 Thatch Foundation  
 * 1 Thatch Ceiling  
@@ -62,18 +62,18 @@
 * 1 Thatch Doorway  
 * 1 Thatch Door  
 
-##### Set 8 | 10% | Furniture and Odds | 1 Item  
+##### Set 8 | 17% | Furniture and Odds | 1 Item  
 
-* 65% - 2-4 Wood Sign + Small Box + Simple Bed + Standing Torch + Wood Chair Mix  
-* 20% - 1 Wood Cage, Wardrums, or Rope Ladder  
-* 20% - 1 Blueprint of any of the above furniture  
+* 75% - 2-4 Wood Sign + Small Box + Simple Bed + Standing Torch + Wood Chair Mix  
+* 15% - 1 Wood Cage, Wardrums, or Rope Ladder (80% Blueprint Chance)
+* 10% - 1 Blueprint of Wood Sign, Small Box, Simple Bed, Standing Torch, or Wood Chair  
 
 ##### Set 9 | 13% | Saddles | 1 Item  
 
-* 70% - 1 Low Quality Phiomia or Parasaur Saddle (45% Blueprint Chance)  
-* 18% - 1 Mid Quality Phiomia or Parasaur Saddle (55% Blueprint Chance)  
-* 3% - 1 High Quality Phiomia or Parasaur Saddle (65% Blueprint Chance)  
-* 9% - 1 Broth of Enlightenment Potion  
+* 80% - 1 Low Quality Phiomia or Parasaur Saddle (45% Blueprint Chance)  
+* 14% - 1 Mid Quality Phiomia or Parasaur Saddle (55% Blueprint Chance)  
+* 2% - 1 High Quality Phiomia or Parasaur Saddle (65% Blueprint Chance)  
+* 4% - 1 Broth of Enlightenment Potion  
 
 ##Green Beacon  
 

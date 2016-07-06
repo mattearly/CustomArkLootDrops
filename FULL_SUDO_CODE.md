@@ -85,7 +85,7 @@
 * 1 Wood Doorway  
 * 1 Wood Door 
 
-##### Set 2 | 4% | Advanced Wooden Shack | 5 Items(set)  
+##### Set 2 | 4% | Advanced Wooden Shack | 7 Items(set)  
 
 * 1 Wood Trapdoor Ceiling 
 * 1 Wood Trapdoor  
@@ -158,7 +158,7 @@
 
 ## Blue Beacon (aka Brew Beacon)  
 
-##### Set 1 | 8% | Stone Shack | 5 Items(set)
+##### Set 1 | 7% | Stone Shack | 5 Items(set)
 
 * 1 Stone Foundation
 * 1 Stone Ceiling
@@ -166,26 +166,29 @@
 * 1 Stone Doorway
 * 1 Reinforced Door
 
-##### Set 2 | 5% | Advanced Stone Shack | 3 Items(set)
+##### Set 2 | 4% | Advanced Stone Shack | 6 Items(set)
 
-* 1 Stone Trapdoor Ceiling + 1 Reinforced Trapdoor + 1 Metal Ladder
-* 1 Stone Window Wall + 1 Reinforced Window
-* 1 Stone Pillar
+* 1 Metal Ladder  
+* 1 Stone Wall With Window  
+* 1 Stone Pillar  
+* 1 Stone Ceiling with Trapdoor  
+* 1 Stone Trapdoor  
+* 1 Stone Window  
 
-##### Set 3 | 12% | Chitin Armor | 1 Item
+##### Set 3 | 7% | Chitin Armor | 1 Item
 
-* 75% - 1 Low Quality Chitin Pants, Shirt, Helmet, Boots, or Gloves (45% Blueprint Chance)  
-* 20% - 1 Mid Quality Chitin Pants, Shirt, Helmet, Boots, or Gloves (55% Blueprint Chance)  
-* 5% - 1 High Quality Chitin Pants, Shirt, Helmet, Boots, or Gloves (65% Blueprint Chance)
+* 84% - 1 Low Quality Chitin Pants, Shirt, Helmet, Boots, or Gloves (45% Blueprint Chance)  
+* 14% - 1 Mid Quality Chitin Pants, Shirt, Helmet, Boots, or Gloves (55% Blueprint Chance)  
+* 2% - 1 High Quality Chitin Pants, Shirt, Helmet, Boots, or Gloves (65% Blueprint Chance)
 
-##### Set 4 | 12% | Weapons | 1 Item
+##### Set 4 | 8% | Weapons | 1 Item
 
-* 69% - 1 Low Quality Metal Pick, Hatchet, or Pike (45% Blueprint Chance)
-* 20% - 1 Mid Quality Metal Pick, Hatchet, or Pike (55% Blueprint Chance)
-* 5% - 1 High Quality Metal Pick, Hatchet, or Pike (65% Blueprint Chance)
-* 6% - 2-6 Plant Species X
+* 80% - 1 Low Quality Metal Pick, Hatchet, or Pike (45% Blueprint Chance)
+* 14% - 1 Mid Quality Metal Pick, Hatchet, or Pike (55% Blueprint Chance)
+* 2% - 1 High Quality Metal Pick, Hatchet, or Pike (65% Blueprint Chance)
+* 4% - 2-5 Plant Species X
 
-##### Set 5 | 18% | Potions | 2 to 3 Items
+##### Set 5 | 19% | Potions | 2 to 3 Items
 
 * 13% - 2-7 Medical Brew
 * 10% - 2-7 Energy Brew
@@ -197,38 +200,42 @@
 * 12% - 1-3 Battle Tartare
 * 5% - 1-3 Bug Repellant
 
-##### Set 6 | 14% | Resources | 2 to 3 Items
+##### Set 6 | 18% | Resources | 2 to 3 Items
 
 * 10% - 35-65 Narcotic + Stimulant Mix
 * 18% - 45-110 Cementing Paste
 * 13% - 15-25 Crystal + Metal Ingot Mix
-* 17% - 18-65 Polymer
+* 17% - 18-40 Polymer
 * 17% - 22-65 Pelt
 * 14% - 5-15 Sap
-* 11% - 1-3 Gasoline
+* 11% - 1-3 Gasoline  
 
-##### Set 7 | 12% | Trinkets, Pipes, Buildings and Odds | 1 Item
+##### Set 7 | 6% | Eggs
 
-* 35% - 1 Water Jar, Compass, Medium Crop Plot, Magnifying Glass, Tree Tap, or Handcuffs (75% Blueprint Chance)
-* 25% - 1 Stone Gateway, Reinforced Gate, Metal Spike Wall, Metal Sign, Trophy Base, Wall Trophy Mount, or Ballista Turret (75% Blueprint Chance)
-* 20% - 1 Of Any Stone Building Blueprint
-* 12% - 5-8 All Metal Pipes Mix
-* 8% - 1 Any Metal Pipe Blueprint
+* 1 Stego, Ankylo, Boa, Scropion, or Spider Egg
 
-##### Set 8 | 12% | Saddles | 1 Item
+##### Set 8 | 16% | Trinkets, Pipes, Buildings and Odds | 1 Item
 
-* 70% - 1 Low Quality Scorpion, Pteradon, Stego, or Ankylo Saddle (45% Blueprint Chance)
-* 20% - 1 Mid Quality Scorpion, Pteradon, Stego, or Ankylo Saddle (55% Blueprint Chance)
-* 3% - 1 High Quality Scorpion, Pteradon, Stego, or Ankylo Saddle (65% Blueprint Chance)
-* 7% - 1-2 Broth of Enlightenment
+* 30% - 1 Water Jar, Compass, Medium Crop Plot, Magnifying Glass, Tree Tap, or Handcuffs (80% Blueprint Chance)
+* 25% - 1 Stone Gateway, Reinforced Gate, Metal Spike Wall, Metal Sign, Trophy Base, Wall Trophy Mount, or Ballista Turret (80% Blueprint Chance)
+* 23% - 1 Of Any Stone Building Blueprint
+* 13% - 5-8 All Metal Pipes Mix
+* 9% - 1 Any Metal Pipe Blueprint
+
+##### Set 9 | 12% | Saddles | 1 Item
+
+* 80% - 1 Low Quality Scorpion, Pteradon, Stego, or Ankylo Saddle (45% Blueprint Chance)
+* 14% - 1 Mid Quality Scorpion, Pteradon, Stego, or Ankylo Saddle (55% Blueprint Chance)
+* 2% - 1 High Quality Scorpion, Pteradon, Stego, or Ankylo Saddle (65% Blueprint Chance)
+* 4% - 1-2 Broth of Enlightenment
 
 ## Purple Beacon
 
 ##### Set 1 | 20% | Weapons | 1 Item
 
-* 72% - 1 Low Quality Simple Pistol, Longneck Rifle, or Double-Barrel Shotgun (45% Blueprint Chance)
-* 23% - 1 Mid Quality Simple Pistol, Longneck Rifle, or Double-Barrel Shotgun (55% Blueprint Chance)
-* 5% - 1 High Quality Simple Pistol, Longneck Rifle, or Double-Barrel Shotgun (65% Blueprint Chance)
+* 84% - 1 Low Quality Simple Pistol, Longneck Rifle, or Double-Barrel Shotgun (45% Blueprint Chance)
+* 14% - 1 Mid Quality Simple Pistol, Longneck Rifle, or Double-Barrel Shotgun (55% Blueprint Chance)
+* 2% - 1 High Quality Simple Pistol, Longneck Rifle, or Double-Barrel Shotgun (65% Blueprint Chance)
 
 ##### Set 2 | 22% | Ammo | 1 Item
 

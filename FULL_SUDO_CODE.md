@@ -268,35 +268,36 @@
 
 ##Yellow Beacon
 
-##### Set 1 | 13% | Weapons | 1 Item
+##### Set 1 | 9% | Weapons | 1 Item
 
-* 75% - 1 Low Quality Machined Pistol, Longneck Rifle, or Double-Barrel Shotgun (45% Blueprint Chance)
-* 20% - 1 Mid Quality Machined Pistol, Longneck Rifle, or Double-Barrel Shotgun (55% Blueprint Chance)
-* 5% - 1 High Quality Machined Pistol, Longneck Rifle, or Double-Barrel Shotgun (65% Blueprint Chance)
+* 84% - 1 Low Quality Machined Pistol, Longneck Rifle, or Double-Barrel Shotgun (45% Blueprint Chance)
+* 14% - 1 Mid Quality Machined Pistol, Longneck Rifle, or Double-Barrel Shotgun (55% Blueprint Chance)
+* 2% - 1 High Quality Machined Pistol, Longneck Rifle, or Double-Barrel Shotgun (65% Blueprint Chance)
 
-##### Set 2 | 18% | Flak Armor | 1 Item
+##### Set 2 | 10% | Flak Armor | 1 Item
 
-* 75% - 1 Low Quality Flak Pants, Shirt, Helmet, Boots, or Gloves (45% Blueprint Chance)  
-* 20% - 1 Mid Quality Flak Pants, Shirt, Helmet, Boots, or Gloves (55% Blueprint Chance)  
-* 5% - 1 High Quality Flak Pants, Shirt, Helmet, Boots, or Gloves (65% Blueprint Chance)
+* 84% - 1 Low Quality Flak Pants, Shirt, Helmet, Boots, or Gloves (45% Blueprint Chance)  
+* 14% - 1 Mid Quality Flak Pants, Shirt, Helmet, Boots, or Gloves (55% Blueprint Chance)  
+* 2% - 1 High Quality Flak Pants, Shirt, Helmet, Boots, or Gloves (65% Blueprint Chance)
 
-##### Set 3 | 19% | Ammo | 1 Item
+##### Set 3 | 23% | Ammo | 1 Item
 
-* 22% - 16-36 Advanced Bullet
-* 19% - 8-16 Tranq Dart
-* 20% - 12-24 Shotgun Bullet
-* 25% - 12-24 Simple Rifle Bullet
-* 10% - 55-105 Advanced Bullet + Shotgun Bullet + Simple Rifle Bullet + c4 Tripwire + Grappling Hook Mix (Gunner Pack)
-* 4% - 1 Advanced Bullet, Chain Bola, Transponder Node, Grappling Hook, or c4 Tripwire Blueprint
+* 20% - 10-20 Advanced Bullet
+* 7% - 9-15 Tranq Dart  
+* 17% - 1-4 Grappling Hook  
+* 22% - 8-14 Shotgun Bullet  
+* 22% - 10-16 Simple Rifle Bullet  
+* 8% - 55-100 Advanced Bullet + Shotgun Bullet + Simple Rifle Bullet + c4 Tripwire + Grappling Hook Mix (Gunner Pack)  
+* 4% - 1 Advanced Bullet, Chain Bola, Transponder Node, Grappling Hook, or c4 Tripwire Blueprint  
 
-##### Set 4 | 8% | Eggs | 1 Item
+##### Set 4 | 9% | Eggs | 1 Item
 
 * 1 Argent, Kairuku, Carno, Oviraptor, Terrorbird, or Boa Egg, or Rhino Horn
 
-##### Set 5 | 23% | Trinkets and Odds | 1 Item
+##### Set 5 | 29% | Trinkets and Odds | 1 Item
 
-* 30% - 1 Transponder Tracker, GPS, Omni Lampost, Lampost, Canteen, or C4 Detonator (75% Blueprint Chance)
-* 16% - 1 Industrial Cooker, Fabricator, Metal Water Tank, Industrial Grill, Refrigerator, or Air Conditioner (80% Blueprint Chance)
+* 30% - 1 Transponder Tracker, GPS, Omni Lampost, Lampost, Canteen, or C4 Detonator (80% Blueprint Chance)
+* 16% - 1 Fabricator, Metal Water Tank, Industrial Grill, Refrigerator, or Air Conditioner (80% Blueprint Chance)
 * 17% - 1 Metal Gateway or Gate Blueprint
 * 13% - 1-2 Transponder Node
 * 20% - 2-5 Electrical Wiring Pieces
@@ -304,10 +305,10 @@
 
 ##### Set 6 | 20% | Saddles | 1 item
 
-* 72% - 1 Low Quality Megalodon, Diplodocus, Arthro, Manta, Sabertooth, Dunkleosteus, Beaver Saddle (45% Blueprint Chance)
-* 20% - 1 Mid Quality Megalodon, Diplodocus, Arthro, Manta, Sabertooth, Dunkleosteus, Beaver Saddle (55% Blueprint Chance)
-* 3% - 1 High Quality Megalodon, Diplodocus, Arthro, Manta, Sabertooth, Dunkleosteus, Beaver Saddle (65% Blueprint Chance)
-* 5% - 1-3 Broth of Enlightenment
+* 80% - 1 Low Quality Megalodon, Diplodocus, Arthro, Manta, Sabertooth, Dunkleosteus, Beaver Saddle (45% Blueprint Chance)
+* 14% - 1 Mid Quality Megalodon, Diplodocus, Arthro, Manta, Sabertooth, Dunkleosteus, Beaver Saddle (55% Blueprint Chance)
+* 2% - 1 High Quality Megalodon, Diplodocus, Arthro, Manta, Sabertooth, Dunkleosteus, Beaver Saddle (65% Blueprint Chance)
+* 4% - 1-3 Broth of Enlightenment
 
 ##Red Beacon
 

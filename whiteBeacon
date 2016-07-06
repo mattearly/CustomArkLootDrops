@@ -25,7 +25,7 @@ ConfigOverrideSupplyCrateItems=(
 				),
 				(
 					EntryWeight=0.12,
-					ItemClassStrings=("PrimalItemRefill_WaterskinRefill_C"),
+					ItemClassStrings=("PrimalItemConsumable_WaterskinCraftable_C"),
 					ItemsWeights=(1.0),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.0,MaxQuality=1.0,

@@ -79,7 +79,7 @@ ConfigOverrideSupplyCrateItems=(
 				(
 					EntryWeight=0.84,
 					ItemClassStrings=("PrimalItemArmor_ClothPants_C","PrimalItemArmor_ClothShirt_C","PrimalItemArmor_ClothHelmet_C","PrimalItemArmor_ClothBoots_C","PrimalItemArmor_ClothGloves_C"),
-					ItemsWeights=(.34,.33,.33,.33,.33),
+					ItemsWeights=(0.2,0.2,0.2,0.2,0.2),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.0,MaxQuality=1.4,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.45
@@ -87,7 +87,7 @@ ConfigOverrideSupplyCrateItems=(
 				(
 					EntryWeight=0.14,
 					ItemClassStrings=("PrimalItemArmor_ClothPants_C","PrimalItemArmor_ClothShirt_C","PrimalItemArmor_ClothHelmet_C","PrimalItemArmor_ClothBoots_C","PrimalItemArmor_ClothGloves_C"),
-					ItemsWeights=(.34,.33,.33,.33,.33),
+					ItemsWeights=(0.2,0.2,0.2,0.2,0.2),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.5,MaxQuality=1.8,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.55
@@ -95,7 +95,7 @@ ConfigOverrideSupplyCrateItems=(
 				(
 					EntryWeight=0.02,
 					ItemClassStrings=("PrimalItemArmor_ClothPants_C","PrimalItemArmor_ClothShirt_C","PrimalItemArmor_ClothHelmet_C","PrimalItemArmor_ClothBoots_C","PrimalItemArmor_ClothGloves_C"),
-					ItemsWeights=(.34,.33,.33,.33,.33),
+					ItemsWeights=(0.2,0.2,0.2,0.2,0.2),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.9,MaxQuality=2.6,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.65

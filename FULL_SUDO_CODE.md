@@ -231,40 +231,40 @@
 
 ## Purple Beacon
 
-##### Set 1 | 20% | Weapons | 1 Item
+##### Set 1 | 9% | Weapons | 1 Item
 
 * 84% - 1 Low Quality Simple Pistol, Longneck Rifle, or Double-Barrel Shotgun (45% Blueprint Chance)
 * 14% - 1 Mid Quality Simple Pistol, Longneck Rifle, or Double-Barrel Shotgun (55% Blueprint Chance)
 * 2% - 1 High Quality Simple Pistol, Longneck Rifle, or Double-Barrel Shotgun (65% Blueprint Chance)
 
-##### Set 2 | 22% | Ammo | 1 Item
+##### Set 2 | 24% | Ammo | 1 Item
 
-* 20% - 12-24 Simple Bullet
-* 14% - 6-12 Tranq Dart
-* 19% - 6-12 Shotgun Bullet
-* 19% - 8-18 Simple Rifle Bullet
-* 16% - 1-4 Grenade
-* 7% - 55-100 Simple Bullet + Shotgun Bullet + Rifle Bullet + Grenade Mix (Madman Ammo Pack)
-* 5% - 1 Blueprint of any of the above ammos, Stone Arrow, Tranq Arrow, Ballista Bolt, or Cannonball
+* 18% - 12-22 Simple Bullet
+* 12% - 6-12 Tranq Dart
+* 20% - 7-14 Shotgun Bullet
+* 20% - 8-16 Simple Rifle Bullet
+* 18% - 1-4 Grenade
+* 7% - 55-85 Simple Bullet + Shotgun Bullet + Rifle Bullet + Grenade Mix (Madman Ammo Pack)
+* 5% - 1 Blueprint of Simple Bullet, Tranq Dart, Shotgun Bullet, Simple Rifle Bullet, Ballista Arrow, or Cannonball
 
-##### Set 3 | 16% | Egg | 1 Item
+##### Set 3 | 10% | Egg | 1 Item
 
 * 1 Sarco, Galli, Bronto, Pachy, Dimorph, or Diplo Egg
 
-##### Set 4 | 21% | Trinkets and Odds | 1 Item
+##### Set 4 | 35% | Trinkets and Odds | 1 Item
 
-* 23% - 1 Fabricator, Large Crop Plot, Industrial Grill, Power Generator, Stone Fireplace, or Beer Barrel (75% Blueprint Chance)
+* 23% - 1 Fabricator, Large Crop Plot, Industrial Grill, Power Generator, Stone Fireplace, or Beer Barrel (80% Blueprint Chance)
 * 12% - 1 Reinforced Behemoth Gate, Stone Behemoth Gateway, or Wood Tree Platform Blueprint
-* 25% - 1 Any Metal Building Blueprint
-* 25% - 1 Silencer, Holo Scope, Laser, or Scope Attachment (75% Blueprint Chance)
-* 15% - 1 Catapult Turret or Cannon (75% Blueprint Chance)
+* 30% - 1 Any Metal Building Blueprint
+* 25% - 1 Silencer, Holo Scope, Laser, or Scope Attachment (80% Blueprint Chance)
+* 10% - 1 Catapult Turret or Cannon (80% Blueprint Chance)
 
-##### Set 5 | 21% | Saddles | 1 Item
+##### Set 5 | 22% | Saddles | 1 Item
 
-* 71% - 1 Low Quality Carno, Sarco, Mammoth, Gallimimus, Terrorbird, Procoptodon, or Rhino Saddle (45% Blueprint Chance)
-* 20% - 1 Mid Quality Carno, Sarco, Mammoth, Gallimimus, Terrorbird, Procoptodon, or Rhino Saddle (55% Blueprint Chance)
-* 3% - 1 High Quality Carno, Sarco, Mammoth, Gallimimus, Terrorbird, Procoptodon, or Rhino Saddle (65% Blueprint Chance)
-* 6% - 1-3 Broth of Enlightenment
+* 80% - 1 Low Quality Carno, Sarco, Mammoth, Gallimimus, Terrorbird, Procoptodon, or Rhino Saddle (45% Blueprint Chance)
+* 14% - 1 Mid Quality Carno, Sarco, Mammoth, Gallimimus, Terrorbird, Procoptodon, or Rhino Saddle (55% Blueprint Chance)
+* 2% - 1 High Quality Carno, Sarco, Mammoth, Gallimimus, Terrorbird, Procoptodon, or Rhino Saddle (65% Blueprint Chance)
+* 4% - 1-3 Broth of Enlightenment
 
 ##Yellow Beacon
 

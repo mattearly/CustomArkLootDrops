@@ -77,7 +77,7 @@
 
 ##Green Beacon  
 
-##### Set 1 | 10% | Wood Shack | 5 Items(set)  
+##### Set 1 | 8% | Wood Shack | 5 Items(set)  
 
 * 1 Wood Foundation  
 * 1 Wood Ceiling  
@@ -85,73 +85,76 @@
 * 1 Wood Doorway  
 * 1 Wood Door 
 
-##### Set 2 | 10% | Second Story Building Parts | 5 Items(set)  
+##### Set 2 | 4% | Advanced Wooden Shack | 5 Items(set)  
 
-* 1 Wood Trapdoor Ceiling + 1 Trapdoor  
-* 1 Wood Ladder + 1 Wood Ramp  
-* 1 Wood Window Wall + 1 Wood Window  
+* 1 Wood Trapdoor Ceiling 
+* 1 Wood Trapdoor  
+* 1 Wood Ladder or Wood Ramp  
+* 1 Wood Window Wall  
+* 1 Wood Window or Large Sign
 * 1 Wood Wall Sign or Buildboard Sign  
 * 1 Wood Pillar or Wood Catwalk  
 
-##### Set 3 | 4% | Wood Building Blueprint | 1 Items  
+##### Set 3 | 2% | Wood Building Blueprint | 1 Items  
 
 * 1 Blueprint of Wood Foundation, Door, Doorway, Trapdoor, Trapdoor Ceiling, Wall, Ladder, Ramp, Wall Sign, Billboard, Pillar, Catwalk, Fence Foundation, Window Wall, Window, or Railing  
 
-##### Set 4 | 12% | Hide Armor | 1 Item  
+##### Set 4 | 7% | Hide Armor | 1 Item  
 
-* 75% - 1 Low Quality Hide Pants, Shirt, Helmet, Boots, or Gloves (45% Blueprint Chance)  
-* 20% - 1 Mid Quality Hide Pants, Shirt, Helmet, Boots, or Gloves (55% Blueprint Chance)  
-* 5% - 1 High Quality Hide Pants, Shirt, Helmet, Boots, or Gloves (65% Blueprint Chance)  
+* 84% - 1 Low Quality Hide Pants, Shirt, Helmet, Boots, or Gloves (45% Blueprint Chance)  
+* 14% - 1 Mid Quality Hide Pants, Shirt, Helmet, Boots, or Gloves (55% Blueprint Chance)  
+* 2% - 1 High Quality Hide Pants, Shirt, Helmet, Boots, or Gloves (65% Blueprint Chance)  
 
-##### Set 5 | 12% | Weapons and Tools | 1 Item  
+##### Set 5 | 8% | Weapons and Tools | 1 Item  
 
-* 43% - 1 Low Quality Bow (45% Blueprint Chance)  
-* 8% - 1 Mid Quality Bow (55% Blueprint Chance)  
-* 4% - 1 High Quality Bow (65% Blueprint Chance)  
+* 33% - 1 Low Quality Bow (45% Blueprint Chance)  
+* 4% - 1 Mid Quality Bow (55% Blueprint Chance)  
+* 1% - 1 High Quality Bow (65% Blueprint Chance)   
+* 15% - 12-28 Stone Arrow
+* 8% - 8-24 Tranq Arrow 
 * 14% - 1-3 Parachute  
-* 27% - 1 Spyglass, Training Dummy, or Blood Extractor  
-* 4% - 1 Low to Low-Mid Quality Pike (1% Blueprint Chance)  
+* 19% - 1 Spyglass, Training Dummy, or Blood Extractor  (45% Blueprint Chance)
+* 1% - 1 Low to Low-Mid Quality Pike (1% Blueprint Chance)  
+* 5% - 1 Blueprint of Parachute, Stone Arrow, or Tranq Arrow
 
-##### Set 6 | 14% | Resources | 2 to 3 Items  
+##### Set 6 | 19% | Resources | 2 to 3 Items  
 
-* 14% - 30-75 Wood + Thatch Mix  
-* 14% - 30-80 Stone + Flint Mix  
-* 14% - 60-90 Fiber  
-* 10% - 22-44 Narcotic + Stimulant Mix  
-* 14% - 75-125 Chitin + Hide Mix  
-* 7% - 20-30 Obsidian  
-* 7% - 12-28 Crystal + Metal Mix  
-* 7% - 13-45 Pelt  
-* 7% - 22-40 Oil + Silica Pearl Mix  
-* 6% - 14-25 Rare Mushroom + Rare Flower Mix  
+* 13% - 28-73 Wood + Thatch Mix  
+* 13% - 28-78 Stone + Flint Mix  
+* 13% - 55-85 Fiber  
+* 8% - 20-42 Narcotic + Stimulant Mix  
+* 13% - 55-105 Chitin + Hide Mix  
+* 8% - 15-27 Obsidian  
+* 8% - 11-26 Crystal + Metal Mix  
+* 8% - 12-42 Pelt  
+* 8% - 20-38 Oil + Silica Pearl Mix  
+* 8% - 16-36 Rare Mushroom + Rare Flower Mix  
 
 ##### Set 7 | 6% | Eggs | 1 Item  
 
 * 1 Turtle, Trike, or Raptor Egg  
 
-##### Set 8 | 15% | Farming | 1 to 2 Items  
+##### Set 8 | 15% | Farming | 1 Item
 
-* 45% - 1-3 Small Crop Plot + Compost Bin Mix (45% Blueprint Chance)  
-* 27% - 5-10 Stone Pipes Intake + Straight + Incline + Intersection + Vertical + Tap Mix  
-* 7% - 1 Stone Pipe Blueprint of any of the above  
-* 17% - 1-6 Fertilizer  
-* 9% - 1 Savoroot, Longrass, Rockarrot, or Citronal Seed  
+* 23% - 1-2 Small Crop Plot + Compost Bin Mix
+* 23% - 4-9 Stone Pipes Intake + Straight + Incline + Intersection + Vertical + Tap Mix  
+* 8% - 1 Blueprint of any Stone Pipe, Small Crop Plot, or Compost Bin
+* 23% - 1-3 Fertilizer  
+* 23% - 1 Savoroot, Longrass, Rockarrot, or Citronal Seed  
 
-##### Set 9 | 18% | Furniture | 1 to 2 Items  
+##### Set 9 | 19% | Furniture | 1 Item  
 
-* 31% - 6-15 of the 25 different Dye Colorings Mix  
-* 18% - 1-4 Simple Bed + Large Box Mix  
-* 2% - 1 Simple Bed or Large Storage Box Blueprint  
-* 10% - 1 Paint Brush or Spray Paint (45% Blueprint Chance)  
-* 27% - 1 Forge, Smithy, MortarPestle, Cooking Pot, Wood Table, Raft, Gravestone, or Wood Bench (75 Blueprint Chance)  
-* 12% - 1 Wood Dino Gate, Gateway, or Spike Wall (75% Blueprint Chance)  
+* 40% - 6-15 of the 25 different Dye Colorings Mix    
+* 10% - 1 Paint Brush or Spray Paint (80% Blueprint Chance)  
+* 30% - 1 Large Box, Forge, Smithy, MortarPestle, Cooking Pot, Wood Table, Raft, Gravestone, or Wood Bench (80% Blueprint Chance)  
+* 20% - 1 Wood Dino Gate, Gateway, or Spike Wall (80% Blueprint Chance)  
 
 ##### Set 10 | 11% | Saddle | 1 Item  
 
-* 70% - 1 Low Quality Raptor, Trike, Dolphin, or Turtle Saddle (45% Blueprint Chance)  
-* 20% - 1 Mid Quality Raptor, Trike, Dolphin, or Turtle Saddle (55% Blueprint Chance)  
-* 3% - 1 High Quality Raptor, Trike, Dolphin, or Turtle Saddle (65% Blueprint Chance)  
-* 7% - 1-2 Broth of Enlightenment  
+* 80% - 1 Low Quality Raptor, Trike, Dolphin, or Turtle Saddle (45% Blueprint Chance)  
+* 14% - 1 Mid Quality Raptor, Trike, Dolphin, or Turtle Saddle (55% Blueprint Chance)  
+* 2% - 1 High Quality Raptor, Trike, Dolphin, or Turtle Saddle (65% Blueprint Chance)  
+* 4% - 1-2 Broth of Enlightenment  
 
 ## Blue Beacon (aka Brew Beacon)  
 

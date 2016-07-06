@@ -350,7 +350,7 @@
 
 ##### Set 6 | 22% | Saddles | 1 Item
 
-* 80% - 1 Low Quality Argent, Rex, Dire Bear, Plesiasaur, Spino, Bronto, Titanosuar(very Rare) Saddle (45% Blueprint Chance)
-* 14% - 1 Mid Quality Argent, Rex, Dire Bear, Plesiasaur, Spino, Bronto, Titanosuar(very Rare) Saddle (55% Blueprint Chance)
-* 2% - 1 High Quality Argent, Rex, Dire Bear, Plesiasaur, Spino, Bronto, Titanosuar(very Rare) Saddle (65% Blueprint Chance)
+* 80% - 1 Low Quality Argent, Rex, Dire Bear, Plesiasaur, Spino, or Bronto Saddle (45% Blueprint Chance)
+* 14% - 1 Mid Quality Argent, Rex, Dire Bear, Plesiasaur, Spino, or Bront Saddle (55% Blueprint Chance)
+* 2% - 1 High Quality Argent, Rex, Dire Bear, Plesiasaur, Spino, or Bronto Saddle (65% Blueprint Chance)
 * 4% - 1-3 Broth of Enlightenment

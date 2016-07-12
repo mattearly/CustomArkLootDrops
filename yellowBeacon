@@ -1,8 +1,4 @@
 ; Yellow Beacon
-ConfigOverrideSupplyCrateItems=(
-	SupplyCrateClassString="SupplyCrate_Level45_C",
-	MinItemSets=1,MaxItemSets=2,
-	NumItemSetsPower=1.0,bSetsRandomWithoutReplacement=true,
 	ItemSets=(
 		(	
 			; Weapons
@@ -227,4 +223,3 @@ ConfigOverrideSupplyCrateItems=(
 			)
 		)
 	)
-)

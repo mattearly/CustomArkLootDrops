@@ -1,8 +1,4 @@
 ; Purple Beacon
-ConfigOverrideSupplyCrateItems=(
-	SupplyCrateClassString="SupplyCrate_Level35_C",
-	MinItemSets=1,MaxItemSets=2,
-	NumItemSetsPower=1.0,bSetsRandomWithoutReplacement=true,
 	ItemSets=(
 		(	
 			; Weapons
@@ -190,4 +186,3 @@ ConfigOverrideSupplyCrateItems=(
 			)
 		)
 	)
-)

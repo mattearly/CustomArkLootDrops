@@ -1,8 +1,4 @@
 ; Green Beacon
-ConfigOverrideSupplyCrateItems=(
-	SupplyCrateClassString="SupplyCrate_Level15_C",
-	MinItemSets=1,MaxItemSets=2,
-	NumItemSetsPower=1.0,bSetsRandomWithoutReplacement=true,
 	ItemSets=(
 		( 
 			; Wooden Shack
@@ -439,4 +435,4 @@ ConfigOverrideSupplyCrateItems=(
 			)
 		)
 	)
-)
+	)

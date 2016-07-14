@@ -2,7 +2,7 @@
 	ItemSets=(
 		( 
 			; Campsite
-			MinNumItems=2,MaxNumItems=4,NumItemsPower=1.0,SetWeight=0.16,bItemsRandomWithoutReplacement=true,ItemEntries=(
+			MinNumItems=2,MaxNumItems=4,NumItemsPower=1.0,SetWeight=0.17,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
 					EntryWeight=0.10,
 					ItemClassStrings=("PrimalItemResource_Campfire_C"),
@@ -71,7 +71,7 @@
 		),
 		(	
 			; Cloth Armor
-			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.07,bItemsRandomWithoutReplacement=true,ItemEntries=(
+			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.08,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
 					EntryWeight=0.84,
 					ItemClassStrings=("PrimalItemArmor_ClothPants_C","PrimalItemArmor_ClothShirt_C","PrimalItemArmor_ClothHelmet_C","PrimalItemArmor_ClothBoots_C","PrimalItemArmor_ClothGloves_C"),
@@ -100,17 +100,17 @@
 		),
 		(	
 			; Weapons and tools
-			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.08,bItemsRandomWithoutReplacement=true,ItemEntries=(
+			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.10,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
 					EntryWeight=0.45,
 					ItemClassStrings=("PrimalItem_WeaponStonePick_C","PrimalItem_WeaponStoneHatchet_C","PrimalItem_WeaponSlingshot_C","PrimalItem_WeaponTorch_C"),
-					ItemsWeights=(.25,.25,.25,.25),
+					ItemsWeights=(0.20,0.20,0.20,0.40),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.0,MaxQuality=1.4,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.45
 				),
 				(
-					EntryWeight=0.05,
+					EntryWeight=0.06,
 					ItemClassStrings=("PrimalItem_WeaponStonePick_C","PrimalItem_WeaponStoneHatchet_C","PrimalItem_WeaponSlingshot_C","PrimalItem_WeaponTorch_C"),
 					ItemsWeights=(.25,.25,.25,.25),
 					MinQuantity=1.0,MaxQuantity=1.0,
@@ -118,7 +118,7 @@
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.55
 				),
 				(
-					EntryWeight=0.01,
+					EntryWeight=0.02,
 					ItemClassStrings=("PrimalItem_WeaponStonePick_C","PrimalItem_WeaponStoneHatchet_C","PrimalItem_WeaponSlingshot_C","PrimalItem_WeaponTorch_C"),
 					ItemsWeights=(.25,.25,.25,.25),
 					MinQuantity=1.0,MaxQuantity=1.0,
@@ -126,15 +126,15 @@
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.65
 				),
 				(
-					EntryWeight=0.20,
+					EntryWeight=0.27,
 					ItemClassStrings=("PrimalItem_WeaponFlareGun_C"),
 					ItemsWeights=(1.0),
-					MinQuantity=2.0,MaxQuantity=6.0,
+					MinQuantity=2.0,MaxQuantity=5.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				),
 				(
-					EntryWeight=0.12,
+					EntryWeight=0.10,
 					ItemClassStrings=("PrimalItem_WeaponBola_C"),
 					ItemsWeights=(1.0),
 					MinQuantity=1.0,MaxQuantity=2.0,
@@ -142,7 +142,7 @@
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				),
 				(
-					EntryWeight=0.12,
+					EntryWeight=0.06,
 					ItemClassStrings=("PrimalItem_WeaponSpear_C"),
 					ItemsWeights=(1.0),
 					MinQuantity=1.0,MaxQuantity=3.0,
@@ -150,7 +150,7 @@
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				),
 				(
-					EntryWeight=0.05,
+					EntryWeight=0.04,
 					ItemClassStrings=("PrimalItem_WeaponFlareGun_C","PrimalItem_WeaponBola_C","PrimalItem_WeaponSpear_C"),
 					ItemsWeights=(.34,.33,.33),
 					MinQuantity=1.0,MaxQuantity=1.0,
@@ -161,7 +161,7 @@
 		),
 		( 
 			; Resources
-			MinNumItems=2,MaxNumItems=4,NumItemsPower=1.0,SetWeight=0.18,bItemsRandomWithoutReplacement=true,ItemEntries=(
+			MinNumItems=2,MaxNumItems=4,NumItemsPower=1.0,SetWeight=0.20,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
 					EntryWeight=0.17,
 					ItemClassStrings=(,"PrimalItemResource_Wood_C","PrimalItemResource_Thatch_C"),
@@ -230,7 +230,7 @@
 		),
 		(
 			; Eggs
-			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.06,bItemsRandomWithoutReplacement=true,ItemEntries=(
+			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.05,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
 					EntryWeight=0.25,
 					ItemClassStrings=("PrimalItemConsumable_Egg_Para_C"),
@@ -267,7 +267,7 @@
 		),
 		( 
 			; Small Shanty Shack
-			MinNumItems=5,MaxNumItems=5,NumItemsPower=1.0,SetWeight=0.09,bItemsRandomWithoutReplacement=true,ItemEntries=(
+			MinNumItems=5,MaxNumItems=5,NumItemsPower=1.0,SetWeight=0.06,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
 					EntryWeight=1.0,
 					ItemClassStrings=("PrimalItemStructure_ThatchFloor_C"),
@@ -312,7 +312,7 @@
 		),
 		( 
 			; Medium Shanty Shack
-			MinNumItems=5,MaxNumItems=5,NumItemsPower=1.0,SetWeight=0.04,bItemsRandomWithoutReplacement=true,ItemEntries=(
+			MinNumItems=5,MaxNumItems=5,NumItemsPower=1.0,SetWeight=0.03,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
 					EntryWeight=1.0,
 					ItemClassStrings=("PrimalItemStructure_ThatchFloor_C"),
@@ -386,7 +386,7 @@
 		),
 		( 
 			; Saddle
-			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.15,bItemsRandomWithoutReplacement=true,ItemEntries=(
+			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.14,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
 					EntryWeight=0.80,
 					ItemClassStrings=("PrimalItemArmor_PhiomiaSaddle_C","PrimalItemArmor_ParaSaddle_C"),

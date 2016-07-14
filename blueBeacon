@@ -2,7 +2,7 @@
 	ItemSets=(
 		( 
 			; Stone Shack
-			MinNumItems=5,MaxNumItems=5,NumItemsPower=1.0,SetWeight=0.07,bItemsRandomWithoutReplacement=true,ItemEntries=(
+			MinNumItems=5,MaxNumItems=5,NumItemsPower=1.0,SetWeight=0.05,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
 					EntryWeight=1.0,
 					ItemClassStrings=("PrimalItemStructure_StoneFloor_C"),
@@ -47,7 +47,7 @@
 		),
 		( 
 			; Advanced Stone Shack
-			MinNumItems=6,MaxNumItems=6,NumItemsPower=1.0,SetWeight=0.04,bItemsRandomWithoutReplacement=true,ItemEntries=(
+			MinNumItems=6,MaxNumItems=6,NumItemsPower=1.0,SetWeight=0.03,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
 					EntryWeight=1.0,
 					ItemClassStrings=("PrimalItemStructure_MetalLadder_C"),
@@ -243,7 +243,7 @@
 		),
 		( 
 			; Resources
-			MinNumItems=2,MaxNumItems=3,NumItemsPower=1.0,SetWeight=0.18,bItemsRandomWithoutReplacement=true,ItemEntries=(
+			MinNumItems=2,MaxNumItems=3,NumItemsPower=1.0,SetWeight=0.20,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
 					EntryWeight=0.1,
 					ItemClassStrings=("PrimalItemConsumable_Narcotic_C","PrimalItemConsumable_Stimulant"),
@@ -317,7 +317,7 @@
 		),
 		( 
 			; Trinkets, Pipes, and Buildings
-			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.16,bItemsRandomWithoutReplacement=true,ItemEntries=(
+			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.17,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
 					EntryWeight=0.30,
 					ItemClassStrings=("PrimalItemConsumable_WaterJarCraftable_C","PrimalItem_WeaponCompass_C","PrimalItemStructure_CropPlot_Medium_C","PrimalItem_WeaponMagnifyingGlass_C","PrimalItemStructure_TreeTap_C","PrimalItem_WeaponHandcuffs_C"),

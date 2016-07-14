@@ -104,8 +104,8 @@
 				(
 					EntryWeight=0.08,
 					ItemClassStrings=("PrimalItemAmmo_AdvancedBullet_C","PrimalItemAmmo_SimpleShotgunBullet_C","PrimalItemAmmo_SimpleRifleBullet_C","PrimalItemAmmo_GrapplingHook_C","PrimalItem_WeaponTripwireC4_C"),
-					ItemsWeights=(0.25,0.25,0.37,0.1,0.03), 
-					MinQuantity=55.0,MaxQuantity=100.0,
+					ItemsWeights=(0.20,0.37,0.36,0.05,0.02), 
+					MinQuantity=45.0,MaxQuantity=80.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				),

@@ -15,7 +15,7 @@
 					EntryWeight=0.16,
 					ItemClassStrings=("PrimalItemResource_Sparkpowder_C"),
 					ItemsWeights=(1.0),
-					MinQuantity=15.0,MaxQuantity=35.0,
+					MinQuantity=12.0,MaxQuantity=28.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				),
@@ -39,7 +39,7 @@
 					EntryWeight=0.1,
 					ItemClassStrings=("PrimalItemConsumable_RawMeat_C"),
 					ItemsWeights=(1.0),
-					MinQuantity=20.0,MaxQuantity=20.0,
+					MinQuantity=15.0,MaxQuantity=20.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				),
@@ -47,7 +47,7 @@
 					EntryWeight=0.08,
 					ItemClassStrings=("PrimalItemConsumable_Berry_Mejoberry_C"),
 					ItemsWeights=(1.0),
-					MinQuantity=30.0,MaxQuantity=30.0,
+					MinQuantity=20.0,MaxQuantity=30.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				),
@@ -55,7 +55,7 @@
 					EntryWeight=0.13,
 					ItemClassStrings=("PrimalItemConsumable_CookedMeat_Jerky_C","PrimalItemConsumable_CookedMeat_C"),
 					ItemsWeights=(0.5,0.5),
-					MinQuantity=3.0,MaxQuantity=12.0,
+					MinQuantity=5.0,MaxQuantity=10.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				),
@@ -166,7 +166,7 @@
 					EntryWeight=0.17,
 					ItemClassStrings=(,"PrimalItemResource_Wood_C","PrimalItemResource_Thatch_C"),
 					ItemsWeights=(0.4,0.6),
-					MinQuantity=20.0,MaxQuantity=50.0,
+					MinQuantity=15.0,MaxQuantity=45.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				),
@@ -174,7 +174,7 @@
 					EntryWeight=0.17,
 					ItemClassStrings=("PrimalItemResource_Stone_C","PrimalItemResource_Flint_C"),
 					ItemsWeights=(0.4,0.6),
-					MinQuantity=20.0,MaxQuantity=55.0,
+					MinQuantity=15.0,MaxQuantity=48.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				),
@@ -182,7 +182,7 @@
 					EntryWeight=0.17,
 					ItemClassStrings=("PrimalItemResource_Fibers_C"),
 					ItemsWeights=(1.0),
-					MinQuantity=25.0,MaxQuantity=50.0,
+					MinQuantity=18.0,MaxQuantity=42.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				),
@@ -190,7 +190,7 @@
 					EntryWeight=0.17,
 					ItemClassStrings=("PrimalItemResource_Chitin_C","PrimalItemResource_Hide_C"),
 					ItemsWeights=(0.7,0.3),
-					MinQuantity=45.0,MaxQuantity=70.0,
+					MinQuantity=25.0,MaxQuantity=55.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				),
@@ -198,7 +198,7 @@
 					EntryWeight=0.08,
 					ItemClassStrings=("PrimalItemResource_Crystal_C","PrimalItemResource_Metal_C"),
 					ItemsWeights=(0.2,0.8),
-					MinQuantity=9.0,MaxQuantity=25.0,
+					MinQuantity=4.0,MaxQuantity=18.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				),
@@ -206,7 +206,7 @@
 					EntryWeight=0.08,
 					ItemClassStrings=("PrimalItemResource_Pelt_C"),
 					ItemsWeights=(1.0),
-					MinQuantity=14.0,MaxQuantity=28.0,
+					MinQuantity=5.0,MaxQuantity=18.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				),
@@ -214,7 +214,7 @@
 					EntryWeight=0.08,
 					ItemClassStrings=("PrimalItemResource_Oil_C","PrimalItemResource_Silicon_C"),
 					ItemsWeights=(0.5,0.5),
-					MinQuantity=16.0,MaxQuantity=30.0,
+					MinQuantity=5.0,MaxQuantity=17.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				),
@@ -222,7 +222,7 @@
 					EntryWeight=0.08,
 					ItemClassStrings=("PrimalItemResource_Obsidian_C"),
 					ItemsWeights=(1.0),
-					MinQuantity=8.0,MaxQuantity=20.0,
+					MinQuantity=4.0,MaxQuantity=12.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				)
@@ -362,7 +362,7 @@
 					EntryWeight=0.75,
 					ItemClassStrings=("PrimalItemStructure_WoodSign_C","PrimalItemStructure_StorageBox_Small_C","PrimalItemStructure_Bed_Simple_C","PrimalItemStructure_StandingTorch_C","PrimalItemStructure_Furniture_WoodChair_C"),
 					ItemsWeights=(0.1,0.3,0.3,0.2,0.1),
-					MinQuantity=2.0,MaxQuantity=4.0,
+					MinQuantity=1.0,MaxQuantity=3.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				),

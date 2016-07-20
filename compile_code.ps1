@@ -1,7 +1,7 @@
 $formatFilePath = ".\OUTPUT_FORMAT"
 $outputFilePath = ".\FULL_DEPLOY_CODE"
 
-$files = get-childitem .\ | where-object { $_.FullName -match "Beacon$" }
+$files = get-childitem .\ | where-object { $_.FullName -match "beacon" }
 
 foreach($file in $files) {
 	$fileName = $file.FullName + '_compile'

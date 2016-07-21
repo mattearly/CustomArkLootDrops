@@ -7,18 +7,18 @@
 * 16% - 15-35 Sparkpowder  
 * 12% - 1 Waterskin  
 * 12% - 1-2 Sleeping Bag  
-* 10% - 20 Raw Meat  
-* 8% - 30 Mejoberry  
-* 13% - 3-12 Jerky + Cooked Meat Mix  
+* 10% - 15-20 Raw Meat  
+* 8% - 20-30 Mejoberry  
+* 13% - 5-10 Jerky + Cooked Meat Mix  
 * 5% - 1 Blueprint of Campfire, Waterskin, or Sleeping Bag  
 
-##### Set 2 | 7% | Cloth Armor | 1 Item  
+##### Set 2 | 9% | Cloth Armor | 1 Item  
 
 * 84% - 1 Low Quality Cloth Pants, Shirt, Helmet, Boots, or Gloves (45% Blueprint Chance)  
 * 14% - 1 Mid Quality Cloth Pants, Shirt, Helmet, Boots, or Gloves (55% Blueprint Chance)  
 * 2% - 1 High Quality Cloth Pants, Shirt, Helmet, Boots, or Gloves (65% Blueprint Chance)  
 
-##### Set 3 | 8% | Weapons and Tools | 1 Item  
+##### Set 3 | 10% | Weapons and Tools | 1 Item  
 
 * 45% - 1 Low Quality Stone Pick, Hatchet, Slingshot, or Torch (45% Blueprint Chance)  
 * 5% - 1 Mid Quality Stone Pick, Hatchet, Slingshot, or Torch (55% Blueprint Chance)  
@@ -28,25 +28,25 @@
 * 12% - 1-3 Spear  
 * 5% - 1 Blueprint of Flare Gun, Bola, or Spear  
 
-##### Set 4 | 18% | Resources | 2 to 4 Items  
+##### Set 4 | 20% | Resources | 2 to 4 Items  
 
-* 17% - 20-50 Wood + Thatch Mix  
-* 17% - 20-55 Stone + Flint Mix  
-* 17% - 25-50 Fiber  
-* 17% - 50-75 Chitin + Hide Mix 
-* 8% - 8-21 Crystal + Metal Mix  
-* 8% - 12-35 Pelt  
-* 8% - 18-34 Oil + Silica Pearl Mix  
-* 8% - 8-24 Obsidian  
+* 17% - 15-45 Wood + Thatch Mix  
+* 17% - 15-48 Stone + Flint Mix  
+* 17% - 18-42 Fiber  
+* 17% - 25-55 Chitin + Hide Mix 
+* 8% - 4-18 Crystal + Metal Mix  
+* 8% - 5-18 Pelt  
+* 8% - 5-17 Oil + Silica Pearl Mix  
+* 8% - 4-12 Obsidian  
 
-##### Set 5 | 6% | Eggs | 1 Item  
+##### Set 5 | 5% | Eggs | 1 Item  
 
 * 25% - 1 Parasaur Egg  
 * 25% - 1-2 Dilo Egg  
 * 25% - 1-2 Dodo Egg  
 * 25% - 1-2 Lystrosaurus Egg  
 
-##### Set 6 | 9% | Small Shanty Shack | 5 Items(set)  
+##### Set 6 | 6% | Small Shanty Shack | 5 Items(set)  
 
 * 1 Thatch Foundation  
 * 1 Thatch Ceiling  
@@ -54,7 +54,7 @@
 * 1 Thatch Doorway  
 * 1 Thatch Door  
 
-##### Set 7 | 4% | Medium Shanty Shack | 5 Items(set)  
+##### Set 7 | 3% | Medium Shanty Shack | 5 Items(set)  
 
 * 4 Thatch Foundation  
 * 4 Thatch Ceiling  
@@ -68,7 +68,7 @@
 * 15% - 1 Wood Cage, Wardrums, or Rope Ladder (80% Blueprint Chance)
 * 10% - 1 Blueprint of Wood Sign, Small Box, Simple Bed, Standing Torch, or Wood Chair  
 
-##### Set 9 | 13% | Saddles | 1 Item  
+##### Set 9 | 14% | Saddles | 1 Item  
 
 * 80% - 1 Low Quality Phiomia or Parasaur Saddle (45% Blueprint Chance)  
 * 14% - 1 Mid Quality Phiomia or Parasaur Saddle (55% Blueprint Chance)  
@@ -77,7 +77,7 @@
 
 ##Green Beacon  
 
-##### Set 1 | 8% | Wood Shack | 5 Items(set)  
+##### Set 1 | 5% | Wood Shack | 5 Items(set)  
 
 * 1 Wood Foundation  
 * 1 Wood Ceiling  
@@ -85,7 +85,7 @@
 * 1 Wood Doorway  
 * 1 Wood Door 
 
-##### Set 2 | 4% | Advanced Wooden Shack | 7 Items(set)  
+##### Set 2 | 3% | Advanced Wooden Shack | 7 Items(set)  
 
 * 1 Wood Trapdoor Ceiling 
 * 1 Wood Trapdoor  
@@ -99,13 +99,13 @@
 
 * 1 Blueprint of Wood Foundation, Door, Doorway, Trapdoor, Trapdoor Ceiling, Wall, Ladder, Ramp, Wall Sign, Billboard, Pillar, Catwalk, Fence Foundation, Window Wall, Window, or Railing  
 
-##### Set 4 | 7% | Hide Armor | 1 Item  
+##### Set 4 | 9% | Hide Armor | 1 Item  
 
 * 84% - 1 Low Quality Hide Pants, Shirt, Helmet, Boots, or Gloves (45% Blueprint Chance)  
 * 14% - 1 Mid Quality Hide Pants, Shirt, Helmet, Boots, or Gloves (55% Blueprint Chance)  
 * 2% - 1 High Quality Hide Pants, Shirt, Helmet, Boots, or Gloves (65% Blueprint Chance)  
 
-##### Set 5 | 8% | Weapons and Tools | 1 Item  
+##### Set 5 | 9% | Weapons and Tools | 1 Item  
 
 * 33% - 1 Low Quality Bow (45% Blueprint Chance)  
 * 4% - 1 Mid Quality Bow (55% Blueprint Chance)  
@@ -119,22 +119,22 @@
 
 ##### Set 6 | 19% | Resources | 2 to 3 Items  
 
-* 13% - 28-73 Wood + Thatch Mix  
-* 13% - 28-78 Stone + Flint Mix  
-* 13% - 55-85 Fiber  
-* 8% - 20-42 Narcotic + Stimulant Mix  
-* 13% - 55-105 Chitin + Hide Mix  
-* 8% - 15-27 Obsidian  
-* 8% - 11-26 Crystal + Metal Mix  
-* 8% - 12-42 Pelt  
-* 8% - 20-38 Oil + Silica Pearl Mix  
-* 8% - 16-36 Rare Mushroom + Rare Flower Mix  
+* 13% - 20-60 Wood + Thatch Mix  
+* 13% - 20-61 Stone + Flint Mix  
+* 13% - 18-70 Fiber  
+* 8% - 5-16 Narcotic + Stimulant Mix  
+* 13% - 35-72 Chitin + Hide Mix  
+* 8% - 6-16 Obsidian  
+* 8% - 5-14 Crystal + Metal Mix  
+* 8% - 6-25 Pelt  
+* 8% - 9-18 Oil + Silica Pearl Mix  
+* 8% - 4-12 Rare Mushroom + Rare Flower Mix  
 
 ##### Set 7 | 6% | Eggs | 1 Item  
 
 * 1 Turtle, Trike, or Raptor Egg  
 
-##### Set 8 | 15% | Farming | 1 Item
+##### Set 8 | 14% | Farming | 1 Item
 
 * 23% - 1-2 Small Crop Plot + Compost Bin Mix
 * 23% - 4-9 Stone Pipes Intake + Straight + Incline + Intersection + Vertical + Tap Mix  
@@ -142,12 +142,12 @@
 * 23% - 1-3 Fertilizer  
 * 23% - 1 Savoroot, Longrass, Rockarrot, or Citronal Seed  
 
-##### Set 9 | 19% | Furniture | 1 Item  
+##### Set 9 | 20% | Furniture | 1 Item  
 
-* 40% - 6-15 of the 25 different Dye Colorings Mix    
-* 10% - 1 Paint Brush or Spray Paint (80% Blueprint Chance)  
-* 30% - 1 Large Box, Forge, Smithy, MortarPestle, Cooking Pot, Wood Table, Raft, Gravestone, or Wood Bench (80% Blueprint Chance)  
-* 20% - 1 Wood Dino Gate, Gateway, or Spike Wall (80% Blueprint Chance)  
+* 46% - 8-16 of the 25 different Dye Colorings Mix    
+* 8% - 1 Paint Brush or Spray Paint (80% Blueprint Chance)  
+* 28% - 1 Large Box, Forge, Smithy, MortarPestle, Cooking Pot, Wood Table, Raft, Gravestone, or Wood Bench (80% Blueprint Chance)  
+* 18% - 1 Wood Dino Gate, Gateway, or Spike Wall (80% Blueprint Chance)  
 
 ##### Set 10 | 11% | Saddle | 1 Item  
 
@@ -156,9 +156,9 @@
 * 2% - 1 High Quality Raptor, Trike, Dolphin, or Turtle Saddle (65% Blueprint Chance)  
 * 4% - 1-2 Broth of Enlightenment  
 
-## Blue Beacon (aka Brew Beacon)  
+## Blue Beacon   
 
-##### Set 1 | 7% | Stone Shack | 5 Items(set)
+##### Set 1 | 5% | Stone Shack | 5 Items(set)
 
 * 1 Stone Foundation
 * 1 Stone Ceiling
@@ -166,7 +166,7 @@
 * 1 Stone Doorway
 * 1 Reinforced Door
 
-##### Set 2 | 4% | Advanced Stone Shack | 6 Items(set)
+##### Set 2 | 3% | Advanced Stone Shack | 6 Items(set)
 
 * 1 Metal Ladder  
 * 1 Stone Wall With Window  
@@ -175,20 +175,20 @@
 * 1 Stone Trapdoor  
 * 1 Stone Window  
 
-##### Set 3 | 7% | Chitin Armor | 1 Item
+##### Set 3 | 10% | Chitin Armor | 1 Item
 
 * 84% - 1 Low Quality Chitin Pants, Shirt, Helmet, Boots, or Gloves (45% Blueprint Chance)  
 * 14% - 1 Mid Quality Chitin Pants, Shirt, Helmet, Boots, or Gloves (55% Blueprint Chance)  
 * 2% - 1 High Quality Chitin Pants, Shirt, Helmet, Boots, or Gloves (65% Blueprint Chance)
 
-##### Set 4 | 8% | Weapons | 1 Item
+##### Set 4 | 10% | Weapons | 1 Item
 
 * 80% - 1 Low Quality Metal Pick, Hatchet, or Pike (45% Blueprint Chance)
 * 14% - 1 Mid Quality Metal Pick, Hatchet, or Pike (55% Blueprint Chance)
 * 2% - 1 High Quality Metal Pick, Hatchet, or Pike (65% Blueprint Chance)
 * 4% - 2-5 Plant Species X
 
-##### Set 5 | 19% | Potions | 2 to 3 Items
+##### Set 5 | 17% | Potions | 1 to 3 Items
 
 * 13% - 2-7 Medical Brew
 * 10% - 2-7 Energy Brew
@@ -202,19 +202,19 @@
 
 ##### Set 6 | 18% | Resources | 2 to 3 Items
 
-* 10% - 35-65 Narcotic + Stimulant Mix
-* 18% - 45-110 Cementing Paste
-* 13% - 15-25 Crystal + Metal Ingot Mix
-* 17% - 18-40 Polymer
-* 17% - 22-65 Pelt
-* 14% - 5-15 Sap
-* 11% - 1-3 Gasoline  
+* 11% - 15-28 Narcotic + Stimulant Mix
+* 20% - 25-75 Cementing Paste
+* 13% - 12-30 Crystal + Metal Ingot Mix
+* 18% - 10-25 Polymer
+* 18% - 15-40 Pelt
+* 8% - 5-15 Sap
+* 12% - 1-2 Gasoline  
 
-##### Set 7 | 6% | Eggs
+##### Set 7 | 5% | Eggs
 
 * 1 Stego, Ankylo, Boa, Scropion, or Spider Egg
 
-##### Set 8 | 16% | Trinkets, Pipes, Buildings and Odds | 1 Item
+##### Set 8 | 18% | Trinkets, Pipes, Buildings and Odds | 1 Item
 
 * 30% - 1 Water Jar, Compass, Medium Crop Plot, Magnifying Glass, Tree Tap, or Handcuffs (80% Blueprint Chance)
 * 25% - 1 Stone Gateway, Reinforced Gate, Metal Spike Wall, Metal Sign, Trophy Base, Wall Trophy Mount, or Ballista Turret (80% Blueprint Chance)
@@ -231,35 +231,35 @@
 
 ## Purple Beacon
 
-##### Set 1 | 9% | Weapons | 1 Item
+##### Set 1 | 13% | Weapons | 1 Item
 
 * 84% - 1 Low Quality Simple Pistol, Longneck Rifle, or Double-Barrel Shotgun (45% Blueprint Chance)
 * 14% - 1 Mid Quality Simple Pistol, Longneck Rifle, or Double-Barrel Shotgun (55% Blueprint Chance)
 * 2% - 1 High Quality Simple Pistol, Longneck Rifle, or Double-Barrel Shotgun (65% Blueprint Chance)
 
-##### Set 2 | 24% | Ammo | 1 Item
+##### Set 2 | 23% | Ammo | 1 Item
 
-* 18% - 12-22 Simple Bullet
-* 12% - 6-12 Tranq Dart
-* 20% - 7-14 Shotgun Bullet
-* 20% - 8-16 Simple Rifle Bullet
-* 18% - 1-4 Grenade
-* 7% - 55-85 Simple Bullet + Shotgun Bullet + Rifle Bullet + Grenade Weighted Mix (Madman Ammo Pack)
+* 16% - 8-18 Simple Bullet
+* 11% - 5-10 Tranq Dart
+* 21% - 5-11 Shotgun Bullet
+* 23% - 5-12 Simple Rifle Bullet
+* 18% - 1-2 Grenade
+* 6% - 28-55 Simple Bullet + Shotgun Bullet + Rifle Bullet + Grenade Weighted Mix  
 * 5% - 1 Blueprint of Simple Bullet, Tranq Dart, Shotgun Bullet, Simple Rifle Bullet, Ballista Arrow, or Cannonball
 
-##### Set 3 | 10% | Egg | 1 Item
+##### Set 3 | 5% | Egg | 1 Item
 
 * 1 Sarco, Galli, Bronto, Pachy, Dimorph, or Diplo Egg
 
-##### Set 4 | 35% | Trinkets and Odds | 1 Item
+##### Set 4 | 44% | Trinkets and Odds | 1 Item
 
-* 23% - 1 Fabricator, Large Crop Plot, Industrial Grill, Power Generator, Stone Fireplace, or Beer Barrel (80% Blueprint Chance)
-* 12% - 1 Reinforced Behemoth Gate, Stone Behemoth Gateway, or Wood Tree Platform Blueprint
-* 30% - 1 Any Metal Building Blueprint
-* 25% - 1 Silencer, Holo Scope, Laser, or Scope Attachment (80% Blueprint Chance)
-* 10% - 1 Catapult Turret or Cannon (80% Blueprint Chance)
+* 24% - 1 Fabricator, Large Crop Plot, Industrial Grill, Power Generator, Stone Fireplace, or Beer Barrel (80% Blueprint Chance)
+* 11% - 1 Reinforced Behemoth Gate, Stone Behemoth Gateway, or Wood Tree Platform Blueprint
+* 33% - 1 Any Metal Building Blueprint
+* 23% - 1 Silencer, Holo Scope, Laser, or Scope Attachment (80% Blueprint Chance)
+* 9% - 1 Catapult Turret or Cannon (80% Blueprint Chance)
 
-##### Set 5 | 22% | Saddles | 1 Item
+##### Set 5 | 15% | Saddles | 1 Item
 
 * 80% - 1 Low Quality Carno, Sarco, Mammoth, Gallimimus, Terrorbird, Procoptodon, or Rhino Saddle (45% Blueprint Chance)
 * 14% - 1 Mid Quality Carno, Sarco, Mammoth, Gallimimus, Terrorbird, Procoptodon, or Rhino Saddle (55% Blueprint Chance)
@@ -268,33 +268,33 @@
 
 ##Yellow Beacon
 
-##### Set 1 | 9% | Weapons | 1 Item
+##### Set 1 | 11% | Weapons | 1 Item
 
 * 84% - 1 Low Quality Machined Pistol, Longneck Rifle, or Double-Barrel Shotgun (45% Blueprint Chance)
 * 14% - 1 Mid Quality Machined Pistol, Longneck Rifle, or Double-Barrel Shotgun (55% Blueprint Chance)
 * 2% - 1 High Quality Machined Pistol, Longneck Rifle, or Double-Barrel Shotgun (65% Blueprint Chance)
 
-##### Set 2 | 10% | Flak Armor | 1 Item
+##### Set 2 | 14% | Flak Armor | 1 Item
 
 * 84% - 1 Low Quality Flak Pants, Shirt, Helmet, Boots, or Gloves (45% Blueprint Chance)  
 * 14% - 1 Mid Quality Flak Pants, Shirt, Helmet, Boots, or Gloves (55% Blueprint Chance)  
 * 2% - 1 High Quality Flak Pants, Shirt, Helmet, Boots, or Gloves (65% Blueprint Chance)
 
-##### Set 3 | 23% | Ammo | 1 Item
+##### Set 3 | 20% | Ammo | 1 Item
 
-* 20% - 10-20 Advanced Bullet
-* 7% - 9-15 Tranq Dart  
-* 17% - 1-4 Grappling Hook  
-* 22% - 8-14 Shotgun Bullet  
-* 22% - 10-16 Simple Rifle Bullet  
-* 8% - 55-100 Advanced Bullet + Shotgun Bullet + Simple Rifle Bullet + c4 Tripwire + Grappling Hook Weighted Mix (Gunner Pack)  
-* 4% - 1 Advanced Bullet, Chain Bola, Transponder Node, Grappling Hook, or c4 Tripwire Blueprint  
+* 18% - 8-15 Advanced Bullet
+* 1% - 7-12 Tranq Dart  
+* 17% - 1-3 Grappling Hook  
+* 22% - 6-12 Shotgun Bullet  
+* 22% - 8-14 Simple Rifle Bullet  
+* 6% - 30-65 Advanced Bullet + Shotgun Bullet + Simple Rifle Bullet + c4 Tripwire + Grappling Hook Weighted Mix (Gunner Pack)  
+* 5% - 1 Advanced Bullet, Chain Bola, Transponder Node, Grappling Hook, or c4 Tripwire Blueprint  
 
-##### Set 4 | 9% | Eggs | 1 Item
+##### Set 4 | 5% | Eggs | 1 Item
 
-* 1 Argent, Kairuku, Carno, Oviraptor, Terrorbird, or Boa Egg, or Rhino Horn
+* 1 Argent, Kairuku, Carno, Oviraptor, Terrorbird, Boa Egg, or (non-egg)Rhino Horn
 
-##### Set 5 | 29% | Trinkets and Odds | 1 Item
+##### Set 5 | 32% | Trinkets and Odds | 1 Item
 
 * 30% - 1 Transponder Tracker, GPS, Omni Lampost, Lampost, Canteen, or C4 Detonator (80% Blueprint Chance)
 * 16% - 1 Fabricator, Metal Water Tank, Refrigerator, or Air Conditioner (80% Blueprint Chance)
@@ -303,7 +303,7 @@
 * 20% - 2-5 Electrical Wiring Pieces
 * 4% - 1 Any Electrical Wiring Blueprint
 
-##### Set 6 | 20% | Saddles | 1 item
+##### Set 6 | 18% | Saddles | 1 item
 
 * 80% - 1 Low Quality Megalodon, Diplodocus, Arthro, Manta, Sabertooth, Dunkleosteus, Beaver Saddle (45% Blueprint Chance)
 * 14% - 1 Mid Quality Megalodon, Diplodocus, Arthro, Manta, Sabertooth, Dunkleosteus, Beaver Saddle (55% Blueprint Chance)
@@ -312,43 +312,43 @@
 
 ##Red Beacon
 
-##### Set 1 | 11% | Weapons | 1 Item
+##### Set 1 | 21% | Weapons | 1 Item
 
 * 84% - 1 Low Quality Machined Pistol, Longneck Rifle, Double-Barrel Shotgun, Assault Rifle, or Rocket Launcher (45% Blueprint Chance)
 * 14% - 1 Mid Quality Machined Pistol, Longneck Rifle, Double-Barrel Shotgun, Assault Rifle, or Rocket Launcher (55% Blueprint Chance)
 * 2% - 1 High Quality Machined Pistol, Longneck Rifle, Double-Barrel Shotgun, Assault Rifle, or Rocket Launcher (65% Blueprint Chance)
 
-##### Set 2 | 13% | Helm Armor | 1 Item
+##### Set 2 | 12% | Helm Armor | 1 Item
 
 * 84% - 1 Low Quality Miner's Helm or Gas Mask (45% Blueprint Chance)  
 * 14% - 1 Mid Quality Miner's Helm or Gas Mask (55% Blueprint Chance)  
 * 2% - 1 High Quality Miner's Helm or Gas Mask (65% Blueprint Chance)
 
-##### Set 3 | 19% | Ammo | 1 Item
+##### Set 3 | 21% | Ammo | 1 Item
 
-* 18% - 30-90 Advanced Rifle Bullets
-* 17% - 5-18 Metal Arrows
-* 16% - 7-22 Advanced Sniper Bullets
-* 10% - 1-3 Rockets
-* 10% - 6-14 Shotgun Bullets
-* 10% - 12-18 Simple Rifle Bullets 
-* 8% - 1-2 C4 Charge
-* 4% - 75-150 Deathbringer Ammo Pack: Advanced Rifle, Sniper, Metal Arrows, Rockets, Shotgun Shells, & Simple Rifle Ammo Weighted Mix
-* 2% - 175-275 Endgame Ammo Pack: Advanced Rifle, Sniper, Metal Arrows, Rockets, Shotgun Shells, & Simple Rifle Ammo Weighted Mix
+* 19% - 35-90 Advanced Rifle Bullets
+* 18% - 7-14 Metal Arrows
+* 18% - 8-16 Advanced Sniper Bullets
+* 9% - 1-2 Rockets
+* 9% - 6-14 Shotgun Bullets
+* 9% - 9-15 Simple Rifle Bullets 
+* 6% - 1-2 C4 Charge
+* 4% - 50-100 Advanced Rifle, Sniper, Metal Arrows, Rockets, Shotgun Shells, & Simple Rifle Ammo Weighted Mix
+* 2% - 90-180 Advanced Rifle, Sniper, Metal Arrows, Rockets, Shotgun Shells, & Simple Rifle Ammo Weighted Mix
 * 5% - 1 Blueprint of Advanced Rifle Bullet, Sniper Bullet, Rocket, Compound Arrow, or C4 Charge
 
-##### Set 4 | 14% | Eggs and Rares | 1 Item
+##### Set 4 | 5% | Eggs and Rares | 1 Item
 
 * 60% - 1 Rex, Spino, Quetz, or Giga(very rare) Egg
 * 40% - 1 Black Pearl or Substrate Absorbent
 
-##### Set 5 | 16% | Trinkets and Odds | 1 Item
+##### Set 5 | 20% | Trinkets and Odds | 1 Item
 
 * 35% - 1 Metal Gateframe, Gateway, or Tree Platform Blueprint
 * 35% - 1 Industrial Forge, Chemistry Bench, Vault, Bunk Bed, or War Map (80% Blueprint Chance)
 * 30% - 1 Auto Turret, Minigun Turret, Rocket Turret, or Sea Mine (80% Blueprint Chance)
 
-##### Set 6 | 22% | Saddles | 1 Item
+##### Set 6 | 23% | Saddles | 1 Item
 
 * 80% - 1 Low Quality Argent, Rex, Dire Bear, Plesiasaur, Spino, or Bronto Saddle (45% Blueprint Chance)
 * 14% - 1 Mid Quality Argent, Rex, Dire Bear, Plesiasaur, Spino, or Bront Saddle (55% Blueprint Chance)

@@ -15,3 +15,9 @@ The drop charts are mostly the same, but the rates have been heavily modified. A
 
 #### How to use this code on your server?  
 The easiest way to use this is to copy all the code from the file [FULL_DEPLOY_CODE](FULL_DEPLOY_CODE) and paste it into your *game.ini* file, anywhere under the [/script/shootergame.shootergamemode]. Then Save your server and restart it (be sure to warn your players so they dont lose stuff/can land their fliers, all that standard stuff). If you are still stuck on this, there is a lot of additional information out there about editing your game.ini file, just search Google.  
+
+##### Support
+  
+I don't expect anything, so don't feel bad if you can't. If you want to help out, a coffee would be appreciated as proper coding fuel.  
+* [PayPal](paypal.me/mattearly)  
+* Bitcoin: 1Nwi1GBJtsuo1WQJqK83Ckr5NDJ3zwi5mM  

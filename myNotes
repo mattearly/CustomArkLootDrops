@@ -1,7 +1,5 @@
 NOTES: My own running update notes on the project, likely useless to others
 ToDo:
-	Add Greenhouse walls
-		PrimalItemStructure_GreenhouseWindow_C 
 	Add Slopped Left/Right walls
 	make closer to default beacons
 	-> make red have the possibility of rolling back into yellow, purple, or blue
@@ -43,10 +41,12 @@ General Style Rules:
 
 Other Random Notes:
 
-Big Revision 8 Changes -
-	Greenhouse Blueprints Added
-	Plant Species X Moved to Green along with other seeds
-	minor adjustments to various drop odds (no major adjustments, mostly were only adjusted a % or 2)
-	Added ~42% chance of blue item to be in a purple beacon
-	Added ~26% chance of blue, ~31% chance of purple to the yellow beacon
+Revision 8 Changes -
+	-> Greenhouse Blueprints Added
+	-> Plant Species X Moved to Green Beacon, now beside other seeds
+	-> Minor adjustments to various drop odds across the board (no major adjustments, mostly were only adjusted a % or 2)
+	-> BIG Change to the way Purple, Yellow, and Red Beacons work. They are now closer to the original logic intended by the devs.
+		-> Purple: Now has a ~42% chance of Blue Beacon Item
+		-> Yellow: Now has a ~26% chance of Blue Beacon Item and ~31% chance of Purple Beacon Item
+		-> Red: Now has ~17% chance of Blue Beacon Item, ~21% chance of Purple Beacon Item, and ~26% chance of Yellow Beacon Item
 

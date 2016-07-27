@@ -424,7 +424,7 @@
 			; AMMO
 			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.12,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
-					EntryWeight=0.16,
+					EntryWeight=0.18,
 					ItemClassStrings=("PrimalItemAmmo_SimpleBullet_C"),
 					ItemsWeights=(1.0),
 					MinQuantity=8.0,MaxQuantity=18.0,
@@ -432,15 +432,7 @@
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				),
 				(
-					EntryWeight=0.11,
-					ItemClassStrings=("PrimalItemAmmo_TranqDart_C"),
-					ItemsWeights=(1.0),
-					MinQuantity=5.0,MaxQuantity=10.0,
-					MinQuality=1.0,MaxQuality=1.0,
-					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
-				),
-				(
-					EntryWeight=0.21,
+					EntryWeight=0.23,
 					ItemClassStrings=("PrimalItemAmmo_SimpleShotgunBullet_C"),
 					ItemsWeights=(1.0),
 					MinQuantity=5.0,MaxQuantity=11.0,
@@ -448,7 +440,7 @@
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				),
 				(
-					EntryWeight=0.23,
+					EntryWeight=0.24,
 					ItemClassStrings=("PrimalItemAmmo_SimpleRifleBullet_C"),
 					ItemsWeights=(1.0),
 					MinQuantity=5.0,MaxQuantity=12.0,
@@ -456,7 +448,7 @@
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				),
 				(
-					EntryWeight=0.18,
+					EntryWeight=0.19,
 					ItemClassStrings=("PrimalItem_WeaponGrenade_C"),
 					ItemsWeights=(1.0),
 					MinQuantity=1.0,MaxQuantity=2.0,
@@ -464,17 +456,17 @@
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				),
 				(
-					EntryWeight=0.06,
+					EntryWeight=0.10,
 					ItemClassStrings=("PrimalItemAmmo_SimpleBullet_C","PrimalItemAmmo_SimpleShotgunBullet_C","PrimalItemAmmo_SimpleRifleBullet_C","PrimalItem_WeaponGrenade_C"),
 					ItemsWeights=(0.25,0.35,0.35,0.05),
-					MinQuantity=28.0,MaxQuantity=55.0,
+					MinQuantity=21.0,MaxQuantity=50.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				),
 				(
-					EntryWeight=0.05,
-					ItemClassStrings=("PrimalItemAmmo_SimpleBullet_C","PrimalItemAmmo_TranqDart_C","PrimalItemAmmo_SimpleShotgunBullet_C","PrimalItemAmmo_SimpleRifleBullet_C","PrimalItem_WeaponGrenade_C","PrimalItemAmmo_BallistaArrow_C","PrimalItemAmmo_CannonBall_C"),
-					ItemsWeights=(0.15,0.15,0.14,0.14,0.14,0.14,0.14),
+					EntryWeight=0.06,
+					ItemClassStrings=("PrimalItemAmmo_SimpleBullet_C","PrimalItemAmmo_SimpleShotgunBullet_C","PrimalItemAmmo_SimpleRifleBullet_C","PrimalItem_WeaponGrenade_C","PrimalItemAmmo_BallistaArrow_C","PrimalItemAmmo_CannonBall_C"),
+					ItemsWeights=(0.17,0.17,0.17,0.17,0.16,0.16),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=true,ChanceToBeBlueprintOverride=0.0

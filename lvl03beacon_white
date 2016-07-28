@@ -71,7 +71,7 @@
 		),
 		(	
 			; Cloth Armor
-			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.09,bItemsRandomWithoutReplacement=true,ItemEntries=(
+			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.08,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
 					EntryWeight=0.84,
 					ItemClassStrings=("PrimalItemArmor_ClothPants_C","PrimalItemArmor_ClothShirt_C","PrimalItemArmor_ClothHelmet_C","PrimalItemArmor_ClothBoots_C","PrimalItemArmor_ClothGloves_C"),
@@ -100,7 +100,7 @@
 		),
 		(	
 			; Weapons and tools
-			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.10,bItemsRandomWithoutReplacement=true,ItemEntries=(
+			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.14,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
 					EntryWeight=0.45,
 					ItemClassStrings=("PrimalItem_WeaponStonePick_C","PrimalItem_WeaponStoneHatchet_C","PrimalItem_WeaponSlingshot_C","PrimalItem_WeaponTorch_C"),
@@ -161,7 +161,7 @@
 		),
 		( 
 			; Resources
-			MinNumItems=2,MaxNumItems=4,NumItemsPower=1.0,SetWeight=0.20,bItemsRandomWithoutReplacement=true,ItemEntries=(
+			MinNumItems=2,MaxNumItems=4,NumItemsPower=1.0,SetWeight=0.19,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
 					EntryWeight=0.17,
 					ItemClassStrings=(,"PrimalItemResource_Wood_C","PrimalItemResource_Thatch_C"),
@@ -357,7 +357,7 @@
 		),
 		( 
 			; Furniture
-			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.17,bItemsRandomWithoutReplacement=true,ItemEntries=(
+			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.16,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
 					EntryWeight=0.75,
 					ItemClassStrings=("PrimalItemStructure_WoodSign_C","PrimalItemStructure_StorageBox_Small_C","PrimalItemStructure_Bed_Simple_C","PrimalItemStructure_StandingTorch_C","PrimalItemStructure_Furniture_WoodChair_C"),
@@ -386,7 +386,7 @@
 		),
 		( 
 			; Saddle
-			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.14,bItemsRandomWithoutReplacement=true,ItemEntries=(
+			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.13,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
 					EntryWeight=0.80,
 					ItemClassStrings=("PrimalItemArmor_PhiomiaSaddle_C","PrimalItemArmor_ParaSaddle_C"),

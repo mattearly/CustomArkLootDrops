@@ -1,5 +1,10 @@
 NOTES: My own running update notes on the project, likely useless to others
 ToDo:
+	Add Slopped Left/Right walls
+	make closer to default beacons
+	-> make red have the possibility of rolling back into yellow, purple, or blue
+	-> make yellow have the possibility of rolling back into purple or blue
+	-> make purple have the possibility of rolling back into blue
 
 Questions I have:
 	Does item entries order matter?  seems like no, decently confirmed with stone house test example in blue crates, however class strings order can matter
@@ -29,6 +34,19 @@ Weights notes:
 General Style Rules:  
 
 1. All sets and items add up to '1.0' in their weights, which is equivalant of 100%. Always start the weights with a 0 (ex. 0.14 is 14%).
-~2. If a set has just a few blueprints, put them at the end.~
+~<strikethrough>2. If a set has just a few blueprints, put them at the end.</strikethrough>~
 3. If an item drops multiple, it should always have a 0% blueprint chance and make a seperate entry for a chance of 1 blueprint.
 4. If a set has many items that could 'roll into', the wieght should be higher. Likewise if a set has few items it could 'roll into', the weight should be lower.
+
+
+Other Random Notes:
+
+Revision 8 Changes -
+	-> Greenhouse Blueprints Added
+	-> Plant Species X Moved to Green Beacon, now beside other seeds
+	-> Minor adjustments to various drop odds across the board (no major adjustments, mostly were only adjusted a % or 2)
+	-> BIG Change to the way Purple, Yellow, and Red Beacons work. They are now closer to the original logic intended by the devs.
+		-> Purple: Now has a ~42% chance of Blue Beacon Item
+		-> Yellow: Now has a ~26% chance of Blue Beacon Item and ~31% chance of Purple Beacon Item
+		-> Red: Now has ~17% chance of Blue Beacon Item, ~21% chance of Purple Beacon Item, and ~26% chance of Yellow Beacon Item
+

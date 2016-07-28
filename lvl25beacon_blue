@@ -131,7 +131,7 @@
 			; Weapons
 			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.10,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
-					EntryWeight=0.80,
+					EntryWeight=0.84,
 					ItemClassStrings=("PrimalItem_WeaponMetalPick_C","PrimalItem_WeaponMetalHatchet_C","PrimalItem_WeaponPike_C"),
 					ItemsWeights=(0.37,0.33,.30),
 					MinQuantity=1.0,MaxQuantity=1.0,
@@ -153,14 +153,6 @@
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.8,MaxQuality=2.6,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.65
-				),
-				(
-					EntryWeight=0.04,
-					ItemClassStrings=("PrimalItemConsumable_Seed_DefensePlant_C"),
-					ItemsWeights=(1.0),
-					MinQuantity=2.0,MaxQuantity=5.0,
-					MinQuality=1.0,MaxQuality=1.0,
-					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				)
 			)
 		),

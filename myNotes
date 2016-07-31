@@ -1,10 +1,12 @@
 NOTES: My own running update notes on the project, likely useless to others
 ToDo:
 	Add Slopped Left/Right walls
-	make closer to default beacons
-	-> make red have the possibility of rolling back into yellow, purple, or blue
-	-> make yellow have the possibility of rolling back into purple or blue
-	-> make purple have the possibility of rolling back into blue
+	Patch 245 Updates:
+		-> add 3 spiral staircases
+		-> add industrial grinder
+		-> add Allosaurus saddle
+		-> add Pelagornis saddle
+		-> add fishing rod?!?
 
 Questions I have:
 	Does item entries order matter?  seems like no, decently confirmed with stone house test example in blue crates, however class strings order can matter

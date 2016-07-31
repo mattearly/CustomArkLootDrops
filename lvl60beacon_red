@@ -692,8 +692,8 @@
 				),
 				(
 					EntryWeight=0.17,
-					ItemClassStrings=("PrimalItemStructure_IndustrialCookingPot_C","PrimalItemStructure_Fabricator_C","PrimalItemStructure_WaterTankMetal_C","PrimalItemStructure_IceBox_C","PrimalItemStructure_AirConditioner_C"),
-					ItemsWeights=(0.2,0.2,0.2,0.2,0.2),
+					ItemClassStrings=("PrimalItemStructure_IndustrialCookingPot_C","PrimalItemStructure_Fabricator_C","PrimalItemStructure_WaterTankMetal_C","PrimalItemStructure_IceBox_C","PrimalItemStructure_AirConditioner_C","PrimalItemStructure_Grinder_C"),
+					ItemsWeights=(0.17,0.17,0.17,0.17,0.16,0.16),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.80

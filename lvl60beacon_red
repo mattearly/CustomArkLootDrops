@@ -133,24 +133,24 @@
 			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.03,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
 					EntryWeight=0.84,
-					ItemClassStrings=("PrimalItem_WeaponMetalPick_C","PrimalItem_WeaponMetalHatchet_C","PrimalItem_WeaponPike_C"),
-					ItemsWeights=(0.37,0.33,.30),
+					ItemClassStrings=("PrimalItem_WeaponMetalPick_C","PrimalItem_WeaponMetalHatchet_C","PrimalItem_WeaponPike_C","PrimalItem_WeaponFishingRod_C"),
+					ItemsWeights=(0.30,0.27,0.24,0.18),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.0,MaxQuality=1.3,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.45
 				),
 				(
 					EntryWeight=0.14,
-					ItemClassStrings=("PrimalItem_WeaponMetalPick_C","PrimalItem_WeaponMetalHatchet_C","PrimalItem_WeaponPike_C"),
-					ItemsWeights=(0.37,0.33,.30),
+					ItemClassStrings=("PrimalItem_WeaponMetalPick_C","PrimalItem_WeaponMetalHatchet_C","PrimalItem_WeaponPike_C","PrimalItem_WeaponFishingRod_C"),
+					ItemsWeights=(0.30,0.27,0.24,0.18),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.4,MaxQuality=1.7,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.55
 				),
 				(
 					EntryWeight=0.02,
-					ItemClassStrings=("PrimalItem_WeaponMetalPick_C","PrimalItem_WeaponMetalHatchet_C","PrimalItem_WeaponPike_C"),
-					ItemsWeights=(0.37,0.33,.30),
+					ItemClassStrings=("PrimalItem_WeaponMetalPick_C","PrimalItem_WeaponMetalHatchet_C","PrimalItem_WeaponPike_C","PrimalItem_WeaponFishingRod_C"),
+					ItemsWeights=(0.30,0.27,0.24,0.18),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.8,MaxQuality=2.6,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.65

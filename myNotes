@@ -1,19 +1,21 @@
 NOTES: My own running update notes on the project, likely useless to others
 ToDo:
 	Add Slopped Left/Right walls
+	Direbear saddle is in red, lvl 35 engram should be in purple
 	Patch 245 Updates:
 		-> add 3 spiral staircases
 			-> wood to green -DONE
 			-> stone to blue -DONE
 			-> metal to purple -DONE
 		-> add industrial grinder
-			-> red
+			-> red - DONE
 		-> add Allosaurus saddle
-			-> red
+			-> red - DONE
 		-> add Pelagornis saddle
 			-> yellow
 		-> add fishing rod?!?
 			-> blue
+
 
 Questions I have:
 	Does item entries order matter?  seems like no, decently confirmed with stone house test example in blue crates, however class strings order can matter

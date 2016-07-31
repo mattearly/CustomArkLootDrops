@@ -508,8 +508,8 @@
 				),
 				(
 					EntryWeight=0.33,
-					ItemClassStrings=("PrimalItemStructure_MetalRamp_C","PrimalItemStructure_MetalPillar_C","PrimalItemStructure_MetalLadder_C","PrimalItemStructure_MetalFloor_C","PrimalItemStructure_MetalWall_C","PrimalItemStructure_MetalDoor_C","PrimalItemStructure_MetalWallWithDoor_C","PrimalItemStructure_MetalCeiling_C","PrimalItemStructure_MetalCeilingWithTrapdoor_C","PrimalItemStructure_MetalCatwalk_C","PrimalItemStructure_MetalWindow_C","PrimalItemStructure_MetalTrapdoor_C","PrimalItemStructure_MetalFenceFoundation_C","PrimalItemStructure_MetalRailing_C","PrimalItemStructure_MetalWallWithWindow_C"),
-					ItemsWeights=(.06,.07,.07,.07,.07,.07,.07,.07,.07,.07,.06,.06,.06,.06,.07),
+					ItemClassStrings=("PrimalItemStructure_MetalRamp_C","PrimalItemStructure_MetalPillar_C","PrimalItemStructure_MetalLadder_C","PrimalItemStructure_MetalFloor_C","PrimalItemStructure_MetalWall_C","PrimalItemStructure_MetalDoor_C","PrimalItemStructure_MetalWallWithDoor_C","PrimalItemStructure_MetalCeiling_C","PrimalItemStructure_MetalCeilingWithTrapdoor_C","PrimalItemStructure_MetalCatwalk_C","PrimalItemStructure_MetalWindow_C","PrimalItemStructure_MetalTrapdoor_C","PrimalItemStructure_MetalFenceFoundation_C","PrimalItemStructure_MetalRailing_C","PrimalItemStructure_MetalWallWithWindow_C","PrimalItemStructure_MetalStairs_C"),
+					ItemsWeights=(.06,.06,.06,.06,.06,.06,.06,.07,.07,.07,.06,.06,.06,.06,.07,0.06),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=true,ChanceToBeBlueprintOverride=0.0

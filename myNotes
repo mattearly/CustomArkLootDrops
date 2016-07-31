@@ -3,10 +3,17 @@ ToDo:
 	Add Slopped Left/Right walls
 	Patch 245 Updates:
 		-> add 3 spiral staircases
+			-> wood to green
+			-> stone to blue
+			-> metal to purple or whereever metal is
 		-> add industrial grinder
+			-> red
 		-> add Allosaurus saddle
+			-> red
 		-> add Pelagornis saddle
+			-> yellow
 		-> add fishing rod?!?
+			-> blue
 
 Questions I have:
 	Does item entries order matter?  seems like no, decently confirmed with stone house test example in blue crates, however class strings order can matter

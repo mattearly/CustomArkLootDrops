@@ -976,16 +976,16 @@
 				),
 				(
 					EntryWeight=0.14,
-					ItemClassStrings=("PrimalItemArmor_ArgentavisSaddle_C","PrimalItemArmor_RexSaddle_C","PrimalItemArmor_DireBearSaddle_C","PrimalItemArmor_PlesiaSaddle_C","PrimalItemArmor_SpinoSaddle_C","PrimalItemArmor_SauroSaddle_C"),
-					ItemsWeights=(0.17,0.17,0.17,0.17,0.16,0.16),
+					ItemClassStrings=("PrimalItemArmor_ArgentavisSaddle_C","PrimalItemArmor_RexSaddle_C","PrimalItemArmor_DireBearSaddle_C","PrimalItemArmor_PlesiaSaddle_C","PrimalItemArmor_SpinoSaddle_C","PrimalItemArmor_SauroSaddle_C","PrimalItemArmor_AlloSaddle_C"),
+					ItemsWeights=(0.15,0.15,0.14,0.14,0.14,0.14,0.14),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.4,MaxQuality=1.7,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.55
 				),
 				(
 					EntryWeight=0.02,
-					ItemClassStrings=("PrimalItemArmor_ArgentavisSaddle_C","PrimalItemArmor_RexSaddle_C","PrimalItemArmor_DireBearSaddle_C","PrimalItemArmor_PlesiaSaddle_C","PrimalItemArmor_SpinoSaddle_C","PrimalItemArmor_SauroSaddle_C"),
-					ItemsWeights=(0.17,0.17,0.17,0.17,0.16,0.16),
+					ItemClassStrings=("PrimalItemArmor_ArgentavisSaddle_C","PrimalItemArmor_RexSaddle_C","PrimalItemArmor_DireBearSaddle_C","PrimalItemArmor_PlesiaSaddle_C","PrimalItemArmor_SpinoSaddle_C","PrimalItemArmor_SauroSaddle_C","PrimalItemArmor_AlloSaddle_C"),
+					ItemsWeights=(0.15,0.15,0.14,0.14,0.14,0.14,0.14),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.9,MaxQuality=2.6,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.65

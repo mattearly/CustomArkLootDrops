@@ -586,7 +586,7 @@
 					MinQuantity=5.0,MaxQuantity=10.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.00
-				),
+				)
 			)
 		)
 	)

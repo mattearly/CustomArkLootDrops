@@ -570,7 +570,7 @@
 		),
 		( 
 			; EPIC CRATE DAY ITEMS
-			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=1.0,bItemsRandomWithoutReplacement=true,ItemEntries=(
+			MinNumItems=1,MaxNumItems=1,NumItemsPower=0.8,SetWeight=1.0,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
 					EntryWeight=0.50,
 					ItemClassStrings=("PrimalItemResource_Polymer_C"),
@@ -583,7 +583,7 @@
 					EntryWeight=0.50,
 					ItemClassStrings=("PrimalItemResource_BlackPearl_C"),
 					ItemsWeights=(1.0),
-					MinQuantity=5.0,MaxQuantity=10.0,
+					MinQuantity=4.0,MaxQuantity=11.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.00
 				),

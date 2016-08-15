@@ -391,17 +391,17 @@
 		),
 		( 
 			; EPIC CRATE DAY ITEMS
-			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=1.0,bItemsRandomWithoutReplacement=true,ItemEntries=(
+			MinNumItems=1,MaxNumItems=1,NumItemsPower=0.8,SetWeight=1.0,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
-					EntryWeight=0.35,
+					EntryWeight=0.38,
 					ItemClassStrings=("PrimalItemResource_ChitinPaste_C"),
 					ItemsWeights=(1.0),
-					MinQuantity=40.0,MaxQuantity=180.0,
+					MinQuantity=50.0,MaxQuantity=180.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.00
 				),
 				(
-					EntryWeight=0.30,
+					EntryWeight=0.24,
 					ItemClassStrings=("PrimalItemResource_MetalIngot_C"),
 					ItemsWeights=(1.0),
 					MinQuantity=100.0,MaxQuantity=100.0,
@@ -409,10 +409,10 @@
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.00
 				),
 				(
-					EntryWeight=0.35,
+					EntryWeight=0.38,
 					ItemClassStrings=("PrimalItemResource_AnglerGel_C"),
 					ItemsWeights=(1.0),
-					MinQuantity=50.0,MaxQuantity=100.0,
+					MinQuantity=50.0,MaxQuantity=110.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.00
 				)

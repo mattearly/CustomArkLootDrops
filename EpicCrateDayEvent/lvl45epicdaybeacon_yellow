@@ -770,7 +770,7 @@
 		),
 		( 
 			; EPIC CRATE DAY ITEMS
-			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=1.0,bItemsRandomWithoutReplacement=true,ItemEntries=(
+			MinNumItems=1,MaxNumItems=1,NumItemsPower=0.8,SetWeight=1.0,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
 					EntryWeight=0.75,
 					ItemClassStrings=("PrimalItemAmmo_AdvancedSniperBullet_C","PrimalItemAmmo_AdvancedRifleBullet_C","PrimalItemAmmo_CompoundBowArrow_C","PrimalItemAmmo_SimpleRifleBullet_C","PrimalItemAmmo_Rocket_C","PrimalItemC4Ammo_C"),

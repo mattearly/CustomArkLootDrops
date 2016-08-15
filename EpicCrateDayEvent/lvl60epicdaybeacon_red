@@ -1002,7 +1002,7 @@
 		),
 		(	
 			; EPIC CRATE DAY ITEMS
-			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.1,SetWeight=1.0,bItemsRandomWithoutReplacement=true,ItemEntries=(
+			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.4,SetWeight=0.8,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
 					EntryWeight=0.84,
 					ItemClassStrings=("PrimalItemArmor_RiotPants_C","PrimalItemArmor_RiotShirt_C","PrimalItemArmor_RiotGloves_C","PrimalItemArmor_RiotBoots_C","PrimalItemArmor_RiotHelmet_C","PrimalItemArmor_TransparentRiotShield_C","PrimalItemArmor_FurPants_C","PrimalItemArmor_FurShirt_C","PrimalItemArmor_FurHelmet_C","PrimalItemArmor_FurBoots_C","PrimalItemArmor_FurGloves_C","PrimalItemArmor_ScubaShirt_SuitWithTank_C","PrimalItemArmor_MetalShield_C","PrimalItem_WeaponProd_C","PrimalItem_WeaponMachinedSniper_C","PrimalItem_WeaponMachinedShotgun_C","PrimalItem_WeaponCompoundBow_C","PrimalItem_WeaponSword_C","PrimalItem_WeaponStoneClub_C","PrimalItem_WeaponCrossbow_C","PrimalItem_WeaponSickle_C","PrimalItemArmor_MosaSaddle_Platform_C","PrimalItemArmor_QuetzSaddle_Platform_C","PrimalItemArmor_PlesiSaddle_Platform_C","PrimalItemArmor_SauroSaddle_Platform_C","PrimalItemArmor_ParacerSaddle_Platform_C","PrimalItemArmor_GigantSaddle_C"),

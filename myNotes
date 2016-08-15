@@ -2,7 +2,19 @@ NOTES: My own running update notes on the project, likely useless to others
 ToDo:
 	Add Slopped Left/Right walls
 	Direbear saddle is in red, lvl 35 engram should be in purple
-	pseudo code needs updated and is increasingly complicated. might make it more basic (the gist of it) because spelling out the entire logic is going to be as painful as rewriting all the code
+	Greenhouse stuff is lvl 45 to 50 - should probably go to yellow
+	
+	Add Bear Trap  lvl 25   PrimalItemStructure_BearTrap
+		Large Bear Trap lvl 25   PrimalItemStructure_BearTrap_Large
+		poison Wire Trap lvl 25  PrimalItem_WeaponPoisonTrap
+		Alram wire trap  lvl 20  PrimalItem_WeaponAlarmTrap
+		poison Grenade  lvl 40    PrimalItem_PoisonGrenade
+		elevtor track   lvl 65
+		small elevator platform 
+		medium elevator platform
+		large elevator platform
+
+
 
 
 

@@ -1,21 +1,58 @@
 NOTES: My own running update notes on the project, likely useless to others
 ToDo:
-	Add Slopped Left/Right walls
-	Direbear saddle is in red, lvl 35 engram should be in purple
-	Greenhouse stuff is lvl 45 to 50 - should probably go to yellow
-	
 	Add Bear Trap  lvl 25   PrimalItemStructure_BearTrap
 		Large Bear Trap lvl 25   PrimalItemStructure_BearTrap_Large
 		poison Wire Trap lvl 25  PrimalItem_WeaponPoisonTrap
-		Alram wire trap  lvl 20  PrimalItem_WeaponAlarmTrap
+		Alarm wire trap  lvl 20  PrimalItem_WeaponAlarmTrap
 		poison Grenade  lvl 40    PrimalItem_PoisonGrenade
-		elevtor track   lvl 65
-		small elevator platform 
-		medium elevator platform
-		large elevator platform
+		elevtor track   lvl 65     PrimalItemStructure_ElevatorTrackBase
+		small elevator platform    PrimalItemStructure_ElevatorPlatformSmall
+		medium elevator platform  PrimalItemStructure_ElevatorPlatfromMedium
+		large elevator platform   PrimalItemStructure_ElevatorPlatformLarge
 
+	Mass Saddle Migration:
+		Direbear saddle is in red, lvl 35 engram should be in purple
+		Phiomia lvl 5
+		Para lvl 10
+		Ichthy lvl 10
+		Raptor lvl 15
+		Pachy lvl 15 --> Sea Crates, da fuck devs!? why?
+		Trike lvl 20
+		scrop lvl 25
+		terror bird lvl 25
+		turtle 25
+		manta 25
+		frog 25   --> Sea Crates, da fuck devs!? why?
+		paracer 30  --> Sea Crates, da fuck devs!? why?
+		stag 30  --> Sea Crates, da fuck devs!? why?
+		galli 30
+		stego 30
+		sarco 35
+		diplo 35
+		ptera 35
+		direbear 35
+		pelagornis 40
+		duknleo 40
+		mammoth 40
+		spider 40
+		ankylo 40
+		megalodon 45
+		rhino 45
+		sabertooth 45
+		allosaurus 50
+		procot 50
+		carno 50
+		arthro 50
+		bronto 55
+		argent 55
+		beaver 55
+		rex 60
+		spino 60
 
-
+	Other Items:
+		Add Slopped Left/Right walls
+		Greenhouse stuff is lvl 45 to 50 - should probably go to yellow
+		Large Crop Plot is lvl 35 thus plant species x should be in lvl 35 crate purple
 
 
 Questions I have:
@@ -75,3 +112,6 @@ Revision 8 Changes -
 			-> yellow - DONE
 		-> add fishing rod?!?
 			-> blue - DONE
+
+
+Revision 9 Changes:

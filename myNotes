@@ -3,30 +3,30 @@ ToDo:
 	Add Bear Trap  lvl 25   PrimalItemStructure_BearTrap
 		Large Bear Trap lvl 25   PrimalItemStructure_BearTrap_Large
 		poison Wire Trap lvl 25  PrimalItem_WeaponPoisonTrap
-		Alarm wire trap  lvl 20  PrimalItem_WeaponAlarmTrap
+		Alarm wire trap  lvl 20  PrimalItem_WeaponAlarmTrap - done
 		poison Grenade  lvl 40    PrimalItem_PoisonGrenade
 		elevtor track   lvl 65     PrimalItemStructure_ElevatorTrackBase
 		small elevator platform    PrimalItemStructure_ElevatorPlatformSmall
 		medium elevator platform  PrimalItemStructure_ElevatorPlatfromMedium
 		large elevator platform   PrimalItemStructure_ElevatorPlatformLarge
+		Mindwipe tonic - done
 
 	Mass Saddle Migration:
-		Direbear saddle is in red, lvl 35 engram should be in purple
-		Phiomia lvl 5
-		Para lvl 10
-		Ichthy lvl 10
-		Raptor lvl 15
+		Phiomia lvl 5 - done
+		Para lvl 10 - done
+		Ichthy lvl 10 - done
+		Raptor lvl 15 - done
 		Pachy lvl 15 --> Sea Crates, da fuck devs!? why?
-		Trike lvl 20
-		scrop lvl 25
-		terror bird lvl 25
-		turtle 25
-		manta 25
+		Trike lvl 20 - done
+		scrop lvl 25 - done
+		terror bird lvl 25 - done
+		turtle 25 - done
+		manta 25 - done
 		frog 25   --> Sea Crates, da fuck devs!? why?
 		paracer 30  --> Sea Crates, da fuck devs!? why?
 		stag 30  --> Sea Crates, da fuck devs!? why?
-		galli 30
-		stego 30
+		galli 30 - done
+		stego 30 - done
 		sarco 35
 		diplo 35
 		ptera 35
@@ -63,7 +63,10 @@ Questions I have:
 
 
 Weights notes:
-
+3 items
+					ItemsWeights=(0.33,0.33,0.34),
+4 Items
+					ItemsWeights=(0.25,0.25,0.25,0.25),
 5 items
 					ItemsWeights=(0.2,0.2,0.2,0.2,0.2),
 6 items 					

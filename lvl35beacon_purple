@@ -536,7 +536,7 @@
 			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.08,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
 					EntryWeight=0.80,
-					ItemClassStrings=("PrimalItemArmor_CarnoSaddle_C","PrimalItemArmor_SarcoSaddle_C","PrimalItemArmor_MammothSaddle_C","PrimalItemArmor_Gallimimus_C","PrimalItemArmor_TerrorBirdSaddle_C","PrimalItemArmor_ProcoptodonSaddle_C","PrimalItemArmor_RhinoSaddle_C"),
+					ItemClassStrings=("PrimalItemArmor_CarnoSaddle_C","PrimalItemArmor_SarcoSaddle_C","PrimalItemArmor_MammothSaddle_C","PrimalItemArmor_PteroSaddle_C","PrimalItemArmor_TerrorBirdSaddle_C","PrimalItemArmor_ProcoptodonSaddle_C","PrimalItemArmor_RhinoSaddle_C"),
 					ItemsWeights=(0.14,0.14,0.15,0.14,0.15,0.14,0.14),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.0,MaxQuality=1.3,
@@ -544,7 +544,7 @@
 				),
 				(
 					EntryWeight=0.14,
-					ItemClassStrings=("PrimalItemArmor_CarnoSaddle_C","PrimalItemArmor_SarcoSaddle_C","PrimalItemArmor_MammothSaddle_C","PrimalItemArmor_Gallimimus_C","PrimalItemArmor_TerrorBirdSaddle_C","PrimalItemArmor_ProcoptodonSaddle_C","PrimalItemArmor_RhinoSaddle_C"),
+					ItemClassStrings=("PrimalItemArmor_CarnoSaddle_C","PrimalItemArmor_SarcoSaddle_C","PrimalItemArmor_MammothSaddle_C","PrimalItemArmor_PteroSaddle_C","PrimalItemArmor_TerrorBirdSaddle_C","PrimalItemArmor_ProcoptodonSaddle_C","PrimalItemArmor_RhinoSaddle_C"),
 					ItemsWeights=(0.14,0.14,0.15,0.14,0.15,0.14,0.14),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.4,MaxQuality=1.7,
@@ -552,7 +552,7 @@
 				),
 				(
 					EntryWeight=0.02,
-					ItemClassStrings=("PrimalItemArmor_CarnoSaddle_C","PrimalItemArmor_SarcoSaddle_C","PrimalItemArmor_MammothSaddle_C","PrimalItemArmor_Gallimimus_C","PrimalItemArmor_TerrorBirdSaddle_C","PrimalItemArmor_ProcoptodonSaddle_C","PrimalItemArmor_RhinoSaddle_C"),
+					ItemClassStrings=("PrimalItemArmor_CarnoSaddle_C","PrimalItemArmor_SarcoSaddle_C","PrimalItemArmor_MammothSaddle_C","PrimalItemArmor_PteroSaddle_C","PrimalItemArmor_TerrorBirdSaddle_C","PrimalItemArmor_ProcoptodonSaddle_C","PrimalItemArmor_RhinoSaddle_C"),
 					ItemsWeights=(0.14,0.14,0.15,0.14,0.15,0.14,0.14),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.8,MaxQuality=2.6,

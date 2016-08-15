@@ -168,7 +168,7 @@
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.65
 				),
 				(
-					EntryWeight=0.13,
+					EntryWeight=0.11,
 					ItemClassStrings=("PrimalItemAmmo_ArrowStone_C"),
 					ItemsWeights=(1.0),
 					MinQuantity=12.0,MaxQuantity=28.0,
@@ -184,7 +184,7 @@
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.00
 				),
 				(
-					EntryWeight=0.13,
+					EntryWeight=0.12,
 					ItemClassStrings=("PrimalItemConsumableBuff_Parachute_C"),
 					ItemsWeights=(1.0),
 					MinQuantity=1.0,MaxQuantity=2.0,
@@ -192,10 +192,18 @@
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.00
 				),
 				(
-					EntryWeight=0.19,
+					EntryWeight=0.15,
 					ItemClassStrings=("PrimalItem_WeaponSpyglass_C","PrimalItemStructure_TrainingDummy_C","PrimalItem_BloodExtractor_C"),
 					ItemsWeights=(0.6,0.2,0.2),
 					MinQuantity=1.0,MaxQuantity=1.0,
+					MinQuality=1.0,MaxQuality=1.0,
+					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.45
+				),
+				(
+					EntryWeight=0.07,
+					ItemClassStrings=("PrimalItem_WeaponAlarmTrap_C"),
+					ItemsWeights=(1.0),
+					MinQuantity=2.0,MaxQuantity=2.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.45
 				),

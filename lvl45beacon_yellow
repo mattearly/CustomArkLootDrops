@@ -425,7 +425,15 @@
 			; AMMO
 			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.06,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
-					EntryWeight=0.18,
+					EntryWeight=0.08,
+					ItemClassStrings=("PrimalItemConsumable_Seed_DefensePlant_C"),
+					ItemsWeights=(1.0),
+					MinQuantity=1.0,MaxQuantity=3.0,
+					MinQuality=1.0,MaxQuality=1.0,
+					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
+				),
+				(
+					EntryWeight=0.15,
 					ItemClassStrings=("PrimalItemAmmo_SimpleBullet_C"),
 					ItemsWeights=(1.0),
 					MinQuantity=8.0,MaxQuantity=18.0,
@@ -433,7 +441,7 @@
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				),
 				(
-					EntryWeight=0.23,
+					EntryWeight=0.22,
 					ItemClassStrings=("PrimalItemAmmo_SimpleShotgunBullet_C"),
 					ItemsWeights=(1.0),
 					MinQuantity=5.0,MaxQuantity=11.0,
@@ -441,7 +449,7 @@
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				),
 				(
-					EntryWeight=0.24,
+					EntryWeight=0.23,
 					ItemClassStrings=("PrimalItemAmmo_SimpleRifleBullet_C"),
 					ItemsWeights=(1.0),
 					MinQuantity=5.0,MaxQuantity=12.0,
@@ -449,7 +457,7 @@
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				),
 				(
-					EntryWeight=0.20,
+					EntryWeight=0.19,
 					ItemClassStrings=("PrimalItem_WeaponGrenade_C","PrimalItem_PoisonGrenade_C"),
 					ItemsWeights=(0.6,0.4),
 					MinQuantity=1.0,MaxQuantity=3.0,
@@ -457,7 +465,7 @@
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				),
 				(
-					EntryWeight=0.09,
+					EntryWeight=0.08,
 					ItemClassStrings=("PrimalItemAmmo_SimpleBullet_C","PrimalItemAmmo_SimpleShotgunBullet_C","PrimalItemAmmo_SimpleRifleBullet_C","PrimalItem_WeaponGrenade_C",""PrimalItem_PoisonGrenade_C""),
 					ItemsWeights=(0.25,0.33,0.33,0.05,0.04),
 					MinQuantity=21.0,MaxQuantity=50.0,
@@ -465,7 +473,7 @@
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				),
 				(
-					EntryWeight=0.06,
+					EntryWeight=0.05,
 					ItemClassStrings=("PrimalItemAmmo_SimpleBullet_C","PrimalItemAmmo_SimpleShotgunBullet_C","PrimalItemAmmo_SimpleRifleBullet_C","PrimalItem_WeaponGrenade_C","PrimalItemAmmo_BallistaArrow_C","PrimalItemAmmo_CannonBall_C"),
 					ItemsWeights=(0.17,0.17,0.17,0.17,0.16,0.16),
 					MinQuantity=1.0,MaxQuantity=1.0,

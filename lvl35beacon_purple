@@ -448,17 +448,17 @@
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				),
 				(
-					EntryWeight=0.19,
-					ItemClassStrings=("PrimalItem_WeaponGrenade_C"),
-					ItemsWeights=(1.0),
-					MinQuantity=1.0,MaxQuantity=2.0,
+					EntryWeight=0.20,
+					ItemClassStrings=("PrimalItem_WeaponGrenade_C","PrimalItem_PoisonGrenade_C"),
+					ItemsWeights=(0.6,0.4),
+					MinQuantity=1.0,MaxQuantity=3.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				),
 				(
-					EntryWeight=0.10,
-					ItemClassStrings=("PrimalItemAmmo_SimpleBullet_C","PrimalItemAmmo_SimpleShotgunBullet_C","PrimalItemAmmo_SimpleRifleBullet_C","PrimalItem_WeaponGrenade_C"),
-					ItemsWeights=(0.25,0.35,0.35,0.05),
+					EntryWeight=0.09,
+					ItemClassStrings=("PrimalItemAmmo_SimpleBullet_C","PrimalItemAmmo_SimpleShotgunBullet_C","PrimalItemAmmo_SimpleRifleBullet_C","PrimalItem_WeaponGrenade_C",""PrimalItem_PoisonGrenade_C""),
+					ItemsWeights=(0.25,0.33,0.33,0.05,0.04),
 					MinQuantity=21.0,MaxQuantity=50.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0

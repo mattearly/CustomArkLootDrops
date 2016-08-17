@@ -535,7 +535,7 @@
 		( 
 			; Saddles
 			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.05,bItemsRandomWithoutReplacement=true,ItemEntries=(
-(
+				(
 					EntryWeight=0.80,
 					ItemClassStrings=("PrimalItemArmor_SarcoSaddle_C","PrimalItemArmor_DiplodocusSaddle_C","PrimalItemArmor_PteroSaddle_C","PrimalItemArmor_DireBearSaddle_C","PrimalItemArmor_PelaSaddle_C","PrimalItemArmor_DunkleosteusSaddle_C","PrimalItemArmor_MammothSaddle_C","PrimalItemArmor_AnkyloSaddle_C"),
 					ItemsWeights=(0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125),
@@ -736,24 +736,24 @@
 			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.08,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
 					EntryWeight=0.80,
-					ItemClassStrings=("PrimalItemArmor_MegalodonSaddle_C","PrimalItemArmor_DiplodocusSaddle_C","PrimalItemArmor_ArthroSaddle_C","PrimalItemArmor_MantaSaddle_C","PrimalItemArmor_SaberSaddle_C","PrimalItemArmor_DunkleosteusSaddle_C","PrimalItemArmor_BeaverSaddle_C","PrimalItemArmor_PelaSaddle_C"),
-					ItemsWeights=(0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125),
+					ItemClassStrings=("PrimalItemArmor_MegalodonSaddle_C","PrimalItemArmor_RhinoSaddle_C","PrimalItemArmor_SaberSaddle_C","PrimalItemArmor_AlloSaddle_C","PrimalItemArmor_ProcoptodonSaddle_C","PrimalItemArmor_CarnoSaddle_C","PrimalItemArmor_ArthroSaddle_C"),
+					ItemsWeights=(0.15,0.15,0.14,0.14,0.14,0.14,0.14),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.0,MaxQuality=1.3,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.45
 				),
 				(
 					EntryWeight=0.14,
-					ItemClassStrings=("PrimalItemArmor_MegalodonSaddle_C","PrimalItemArmor_DiplodocusSaddle_C","PrimalItemArmor_ArthroSaddle_C","PrimalItemArmor_MantaSaddle_C","PrimalItemArmor_SaberSaddle_C","PrimalItemArmor_DunkleosteusSaddle_C","PrimalItemArmor_BeaverSaddle_C","PrimalItemArmor_PelaSaddle_C"),
-					ItemsWeights=(0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125),
+					ItemClassStrings=("PrimalItemArmor_MegalodonSaddle_C","PrimalItemArmor_RhinoSaddle_C","PrimalItemArmor_SaberSaddle_C","PrimalItemArmor_AlloSaddle_C","PrimalItemArmor_ProcoptodonSaddle_C","PrimalItemArmor_CarnoSaddle_C","PrimalItemArmor_ArthroSaddle_C"),
+					ItemsWeights=(0.15,0.15,0.14,0.14,0.14,0.14,0.14),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.4,MaxQuality=1.7,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.50
 				),
 				(
 					EntryWeight=0.02,
-					ItemClassStrings=("PrimalItemArmor_MegalodonSaddle_C","PrimalItemArmor_DiplodocusSaddle_C","PrimalItemArmor_ArthroSaddle_C","PrimalItemArmor_MantaSaddle_C","PrimalItemArmor_SaberSaddle_C","PrimalItemArmor_DunkleosteusSaddle_C","PrimalItemArmor_BeaverSaddle_C","PrimalItemArmor_PelaSaddle_C"),
-					ItemsWeights=(0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125),
+					ItemClassStrings=("PrimalItemArmor_MegalodonSaddle_C","PrimalItemArmor_RhinoSaddle_C","PrimalItemArmor_SaberSaddle_C","PrimalItemArmor_AlloSaddle_C","PrimalItemArmor_ProcoptodonSaddle_C","PrimalItemArmor_CarnoSaddle_C","PrimalItemArmor_ArthroSaddle_C"),
+					ItemsWeights=(0.15,0.15,0.14,0.14,0.14,0.14,0.14),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.8,MaxQuality=2.6,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.65

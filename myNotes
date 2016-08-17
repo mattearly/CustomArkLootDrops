@@ -1,7 +1,7 @@
 NOTES: My own running update notes on the project, likely useless to others
 ToDo:
-	Add Bear Trap  lvl 25   PrimalItemStructure_BearTrap
-		Large Bear Trap lvl 25   PrimalItemStructure_BearTrap_Large
+	Add Bear Trap  lvl 25   PrimalItemStructure_BearTrap - done
+		Large Bear Trap lvl 25   PrimalItemStructure_BearTrap_Large - done
 		poison Wire Trap lvl 25  PrimalItem_WeaponPoisonTrap
 		Alarm wire trap  lvl 20  PrimalItem_WeaponAlarmTrap - done
 		poison Grenade  lvl 40    PrimalItem_PoisonGrenade
@@ -118,3 +118,5 @@ Revision 8 Changes -
 
 
 Revision 9 Changes:
+	
+

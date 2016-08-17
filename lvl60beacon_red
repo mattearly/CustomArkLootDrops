@@ -930,15 +930,15 @@
 			; Trinkets and Odds blueprints 
 			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.07,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
-					EntryWeight=0.28,
-					ItemClassStrings=("PrimalItemStructure_MetalGateframe_Large_C","PrimalItemStructure_MetalGate_Large_C","PrimalItemStructure_TreePlatform_Metal_C"),
-					ItemsWeights=(.33,.33,.34),
+					EntryWeight=0.30,
+					ItemClassStrings=("PrimalItemStructure_MetalGateframe_Large_C","PrimalItemStructure_MetalGate_Large_C","PrimalItemStructure_TreePlatform_Metal_C","PrimalItemStructure_ElevatorTrackBase_C","PrimalItemStructure_ElevatorPlatformSmall_C","PrimalItemStructure_ElevatorPlatfromMedium_C","PrimalItemStructure_ElevatorPlatformLarge_C"),
+					ItemsWeights=(0.15,0.15,0.14,0.14,0.14,0.14,0.14),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=true,ChanceToBeBlueprintOverride=0.00
 				),
 				(
-					EntryWeight=0.28,
+					EntryWeight=0.27,
 					ItemClassStrings=("PrimalItemStructure_IndustrialForge_C","PrimalItemStructure_ChemBench_C","PrimalItemStructure_StorageBox_Huge_C","PrimalItemStructure_Bed_Modern_C","PrimalItemStructure_WarMap_C"),
 					ItemsWeights=(0.2,0.2,0.2,0.2,0.2),
 					MinQuantity=1.0,MaxQuantity=1.0,
@@ -946,7 +946,7 @@
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.80
 				),
 				(
-					EntryWeight=0.22,
+					EntryWeight=0.21,
 					ItemClassStrings=("PrimalItemStructure_Turret_C","PrimalItemStructure_TurretMinigun_C","PrimalItemStructure_TurretRocket_C","PrimalItemStructure_SeaMine_C"),
 					ItemsWeights=(0.25,0.25,0.25,0.25),
 					MinQuantity=1.0,MaxQuantity=1.0,

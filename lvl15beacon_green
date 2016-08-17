@@ -142,9 +142,9 @@
 		),
 		(	
 			; Weapons and tools
-			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.11,bItemsRandomWithoutReplacement=true,ItemEntries=(
+			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.12,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
-					EntryWeight=0.36,
+					EntryWeight=0.34,
 					ItemClassStrings=("PrimalItem_WeaponBow_C"),
 					ItemsWeights=(1.0),
 					MinQuantity=1.0,MaxQuantity=1.0,
@@ -168,7 +168,7 @@
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.65
 				),
 				(
-					EntryWeight=0.11,
+					EntryWeight=0.10,
 					ItemClassStrings=("PrimalItemAmmo_ArrowStone_C"),
 					ItemsWeights=(1.0),
 					MinQuantity=12.0,MaxQuantity=28.0,
@@ -192,7 +192,7 @@
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.00
 				),
 				(
-					EntryWeight=0.15,
+					EntryWeight=0.16,
 					ItemClassStrings=("PrimalItem_WeaponSpyglass_C","PrimalItemStructure_TrainingDummy_C","PrimalItem_BloodExtractor_C"),
 					ItemsWeights=(0.6,0.2,0.2),
 					MinQuantity=1.0,MaxQuantity=1.0,
@@ -200,25 +200,25 @@
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.45
 				),
 				(
-					EntryWeight=0.07,
+					EntryWeight=0.09,
 					ItemClassStrings=("PrimalItem_WeaponAlarmTrap_C"),
 					ItemsWeights=(1.0),
 					MinQuantity=2.0,MaxQuantity=2.0,
 					MinQuality=1.0,MaxQuality=1.0,
-					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.45
+					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.00
 				),
 				(
 					EntryWeight=0.01,
 					ItemClassStrings=("PrimalItem_WeaponPike_C"),
 					ItemsWeights=(1.0),
 					MinQuantity=1.0,MaxQuantity=1.0,
-					MinQuality=1.0,MaxQuality=1.8,
+					MinQuality=1.8,MaxQuality=2.9,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.01
 				),
 				(
 					EntryWeight=0.05,
-					ItemClassStrings=("PrimalItemConsumableBuff_Parachute_C","PrimalItemAmmo_ArrowTranq_C","PrimalItemAmmo_ArrowStone_C"),
-					ItemsWeights=(0.4,0.2,0.4),
+					ItemClassStrings=("PrimalItemConsumableBuff_Parachute_C","PrimalItemAmmo_ArrowTranq_C","PrimalItemAmmo_ArrowStone_C","PrimalItem_WeaponAlarmTrap_C"),
+					ItemsWeights=(0.30,0.20,0.20,0.30),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=true,ChanceToBeBlueprintOverride=0.00
@@ -227,7 +227,7 @@
 		),
 		( 
 			; Resources
-			MinNumItems=2,MaxNumItems=3,NumItemsPower=1.0,SetWeight=0.19,bItemsRandomWithoutReplacement=true,ItemEntries=(
+			MinNumItems=2,MaxNumItems=3,NumItemsPower=1.0,SetWeight=0.20,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
 					EntryWeight=0.13,
 					ItemClassStrings=(,"PrimalItemResource_Wood_C","PrimalItemResource_Thatch_C"),
@@ -325,9 +325,9 @@
 		),
 		( 
 			; Farming
-			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.15,bItemsRandomWithoutReplacement=true,ItemEntries=(
+			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.13,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
-					EntryWeight=0.24,
+					EntryWeight=0.25,
 					ItemClassStrings=("PrimalItemStructure_CropPlot_Small_C","PrimalItemStructure_CompostBin_C"),
 					ItemsWeights=(0.5,0.5),
 					MinQuantity=1.0,MaxQuantity=2.0,
@@ -343,7 +343,7 @@
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				),
 				(
-					EntryWeight=0.10,
+					EntryWeight=0.11,
 					ItemClassStrings=("PrimalItemStructure_StonePipeIntake_C","PrimalItemStructure_StonePipeStraight_C","PrimalItemStructure_StonePipeIncline_C","PrimalItemStructure_StonePipeIntersection_C","PrimalItemStructure_StonePipeVertical_C","PrimalItemStructure_StonePipeTap_C","PrimalItemStructure_CropPlot_Small_C","PrimalItemStructure_CompostBin_C"),
 					ItemsWeights=(0.125,0.125,0.125,0.125,0.125,0.125,0.125,0.125),
 					MinQuantity=1.0,MaxQuantity=1.0,
@@ -351,7 +351,7 @@
 					bForceBlueprint=true,ChanceToBeBlueprintOverride=0.0
 				),
 				(
-					EntryWeight=0.16,
+					EntryWeight=0.17,
 					ItemClassStrings=("PrimalItemConsumable_Fertilizer_Compost_C"),
 					ItemsWeights=(1.0),
 					MinQuantity=1.0,MaxQuantity=3.0,
@@ -359,10 +359,10 @@
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				),
 				(
-					EntryWeight=0.24,
-					ItemClassStrings=("PrimalItemConsumable_Seed_Savoroot_C","PrimalItemConsumable_Seed_Longrass_C","PrimalItemConsumable_Seed_Rockarrot_C","PrimalItemConsumable_Seed_Citronal_C","PrimalItemConsumable_Seed_DefensePlant_C"),
-					ItemsWeights=(0.21,0.21,0.21,0.21,0.16),
-					MinQuantity=1.0,MaxQuantity=1.0,
+					EntryWeight=0.21,
+					ItemClassStrings=("PrimalItemConsumable_Seed_Savoroot_C","PrimalItemConsumable_Seed_Longrass_C","PrimalItemConsumable_Seed_Rockarrot_C","PrimalItemConsumable_Seed_Citronal_C"),
+					ItemsWeights=(0.25,0.25,0.25,0.25),
+					MinQuantity=1.0,MaxQuantity=2.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				)

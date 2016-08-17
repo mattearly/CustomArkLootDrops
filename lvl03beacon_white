@@ -127,7 +127,7 @@
 				),
 				(
 					EntryWeight=0.01,
-					ItemClassStrings=(PrimalItem_WeaponTorch_C"),
+					ItemClassStrings=("PrimalItem_WeaponTorch_C"),
 					ItemsWeights=(1.0),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=2.5,MaxQuality=3.1,

@@ -1,6 +1,8 @@
 NOTES: My own running update notes on the project, likely useless to others
 
 ToDo:
+	backpeddled beacons in higher crates should be slightly higher quality items
+	increase double crate quality just a smidge
 
 Questions I have:
 	Does item entries order matter?  seems like no, decently confirmed with stone house test example in blue crates, however class strings order can matter
@@ -65,7 +67,7 @@ Revision 8 Changes -
 
 
 Revision 9 Changes:
-			Add Bear Trap  lvl 25   PrimalItemStructure_BearTrap - done
+		Add Bear Trap  lvl 25   PrimalItemStructure_BearTrap - done
 		Large Bear Trap lvl 25   PrimalItemStructure_BearTrap_Large - done
 		poison Wire Trap lvl 25  PrimalItem_WeaponPoisonTrap
 		Alarm wire trap  lvl 20  PrimalItem_WeaponAlarmTrap - done

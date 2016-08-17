@@ -312,7 +312,7 @@
 			; Trinkets, Pipes, and Buildings
 			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.03,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
-					EntryWeight=0.30,
+					EntryWeight=0.28,
 					ItemClassStrings=("PrimalItemConsumable_WaterJarCraftable_C","PrimalItem_WeaponCompass_C","PrimalItemStructure_CropPlot_Medium_C","PrimalItem_WeaponMagnifyingGlass_C","PrimalItemStructure_TreeTap_C","PrimalItem_WeaponHandcuffs_C"),
 					ItemsWeights=(0.17,0.17,0.17,0.17,0.16,0.16),
 					MinQuantity=1.0,MaxQuantity=1.0,
@@ -320,9 +320,9 @@
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.80
 				),
 				(
-					EntryWeight=0.25,
-					ItemClassStrings=("PrimalItemStructure_StoneGateframe_C","PrimalItemStructure_StoneGate_C","PrimalItemStructure_MetalSpikeWall_C","PrimalItemStructure_MetalSign_C","PrimalItemStructure_TrophyBase_C","PrimalItemStructure_TrophyWall_C","PrimalItemStructure_TurretBallista_C"),
-					ItemsWeights=(0.15,0.15,0.14,0.14,0.14,0.14,0.14),
+					EntryWeight=0.27,
+					ItemClassStrings=("PrimalItemStructure_StoneGateframe_C","PrimalItemStructure_StoneGate_C","PrimalItemStructure_MetalSpikeWall_C","PrimalItemStructure_MetalSign_C","PrimalItemStructure_TrophyBase_C","PrimalItemStructure_TrophyWall_C","PrimalItemStructure_TurretBallista_C","PrimalItemStructure_BearTrap_C","PrimalItemStructure_BearTrap_Large_C","PrimalItem_WeaponPoisonTrap_C"),
+					ItemsWeights=(0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.80

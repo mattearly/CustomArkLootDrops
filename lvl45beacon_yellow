@@ -466,7 +466,7 @@
 				),
 				(
 					EntryWeight=0.08,
-					ItemClassStrings=("PrimalItemAmmo_SimpleBullet_C","PrimalItemAmmo_SimpleShotgunBullet_C","PrimalItemAmmo_SimpleRifleBullet_C","PrimalItem_WeaponGrenade_C",""PrimalItem_PoisonGrenade_C""),
+					ItemClassStrings=("PrimalItemAmmo_SimpleBullet_C","PrimalItemAmmo_SimpleShotgunBullet_C","PrimalItemAmmo_SimpleRifleBullet_C","PrimalItem_WeaponGrenade_C","PrimalItem_PoisonGrenade_C"),
 					ItemsWeights=(0.25,0.33,0.33,0.05,0.04),
 					MinQuantity=21.0,MaxQuantity=50.0,
 					MinQuality=1.0,MaxQuality=1.0,

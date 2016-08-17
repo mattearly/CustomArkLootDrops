@@ -4,7 +4,7 @@ ToDo:
 		Large Bear Trap lvl 25   PrimalItemStructure_BearTrap_Large - done
 		poison Wire Trap lvl 25  PrimalItem_WeaponPoisonTrap
 		Alarm wire trap  lvl 20  PrimalItem_WeaponAlarmTrap - done
-		poison Grenade  lvl 40    PrimalItem_PoisonGrenade
+		poison Grenade  lvl 40    PrimalItem_PoisonGrenade - done
 		elevtor track   lvl 65     PrimalItemStructure_ElevatorTrackBase
 		small elevator platform    PrimalItemStructure_ElevatorPlatformSmall
 		medium elevator platform  PrimalItemStructure_ElevatorPlatfromMedium
@@ -27,27 +27,27 @@ ToDo:
 		stag 30  --> Sea Crates, da fuck devs!? why?
 		galli 30 - done
 		stego 30 - done
-		sarco 35
-		diplo 35
-		ptera 35
-		direbear 35
-		pelagornis 40
-		duknleo 40
-		mammoth 40
-		spider 40
-		ankylo 40
-		megalodon 45
-		rhino 45
-		sabertooth 45
-		allosaurus 50
-		procot 50
-		carno 50
-		arthro 50
-		bronto 55
-		argent 55
-		beaver 55
-		rex 60
-		spino 60
+		sarco 35 - done
+		diplo 35 - done
+		ptera 35 - done
+		direbear 35 - done
+		pelagornis 40 - done
+		duknleo 40 - done
+		mammoth 40 - done
+		spider 40 --> Sea Crates, da fuck devs!? why? 
+		ankylo 40 - done
+		megalodon 45 - done
+		rhino 45 - done
+		sabertooth 45 - done
+		allosaurus 50 - done
+		procot 50 - done
+		carno 50 - done
+		arthro 50 - done
+		bronto 55 - done
+		argent 55 - done
+		beaver 55 - done
+		rex 60 - done
+		spino 60 - done
 
 	Other Items:
 		Add Slopped Left/Right walls

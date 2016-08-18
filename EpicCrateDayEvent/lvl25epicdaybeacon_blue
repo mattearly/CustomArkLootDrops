@@ -100,7 +100,7 @@
 		),
 		(	
 			; Chitin Armor
-			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.10,bItemsRandomWithoutReplacement=true,ItemEntries=(
+			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.12,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
 					EntryWeight=0.84,
 					ItemClassStrings=("PrimalItemArmor_ChitinPants_C","PrimalItemArmor_ChitinShirt_C","PrimalItemArmor_ChitinHelmet_C","PrimalItemArmor_ChitinBoots_C","PrimalItemArmor_ChitinGloves_C"),
@@ -129,7 +129,7 @@
 		),
 		(	
 			; Weapons
-			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.10,bItemsRandomWithoutReplacement=true,ItemEntries=(
+			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.12,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
 					EntryWeight=0.84,
 					ItemClassStrings=("PrimalItem_WeaponMetalPick_C","PrimalItem_WeaponMetalHatchet_C","PrimalItem_WeaponPike_C","PrimalItem_WeaponFishingRod_C"),
@@ -158,7 +158,7 @@
 		),
 		(	
 			; POTION
-			MinNumItems=1,MaxNumItems=3,NumItemsPower=1.0,SetWeight=0.17,bItemsRandomWithoutReplacement=true,ItemEntries=(
+			MinNumItems=1,MaxNumItems=3,NumItemsPower=1.0,SetWeight=0.14,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
 					EntryWeight=0.13,
 					ItemClassStrings=("PrimalItemConsumable_HealSoup_C"),
@@ -217,9 +217,9 @@
 				),
 				(
 					EntryWeight=0.12,
-					ItemClassStrings=("PrimalItemConsumable_Soup_BattleTartare_C"),
-					ItemsWeights=(1.0),
-					MinQuantity=1.0,MaxQuantity=3.0,
+					ItemClassStrings=("PrimalItemConsumable_Soup_BattleTartare_C","PrimalItemConsumableRespecSoup_C"),
+					ItemsWeights=(0.5,0.5),
+					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				),
@@ -309,9 +309,9 @@
 		),
 		( 
 			; Trinkets, Pipes, and Buildings
-			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.18,bItemsRandomWithoutReplacement=true,ItemEntries=(
+			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.19,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
-					EntryWeight=0.30,
+					EntryWeight=0.28,
 					ItemClassStrings=("PrimalItemConsumable_WaterJarCraftable_C","PrimalItem_WeaponCompass_C","PrimalItemStructure_CropPlot_Medium_C","PrimalItem_WeaponMagnifyingGlass_C","PrimalItemStructure_TreeTap_C","PrimalItem_WeaponHandcuffs_C"),
 					ItemsWeights=(0.17,0.17,0.17,0.17,0.16,0.16),
 					MinQuantity=1.0,MaxQuantity=1.0,
@@ -319,9 +319,9 @@
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.80
 				),
 				(
-					EntryWeight=0.25,
-					ItemClassStrings=("PrimalItemStructure_StoneGateframe_C","PrimalItemStructure_StoneGate_C","PrimalItemStructure_MetalSpikeWall_C","PrimalItemStructure_MetalSign_C","PrimalItemStructure_TrophyBase_C","PrimalItemStructure_TrophyWall_C","PrimalItemStructure_TurretBallista_C"),
-					ItemsWeights=(0.15,0.15,0.14,0.14,0.14,0.14,0.14),
+					EntryWeight=0.27,
+					ItemClassStrings=("PrimalItemStructure_StoneGateframe_C","PrimalItemStructure_StoneGate_C","PrimalItemStructure_MetalSpikeWall_C","PrimalItemStructure_MetalSign_C","PrimalItemStructure_TrophyBase_C","PrimalItemStructure_TrophyWall_C","PrimalItemStructure_TurretBallista_C","PrimalItemStructure_BearTrap_C","PrimalItemStructure_BearTrap_Large_C","PrimalItem_WeaponPoisonTrap_C"),
+					ItemsWeights=(0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.80
@@ -357,24 +357,24 @@
 			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.12,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
 					EntryWeight=0.80,
-					ItemClassStrings=("PrimalItemArmor_ScorpionSaddle_C","PrimalItemArmor_PteroSaddle_C","PrimalItemArmor_StegoSaddle_C","PrimalItemArmor_AnkyloSaddle_C"),
-					ItemsWeights=(0.25,0.25,0.25,0.25),
+					ItemClassStrings=("PrimalItemArmor_ScorpionSaddle_C","PrimalItemArmor_Gallimimus_C","PrimalItemArmor_StegoSaddle_C","PrimalItemArmor_TerrorBirdSaddle_C","PrimalItemArmor_TurtleSaddle_C","PrimalItemArmor_MantaSaddle_C"),
+					ItemsWeights=(0.17,0.17,0.17,0.17,0.16,0.16),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.0,MaxQuality=1.3,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.45
 				),
 				(
 					EntryWeight=0.14,
-					ItemClassStrings=("PrimalItemArmor_ScorpionSaddle_C","PrimalItemArmor_PteroSaddle_C","PrimalItemArmor_StegoSaddle_C","PrimalItemArmor_AnkyloSaddle_C"),
-					ItemsWeights=(0.25,0.25,0.25,0.25),
+					ItemClassStrings=("PrimalItemArmor_ScorpionSaddle_C","PrimalItemArmor_Gallimimus_C","PrimalItemArmor_StegoSaddle_C","PrimalItemArmor_TerrorBirdSaddle_C","PrimalItemArmor_TurtleSaddle_C","PrimalItemArmor_MantaSaddle_C"),
+					ItemsWeights=(0.17,0.17,0.17,0.17,0.16,0.16),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.8,MaxQuality=1.8,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.55
 				),
 				(
 					EntryWeight=0.02,
-					ItemClassStrings=("PrimalItemArmor_ScorpionSaddle_C","PrimalItemArmor_PteroSaddle_C","PrimalItemArmor_StegoSaddle_C","PrimalItemArmor_AnkyloSaddle_C"),
-					ItemsWeights=(0.25,0.25,0.25,0.25),
+					ItemClassStrings=("PrimalItemArmor_ScorpionSaddle_C","PrimalItemArmor_Gallimimus_C","PrimalItemArmor_StegoSaddle_C","PrimalItemArmor_TerrorBirdSaddle_C","PrimalItemArmor_TurtleSaddle_C","PrimalItemArmor_MantaSaddle_C"),
+					ItemsWeights=(0.17,0.17,0.17,0.17,0.16,0.16),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.8,MaxQuality=2.6,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.65
@@ -391,28 +391,28 @@
 		),
 		( 
 			; EPIC CRATE DAY ITEMS
-			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=1.0,bItemsRandomWithoutReplacement=true,ItemEntries=(
+			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.8,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
-					EntryWeight=0.35,
+					EntryWeight=0.38,
 					ItemClassStrings=("PrimalItemResource_ChitinPaste_C"),
 					ItemsWeights=(1.0),
-					MinQuantity=40.0,MaxQuantity=180.0,
+					MinQuantity=60.0,MaxQuantity=180.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.00
 				),
 				(
-					EntryWeight=0.30,
+					EntryWeight=0.24,
 					ItemClassStrings=("PrimalItemResource_MetalIngot_C"),
 					ItemsWeights=(1.0),
-					MinQuantity=100.0,MaxQuantity=100.0,
+					MinQuantity=80.0,MaxQuantity=80.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.00
 				),
 				(
-					EntryWeight=0.35,
+					EntryWeight=0.38,
 					ItemClassStrings=("PrimalItemResource_AnglerGel_C"),
 					ItemsWeights=(1.0),
-					MinQuantity=50.0,MaxQuantity=100.0,
+					MinQuantity=50.0,MaxQuantity=110.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.00
 				)

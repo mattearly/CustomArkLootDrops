@@ -1,9 +1,6 @@
 NOTES: My own running update notes on the project, likely useless to others
-ToDo:
-	Add Slopped Left/Right walls
-	Direbear saddle is in red, lvl 35 engram should be in purple
-	pseudo code needs updated and is increasingly complicated. might make it more basic (the gist of it) because spelling out the entire logic is going to be as painful as rewriting all the code
 
+ToDo:
 
 
 Questions I have:
@@ -14,7 +11,10 @@ Questions I have:
 
 
 Weights notes:
-
+3 items
+					ItemsWeights=(0.33,0.33,0.34),
+4 Items
+					ItemsWeights=(0.25,0.25,0.25,0.25),
 5 items
 					ItemsWeights=(0.2,0.2,0.2,0.2,0.2),
 6 items 					
@@ -63,3 +63,65 @@ Revision 8 Changes -
 			-> yellow - DONE
 		-> add fishing rod?!?
 			-> blue - DONE
+
+
+Revision 9 Changes:
+		Add Bear Trap  lvl 25   PrimalItemStructure_BearTrap - done
+		Large Bear Trap lvl 25   PrimalItemStructure_BearTrap_Large - done
+		poison Wire Trap lvl 25  PrimalItem_WeaponPoisonTrap
+		Alarm wire trap  lvl 20  PrimalItem_WeaponAlarmTrap - done
+		poison Grenade  lvl 40    PrimalItem_PoisonGrenade - done
+		elevtor track   lvl 65     PrimalItemStructure_ElevatorTrackBase - done
+		small elevator platform    PrimalItemStructure_ElevatorPlatformSmall - done
+		medium elevator platform  PrimalItemStructure_ElevatorPlatfromMedium - done
+		large elevator platform   PrimalItemStructure_ElevatorPlatformLarge - done
+		Mindwipe tonic - done
+
+	Mass Saddle Migration:
+		Phiomia lvl 5 - done
+		Para lvl 10 - done
+		Ichthy lvl 10 - done
+		Raptor lvl 15 - done
+		Pachy lvl 15 --> Sea Crates, da fuck devs!? why?
+		Trike lvl 20 - done
+		scrop lvl 25 - done
+		terror bird lvl 25 - done
+		turtle 25 - done
+		manta 25 - done
+		frog 25   --> Sea Crates, da fuck devs!? why?
+		paracer 30  --> Sea Crates, da fuck devs!? why?
+		stag 30  --> Sea Crates, da fuck devs!? why?
+		galli 30 - done
+		stego 30 - done
+		sarco 35 - done
+		diplo 35 - done
+		ptera 35 - done
+		direbear 35 - done
+		pelagornis 40 - done
+		duknleo 40 - done
+		mammoth 40 - done
+		spider 40 --> Sea Crates, da fuck devs!? why? 
+		ankylo 40 - done
+		megalodon 45 - done
+		rhino 45 - done
+		sabertooth 45 - done
+		allosaurus 50 - done
+		procot 50 - done
+		carno 50 - done
+		arthro 50 - done
+		bronto 55 - done
+		argent 55 - done
+		beaver 55 - done
+		rex 60 - done
+		spino 60 - done
+
+	Other Items:
+		Add Slopped Left/Right walls
+		Greenhouse stuff is lvl 45 to 50 - should probably go to yellow - done
+		Large Crop Plot is lvl 35 thus plant species x should be in lvl 35 crate purple - done
+		make the rare pike in green epic - done
+		make the rare torch in white epic - done
+
+	other: 	
+		backpeddled beacons in higher crates should be slightly higher quality items - done
+		increase double crate quality just a smidge - done

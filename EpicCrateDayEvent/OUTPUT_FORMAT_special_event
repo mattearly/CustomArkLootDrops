@@ -1,12 +1,18 @@
 ConfigOverrideSupplyCrateItems=(SupplyCrateClassString="SupplyCrate_Level03_C",MinItemSets=1,MaxItemSets=2,NumItemSetsPower=1.1,bSetsRandomWithoutReplacement=true,%lvl03epicdaybeacon_white%)
-ConfigOverrideSupplyCrateItems=(SupplyCrateClassString="SupplyCrate_Level03_Double_C",MinItemSets=2,MaxItemSets=3,NumItemSetsPower=1.35,bSetsRandomWithoutReplacement=true,%lvl03epicdaybeacon_white%)
+ConfigOverrideSupplyCrateItems=(SupplyCrateClassString="SupplyCrate_Level03_Double_C",MinItemSets=2,MaxItemSets=3,NumItemSetsPower=1.45,bSetsRandomWithoutReplacement=true,%lvl03epicdaybeacon_white%)
 ConfigOverrideSupplyCrateItems=(SupplyCrateClassString="SupplyCrate_Level15_C",MinItemSets=1,MaxItemSets=2,NumItemSetsPower=1.1,bSetsRandomWithoutReplacement=true,%lvl15epicdaybeacon_green%)
-ConfigOverrideSupplyCrateItems=(SupplyCrateClassString="SupplyCrate_Level15_Double_C",MinItemSets=2,MaxItemSets=3,NumItemSetsPower=1.35,bSetsRandomWithoutReplacement=true,%lvl15epicdaybeacon_green%)
+ConfigOverrideSupplyCrateItems=(SupplyCrateClassString="SupplyCrate_Level15_Double_C",MinItemSets=2,MaxItemSets=3,NumItemSetsPower=1.45,bSetsRandomWithoutReplacement=true,%lvl15epicdaybeacon_green%)
 ConfigOverrideSupplyCrateItems=(SupplyCrateClassString="SupplyCrate_Level25_C",MinItemSets=1,MaxItemSets=2,NumItemSetsPower=1.1,bSetsRandomWithoutReplacement=true,%lvl25epicdaybeacon_blue%)
+<<<<<<< HEAD
 ConfigOverrideSupplyCrateItems=(SupplyCrateClassString="SupplyCrate_Level25_Double_C",MinItemSets=2,MaxItemSets=3,NumItemSetsPower=1.35,bSetsRandomWithoutReplacement=true,%lvl25epicdaybeacon_blue%)
 ConfigOverrideSupplyCrateItems=(SupplyCrateClassString="SupplyCrate_Level35_C",MinItemSets=1,MaxItemSets=2,NumItemSetsPower=1.1,bSetsRandomWithoutReplacement=true,%lvl35epicdaybeacon_purple%)s
 ConfigOverrideSupplyCrateItems=(SupplyCrateClassString="SupplyCrate_Level35_Double_C",MinItemSets=2,MaxItemSets=3,NumItemSetsPower=1.35,bSetsRandomWithoutReplacement=true,%lvl35epicdaybeacon_purple%)
+=======
+ConfigOverrideSupplyCrateItems=(SupplyCrateClassString="SupplyCrate_Level25_Double_C",MinItemSets=2,MaxItemSets=3,NumItemSetsPower=1.45,bSetsRandomWithoutReplacement=true,%lvl25epicdaybeacon_blue%)
+ConfigOverrideSupplyCrateItems=(SupplyCrateClassString="SupplyCrate_Level35_C",MinItemSets=1,MaxItemSets=2,NumItemSetsPower=1.1,bSetsRandomWithoutReplacement=true,%lvl25epicdaybeacon_blue%)s
+ConfigOverrideSupplyCrateItems=(SupplyCrateClassString="SupplyCrate_Level35_Double_C",MinItemSets=2,MaxItemSets=3,NumItemSetsPower=1.45,bSetsRandomWithoutReplacement=true,%lvl25epicdaybeacon_blue%)
+>>>>>>> refs/remotes/origin/rev9-balancing
 ConfigOverrideSupplyCrateItems=(SupplyCrateClassString="SupplyCrate_Level45_C",MinItemSets=1,MaxItemSets=2,NumItemSetsPower=1.1,bSetsRandomWithoutReplacement=true,%lvl45epicdaybeacon_yellow%)
-ConfigOverrideSupplyCrateItems=(SupplyCrateClassString="SupplyCrate_Level45_Double_C",MinItemSets=2,MaxItemSets=3,NumItemSetsPower=1.35,bSetsRandomWithoutReplacement=true,%lvl45epicdaybeacon_yellow%)
+ConfigOverrideSupplyCrateItems=(SupplyCrateClassString="SupplyCrate_Level45_Double_C",MinItemSets=2,MaxItemSets=3,NumItemSetsPower=1.45,bSetsRandomWithoutReplacement=true,%lvl45epicdaybeacon_yellow%)
 ConfigOverrideSupplyCrateItems=(SupplyCrateClassString="SupplyCrate_Level60_C",MinItemSets=1,MaxItemSets=2,NumItemSetsPower=1.1,bSetsRandomWithoutReplacement=true,%lvl60epicdaybeacon_red%)
-ConfigOverrideSupplyCrateItems=(SupplyCrateClassString="SupplyCrate_Level60_Double_C",MinItemSets=2,MaxItemSets=3,NumItemSetsPower=1.35,bSetsRandomWithoutReplacement=true,%lvl60epicdaybeacon_red%)
+ConfigOverrideSupplyCrateItems=(SupplyCrateClassString="SupplyCrate_Level60_Double_C",MinItemSets=2,MaxItemSets=3,NumItemSetsPower=1.45,bSetsRandomWithoutReplacement=true,%lvl60epicdaybeacon_red%)

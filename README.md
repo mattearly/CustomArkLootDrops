@@ -23,7 +23,7 @@ The [FULL_DEPLOY_CODE_special_event](EpicCrateDayEvent/FULL_DEPLOY_CODE_special_
 * blue drops cementing paste, metal ingot, or angler gel; 
 * purple drops polymer or black pearls; 
 * yellow drops an ammo crate; 
-* red drops deep sea crate items. 
+* red drops deep sea crate items.  
 **In general use the normal code, not the special event, unless you really want to have much more powerful crates.**
 
 #### Support

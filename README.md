@@ -18,15 +18,15 @@ The easiest way to use this is to copy all the code from the file [FULL_DEPLOY_C
 
 #### What is the Special Event Version?  
 The [FULL_DEPLOY_CODE_special_event](EpicCrateDayEvent/FULL_DEPLOY_CODE_special_event) is a more powerful version of the world beacons intended for special events. *These crates have all the normal stuff and also include a ~50% chance to drop special loot. Additionally, all items with quality have increased quality in these crates.*  
-* Whites drop electronics or gas
-* green drops tranq darts or arrows; 
-* blue drops cementing paste, metal ingot, or angler gel; 
-* purple drops polymer or black pearls; 
-* yellow drops an ammo crate; 
-* red drops deep sea crate items.  
+* Whites drop electronics or gas  
+* Green drops tranq darts or arrows 
+* Blue drops cementing paste, metal ingot, or angler gel  
+* Purple drops polymer or black pearls  
+* Yellow drops an ammo crate  
+* Red drops Deep Sea Crate items (but not quite as high of quality as the artifact crates).  
   
 **In general use the normal code, not the special event, unless you really want to have much more powerful crates.**
-
+  
 #### Support
   
 If you want to help out, a coffee would be appreciated as proper coding fuel.  

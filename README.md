@@ -30,5 +30,5 @@ The [FULL_DEPLOY_CODE_special_event](EpicCrateDayEvent/FULL_DEPLOY_CODE_special_
 #### Support
   
 If you want to help out, a coffee would be appreciated as proper coding fuel.  
-* [PayPal](paypal.me/mattearly)  
+* [PayPal](https://www.paypal.me/mattearly/)  
 * Bitcoin: 1Nwi1GBJtsuo1WQJqK83Ckr5NDJ3zwi5mM  

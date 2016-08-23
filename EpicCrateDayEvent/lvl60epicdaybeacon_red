@@ -791,24 +791,24 @@
 			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.10,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
 					EntryWeight=0.84,
-					ItemClassStrings=("PrimalItem_WeaponMachinedPistol_C","PrimalItem_WeaponOneShotRifle_C","PrimalItem_WeaponShotgun_C","PrimalItem_WeaponRifle_C","PrimalItem_WeaponRocketLauncher_C"),
-					ItemsWeights=(0.10,0.11,0.10,0.34,0.35),
+					ItemClassStrings=("PrimalItem_WeaponRifle_C","PrimalItem_WeaponRocketLauncher_C"),
+					ItemsWeights=(0.50,0.50),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.0,MaxQuality=1.3,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.45
 				),
 				(
 					EntryWeight=0.14,
-					ItemClassStrings=("PrimalItem_WeaponMachinedPistol_C","PrimalItem_WeaponOneShotRifle_C","PrimalItem_WeaponShotgun_C","PrimalItem_WeaponRifle_C","PrimalItem_WeaponRocketLauncher_C"),
-					ItemsWeights=(0.10,0.11,0.10,0.34,0.35),
+					ItemClassStrings=("PrimalItem_WeaponRifle_C","PrimalItem_WeaponRocketLauncher_C"),
+					ItemsWeights=(0.50,0.50),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.4,MaxQuality=1.7,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.55
 				),
 				(
 					EntryWeight=0.02,
-					ItemClassStrings=("PrimalItem_WeaponMachinedPistol_C","PrimalItem_WeaponOneShotRifle_C","PrimalItem_WeaponShotgun_C","PrimalItem_WeaponRifle_C","PrimalItem_WeaponRocketLauncher_C"),
-					ItemsWeights=(0.10,0.11,0.10,0.34,0.35),
+					ItemClassStrings=("PrimalItem_WeaponRifle_C","PrimalItem_WeaponRocketLauncher_C"),
+					ItemsWeights=(0.50,0.50),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.9,MaxQuality=2.7,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.65

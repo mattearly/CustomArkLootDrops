@@ -391,7 +391,7 @@
 		),
 		( 
 			; EPIC CRATE DAY ITEMS
-			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.8,bItemsRandomWithoutReplacement=true,ItemEntries=(
+			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.80,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
 					EntryWeight=0.38,
 					ItemClassStrings=("PrimalItemResource_ChitinPaste_C"),

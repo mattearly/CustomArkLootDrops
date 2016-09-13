@@ -161,7 +161,27 @@ Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ApexDrop
 Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ApexDrop_LightningWyvern.PrimalItemResource_ApexDrop_LightningWyvern'
 Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ApexDrop_PoisonWyvern.PrimalItemResource_ApexDrop_PoisonWyvern'
  
-
+Scorched Earth Beacons
+Cave Beacon 1	SupplyCrate_Cave_QualityTier1_ScorchedEarth_C
+Cave Beacon 2	SupplyCrate_Cave_QualityTier2_ScorchedEarth_C
+Cave Beacon 3	SupplyCrate_Cave_QualityTier3_ScorchedEarth_C
+Cave Beacon 3	SupplyCrate_Cave_QualityTier3_ScorchedEarth_C
+White Beacon	SupplyCrate_Level03_ScorchedEarth_C
+White Beacon (Double items)	SupplyCrate_Level03_Double_ScorchedEarth_C
+Green Beacon	SupplyCrate_Level15_ScorchedEarth_C
+Green Beacon (Double items)	SupplyCrate_Level15_Double_ScorchedEarth_C
+Blue Beacon	SupplyCrate_Level30_ScorchedEarth_C
+Blue Beacon (Double items)	SupplyCrate_Level30_Double_ScorchedEarth_C
+Purple Beacon	SupplyCrate_Level45_ScorchedEarth_C
+Purple Beacon (Double items)	SupplyCrate_Level45_Double_ScorchedEarth_C
+Yellow Beacon	SupplyCrate_Level55_ScorchedEarth_C
+Yellow Beacon (Double items)	SupplyCrate_Level55_Double_ScorchedEarth_C
+Red Beacon	SupplyCrate_Level70_ScorchedEarth_C
+Red Beacon (Double items)	SupplyCrate_Level70_Double_ScorchedEarth_C
+Artifact Container Destroyer	ArtifactCrate_SE_C
+Artifact Container Gatekeeper	ArtifactCrate_2_SE_C
+Artifact Container Crag	ArtifactCrate_3_SE_C
+Deep Sand Crates SupplyCrate_OceanInstant_C
 
 
 Done Logs:

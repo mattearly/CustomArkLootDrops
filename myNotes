@@ -3,7 +3,7 @@ NOTES: My own running update notes on the project, likely useless to others
 ToDo:
 	ScorchedEarth - Redo Beacons, SAND (SEA) CRATES.  This will be the inital release. 
 	
-	TheIsland/TheCenter - SEA CRATES (move spider, paracer, pachy, stag and frog saddle to normal beacons. DA FUCK DEVS. WHY???)  This will be Revision 10.
+	TheIsland/TheCenter - SEA CRATES (move spider, paracer, pachy, stag, doedicurus and frog saddle to normal beacons. DA FUCK DEVS. WHY???)  This will be Revision 10.
 	
 	Add Slopped Left/Right walls - might leave these out anyway.
 
@@ -236,6 +236,7 @@ Revision 9 Changes:
 		frog 25   --> Sea Crates, da fuck devs!? why?
 		paracer 30  --> Sea Crates, da fuck devs!? why?
 		stag 30  --> Sea Crates, da fuck devs!? why?
+		doedicurus 30 --> Sea Crates
 		galli 30 - done
 		stego 30 - done
 		sarco 35 - done

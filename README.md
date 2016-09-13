@@ -14,10 +14,10 @@ As stated with the goal, they are more filled out. Quite literally, all the prev
 Any items with quality ratings will drop individual pieces or patterns only and have a (rather small) chance to be improved beyond what was capable before. In extremely rare cases, the gear found here will be of very high quality. This is so rare, that you would have to be a dedicated beacon hunter (or just damn lucky) to come across the best of the gear. This rarity is on purpose so that it doesn't make cave crates useless. 
 
 #### How to use this code on your server?  
-The easiest way to use this is to copy all the code from the file [FULL_DEPLOY_CODE](FULL_DEPLOY_CODE) and paste it into your *game.ini* file, anywhere under the [/script/shootergame.shootergamemode]. Then Save your server and restart it (be sure to warn your players so they dont lose stuff/can land their fliers, all that standard stuff). If you are still stuck on this, there is a lot of additional information out there about editing your game.ini file, just search Google.  
+The easiest way to use this is to copy all the code from the file [FULL_DEPLOY_CODE](Standard/FULL_DEPLOY_CODE) and paste it into your *game.ini* file, anywhere under the [/script/shootergame.shootergamemode]. Then Save your server and restart it (be sure to warn your players so they dont lose stuff/can land their fliers, all that standard stuff). If you are still stuck on this, there is a lot of additional information out there about editing your game.ini file, just search Google.  
 
 #### What is the Special Event Version?  
-The [FULL_DEPLOY_CODE_special_event](EpicCrateDayEvent/FULL_DEPLOY_CODE_special_event) is a more powerful version of the world beacons intended for special events. *These crates have all the normal stuff and also include a ~50% chance to drop special loot. Additionally, all items with quality have increased quality in these crates.*  
+The [FULL_DEPLOY_CODE_special_event](Standard/EpicCrateDayEvent/FULL_DEPLOY_CODE_special_event) is a more powerful version of the world beacons intended for special events. *These crates have all the normal stuff and also include a ~50% chance to drop special loot. Additionally, all items with quality have increased quality in these crates.*  
 * Whites drop electronics or gas  
 * Green drops tranq darts or arrows 
 * Blue drops cementing paste, metal ingot, or angler gel  
@@ -27,6 +27,9 @@ The [FULL_DEPLOY_CODE_special_event](EpicCrateDayEvent/FULL_DEPLOY_CODE_special_
   
 **In general use the normal code, not the special event, unless you really want to have much more powerful crates.**
   
+#### Make your own versions  
+Edit the code for the beacons, then run the **compile_code** powershell script to turn it into Full Deploy Code.
+
 #### Support
   
 If you want to help out, a coffee would be appreciated as proper coding fuel.  

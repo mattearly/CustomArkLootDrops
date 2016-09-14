@@ -5,7 +5,7 @@
 			MinNumItems=2,MaxNumItems=4,NumItemsPower=1.0,SetWeight=0.16,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
 					EntryWeight=0.10,
-					ItemClassStrings=("PrimalItemResource_Campfire_C"),
+					ItemClassStrings=("PrimalItemStructure_Campfire_C"),
 					ItemsWeights=(1.0),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.0,MaxQuality=1.0,
@@ -61,7 +61,7 @@
 				),
 				(
 					EntryWeight=0.05,
-					ItemClassStrings=("PrimalItemResource_Campfire_C","PrimalItemConsumable_WaterskinCraftable_C","PrimalItemStructure_SleepingBag_Hide_C"),
+					ItemClassStrings=("PrimalItemStructure_Campfire_C","PrimalItemConsumable_WaterskinCraftable_C","PrimalItemStructure_SleepingBag_Hide_C"),
 					ItemsWeights=(0.33,0.33,0.34),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.0,MaxQuality=1.0,

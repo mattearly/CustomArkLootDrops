@@ -54,7 +54,7 @@
 					ItemsWeights=(0.2,0.2,0.2,0.2,0.2),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.0,MaxQuality=1.0,
-					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
+					bForceBlueprint=true,ChanceToBeBlueprintOverride=0.0
 				)
 			)
 		),

@@ -172,7 +172,7 @@
 		),
 		(	
 			; POTION
-			MinNumItems=1,MaxNumItems=3,NumItemsPower=1.0,SetWeight=0.06,bItemsRandomWithoutReplacement=true,ItemEntries=(
+			MinNumItems=1,MaxNumItems=3,NumItemsPower=1.0,SetWeight=0.04,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
 					EntryWeight=0.14,
 					ItemClassStrings=("PrimalItemConsumable_HealSoup_C"),
@@ -393,7 +393,7 @@
 		; END BLUE DROPS
 		(	
 			; Weapons
-			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.11,bItemsRandomWithoutReplacement=true,ItemEntries=(
+			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.13,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
 					EntryWeight=0.84,
 					ItemClassStrings=("PrimalItem_WeaponGun_C","PrimalItem_WeaponOneShotRifle_C","PrimalItem_WeaponShotgun_C","PrimalItem_ChainSaw_C"),
@@ -483,7 +483,7 @@
 					EntryWeight=0.08,
 					ItemClassStrings=("PrimalItemAmmo_SimpleBullet_C","PrimalItemAmmo_SimpleShotgunBullet_C","PrimalItemAmmo_SimpleRifleBullet_C","PrimalItem_WeaponGrenade_C","PrimalItem_PoisonGrenade_C","PrimalItem_WeaponClusterGrenade_C"),
 					ItemsWeights=(0.22,0.29,0.29,0.05,0.04,0.11),
-					MinQuantity=18.0,MaxQuantity=40.0,
+					MinQuantity=18.0,MaxQuantity=42.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				),

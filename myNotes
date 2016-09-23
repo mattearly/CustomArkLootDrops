@@ -5,8 +5,8 @@ ToDo:  ii
 		White: draft done.
 		Green: draft done. - add 10x veggies + 1 seed - add 1/3 of adobe - done
 		Blue: add 1/3 of adobe -> add doed and paracer saddle
-		Purple: add 1/3 of adobe
-		Yellow: add largest gates or adobe
+		Purple: add 1/3 of adobe add largest gates or adobe -done
+		Yellow: 
 	
 	TheIsland/TheCenter - SEA CRATES (move spider, paracer, pachy, stag, doedicurus and frog saddle to normal beacons. DA FUCK DEVS. WHY???)  This will be Revision 10 probably.
 	
@@ -72,12 +72,12 @@ Blueprint'/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_Poison.Wyvern_Cha
 Items
 Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_ArrowFlame.PrimalItemAmmo_ArrowFlame' -green
 Blueprint'/Game/ScorchedEarth/WeaponChainsaw/PrimalItem_ChainSaw.PrimalItem_ChainSaw'  -lvl 45  -purple
-Blueprint'/Game/ScorchedEarth/WeaponFlamethrower/PrimalItem_WeapFlamethrower.PrimalItem_WeapFlamethrower' -lvl 55
+Blueprint'/Game/ScorchedEarth/WeaponFlamethrower/PrimalItem_WeapFlamethrower.PrimalItem_WeapFlamethrower' -lvl 55  -yellow
 Blueprint'/Game/ScorchedEarth/WeaponBoomerang/PrimalItem_WeaponBoomerang.PrimalItem_WeaponBoomerang' -white
 Blueprint'/Game/ScorchedEarth/WeaponClusterGrenade/PrimalItem_WeaponClusterGrenade.PrimalItem_WeaponClusterGrenade'  -lvl 50  -purple
 Blueprint'/Game/ScorchedEarth/WeaponOilJar/PrimalItem_WeaponOilJar.PrimalItem_WeaponOilJar'  -green
 Blueprint'/Game/ScorchedEarth/WeaponWhip/PrimalItem_WeaponWhip.PrimalItem_WeaponWhip'  -green
-Blueprint'/Game/ScorchedEarth/WeaponFlamethrower/PrimalItemAmmo_Flamethrower.PrimalItemAmmo_Flamethrower'  -lvl 55
+Blueprint'/Game/ScorchedEarth/WeaponFlamethrower/PrimalItemAmmo_Flamethrower.PrimalItemAmmo_Flamethrower'  -lvl 55  -yellow
 Blueprint'/Game/ScorchedEarth/WeaponHomingMissile/PrimalItemAmmo_RocketHomingMissile.PrimalItemAmmo_RocketHomingMissile'  -lvl75
 Blueprint'/Game/ScorchedEarth/Dinos/Camelsaurus/PrimalItemArmor_CamelsaurusSaddle.PrimalItemArmor_CamelsaurusSaddle'  -green
 Blueprint'/Game/ScorchedEarth/Outfits/PrimalItemArmor_DesertClothBoots.PrimalItemArmor_DesertClothBoots'  -sand

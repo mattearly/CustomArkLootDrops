@@ -113,7 +113,7 @@ Blueprint'/Game/ScorchedEarth/Dinos/Vulture/PrimalItemConsumable_RawMeat_Preserv
 Blueprint'/Game/ScorchedEarth/WeaponPlantSpeciesY/PrimalItemConsumable_Seed_PlantSpeciesY.PrimalItemConsumable_Seed_PlantSpeciesY'
 Blueprint'/Game/ScorchedEarth/WeaponPlantSpeciesY/PrimalItemConsumable_Seed_PlantSpeciesY_SpeedHack.PrimalItemConsumable_Seed_PlantSpeciesY_SpeedHack'
 Blueprint'/Game/ScorchedEarth/CoreBlueprints/Resources/PrimalItemResource_Clay.PrimalItemResource_Clay' -green -white
-Blueprint'/Game/ScorchedEarth/Dinos/Deathworm/PrimalItemResource_KeratinSpike.PrimalItemResource_KeratinSpike' 
+Blueprint'/Game/ScorchedEarth/Dinos/Deathworm/PrimalItemResource_KeratinSpike.PrimalItemResource_KeratinSpike' -red
 Blueprint'/Game/ScorchedEarth/CoreBlueprints/Resources/PrimalItemResource_PreservingSalt.PrimalItemResource_PreservingSalt'  -white
 Blueprint'/Game/ScorchedEarth/CoreBlueprints/Resources/PrimalItemResource_Propellant.PrimalItemResource_Propellant'  -blue
 Blueprint'/Game/ScorchedEarth/CoreBlueprints/Resources/PrimalItemResource_RawSalt.PrimalItemResource_RawSalt'  -white
@@ -146,7 +146,7 @@ Blueprint'/Game/ScorchedEarth/Structures/Adobe/Blueprints/PrimalItemStructure_Ad
 Blueprint'/Game/ScorchedEarth/Structures/Adobe/Blueprints/PrimalItemStructure_AdobeWindow.PrimalItemStructure_AdobeWindow'   -green
 Blueprint'/Game/ScorchedEarth/Structures/ManticoreFlag/PrimalItemStructure_Flag_Manticore.PrimalItemStructure_Flag_Manticore'
 Blueprint'/Game/ScorchedEarth/Structures/DesertFurnitureSet/Mirror/PrimalItemStructure_Mirror.PrimalItemStructure_Mirror'   -lvl35   -blue
-Blueprint'/Game/ScorchedEarth/Structures/OilPump/PrimalItemStructure_oilPump.PrimalItemStructure_oilPump'  -lvl60
+Blueprint'/Game/ScorchedEarth/Structures/OilPump/PrimalItemStructure_oilPump.PrimalItemStructure_oilPump'  -lvl60  -yellow
 Blueprint'/Game/ScorchedEarth/WeaponPlantSpeciesY/PrimalItemStructure_PlantSpeciesYTrap.PrimalItemStructure_PlantSpeciesYTrap'
 Blueprint'/Game/ScorchedEarth/Structures/Tent/PrimalItemStructure_Tent.PrimalItemStructure_Tent'  -lvl 10 -white
 Blueprint'/Game/ScorchedEarth/Structures/DesertFurnitureSet/Vessel/PrimalItemStructure_Vessel.PrimalItemStructure_Vessel'  -lvl15 -green

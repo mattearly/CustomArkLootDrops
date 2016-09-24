@@ -314,7 +314,7 @@
 			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.005,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
 					EntryWeight=0.28,
-					ItemClassStrings=("PrimalItemConsumable_WaterJarCraftable_C","PrimalItem_WeaponCompass_C","PrimalItemStructure_CropPlot_Medium_C","PrimalItem_WeaponMagnifyingGlass_C","PrimalItem_WeaponHandcuffs_C",PrimalItemStructure_Mirror_C"),
+					ItemClassStrings=("PrimalItemConsumable_WaterJarCraftable_C","PrimalItem_WeaponCompass_C","PrimalItemStructure_CropPlot_Medium_C","PrimalItem_WeaponMagnifyingGlass_C","PrimalItem_WeaponHandcuffs_C","PrimalItemStructure_Mirror_C"),
 					ItemsWeights=(0.17,0.17,0.17,0.17,0.16,0.16),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.0,MaxQuality=1.0,

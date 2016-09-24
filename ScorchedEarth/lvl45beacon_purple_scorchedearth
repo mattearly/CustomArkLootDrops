@@ -465,7 +465,7 @@
 				),
 				(
 					EntryWeight=0.06,
-					ItemClassStrings=(PrimalItem_PoisonGrenade_C"),
+					ItemClassStrings=("PrimalItem_PoisonGrenade_C"),
 					ItemsWeights=(1.0),
 					MinQuantity=1.0,MaxQuantity=2.0,
 					MinQuality=1.0,MaxQuality=1.0,

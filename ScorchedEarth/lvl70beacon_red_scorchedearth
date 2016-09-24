@@ -308,7 +308,6 @@
 				)
 			)
 		),
-
 		( 
 			; Trinkets, Pipes, and Buildings
 			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.005,bItemsRandomWithoutReplacement=true,ItemEntries=(
@@ -420,6 +419,7 @@
 					MinQuality=1.8,MaxQuality=2.6,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.65
 				)
+			)
 		),
 		( 
 			; AMMO
@@ -869,7 +869,7 @@
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				),
-								(
+				(
 					EntryWeight=0.11,
 					ItemClassStrings=("PrimalItemAmmo_TranqDart_C"),
 					ItemsWeights=(1.0),

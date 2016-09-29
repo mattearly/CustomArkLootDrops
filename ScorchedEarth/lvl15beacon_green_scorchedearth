@@ -478,7 +478,7 @@
 			; Furniture
 			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.22,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
-					EntryWeight=0.36,
+					EntryWeight=0.39,
 					ItemClassStrings=("PrimalItemDye_Red_C","PrimalItemDye_Green_C","PrimalItemDye_Blue_C","PrimalItemDye_Yellow_C","PrimalItemDye_Purple_C","PrimalItemDye_Orange_C","PrimalItemDye_Black_C","PrimalItemDye_White_C","PrimalItemDye_Brown_C","PrimalItemDye_Cyan_C","PrimalItemDye_Forest_C","PrimalItemDye_Parchment_C","PrimalItemDye_Pink_C","PrimalItemDye_Royalty_C","PrimalItemDye_Silver_C","PrimalItemDye_Sky_C","PrimalItemDye_Tan_C","PrimalItemDye_Tangerine_C","PrimalItemDye_ActuallyMagenta_C","PrimalItemDye_Brick_C","PrimalItemDye_Cantaloupe_C","PrimalItemDye_Mud_C","PrimalItemDye_Navy_C","PrimalItemDye_Olive_C","PrimalItemDye_Slate_C"),
 					ItemsWeights=(0.04,0.04,0.04,0.04,0.04,0.04,0.04,0.04,0.04,0.04,0.04,0.04,0.04,0.04,0.04,0.04,0.04,0.04,0.04,0.04,0.04,0.04,0.04,0.04,0.04),
 					MinQuantity=4.0,MaxQuantity=8.0,
@@ -494,9 +494,9 @@
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.80
 				),
 				(
-					EntryWeight=0.36,
-					ItemClassStrings=("PrimalItemStructure_StorageBox_Large_C","PrimalItemStructure_Forge_C","PrimalItemStructure_AnvilBench_C","PrimalItemStructure_MortarAndPestle_C","PrimalItemStructure_CookingPot_C","PrimalItemStructure_Furniture_WoodTable_C","PrimalItemRaft_C","PrimalItemStructure_Furniture_Gravestone_C","PrimalItemStructure_Furniture_WoodBench_C","PrimalItemStructure_Vessel_C","PrimalItemStructure_Tent_C"),
-					ItemsWeights=(0.09,0.09,0.09,0.09,0.09,0.09,0.09,0.09,0.09,0.10,0.09),
+					EntryWeight=0.33,
+					ItemClassStrings=("PrimalItemStructure_StorageBox_Large_C","PrimalItemStructure_Forge_C","PrimalItemStructure_AnvilBench_C","PrimalItemStructure_MortarAndPestle_C","PrimalItemStructure_CookingPot_C","PrimalItemStructure_Furniture_WoodTable_C","PrimalItemStructure_Furniture_Gravestone_C","PrimalItemStructure_Furniture_WoodBench_C","PrimalItemStructure_Vessel_C","PrimalItemStructure_Tent_C"),
+					ItemsWeights=(0.10,0.10,0.10,0.10,0.10,0.10,0.10,0.10,0.10,0.10),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.80

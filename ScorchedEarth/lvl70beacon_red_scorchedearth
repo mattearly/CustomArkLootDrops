@@ -460,7 +460,7 @@
 					EntryWeight=0.06,
 					ItemClassStrings=("PrimalItem_WeaponGrenade_C"),
 					ItemsWeights=(1.0),
-					MinQuantity=1.0,MaxQuantity=2.0,
+					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				),
@@ -476,7 +476,7 @@
 					EntryWeight=0.08,
 					ItemClassStrings=("PrimalItem_WeaponClusterGrenade_C"),
 					ItemsWeights=(1.0),
-					MinQuantity=1.0,MaxQuantity=2.0,
+					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				),
@@ -484,7 +484,7 @@
 					EntryWeight=0.08,
 					ItemClassStrings=("PrimalItemAmmo_SimpleBullet_C","PrimalItemAmmo_SimpleShotgunBullet_C","PrimalItemAmmo_SimpleRifleBullet_C","PrimalItem_WeaponGrenade_C","PrimalItem_PoisonGrenade_C","PrimalItem_WeaponClusterGrenade_C"),
 					ItemsWeights=(0.22,0.29,0.29,0.05,0.04,0.11),
-					MinQuantity=18.0,MaxQuantity=42.0,
+					MinQuantity=12.0,MaxQuantity=38.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				),
@@ -647,7 +647,7 @@
 					EntryWeight=0.21,
 					ItemClassStrings=("PrimalItemAmmo_AdvancedBullet_C"),
 					ItemsWeights=(1.0),
-					MinQuantity=8.0,MaxQuantity=12.0,
+					MinQuantity=8.0,MaxQuantity=20.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				),
@@ -663,7 +663,7 @@
 					EntryWeight=0.26,
 					ItemClassStrings=("PrimalItemAmmo_Flamethrower_C"),
 					ItemsWeights=(1.0),
-					MinQuantity=1.0,MaxQuantity=2.0,
+					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				),
@@ -671,7 +671,7 @@
 					EntryWeight=0.07,
 					ItemClassStrings=("PrimalItemC4Ammo_C"),
 					ItemsWeights=(1.0),
-					MinQuantity=1.0,MaxQuantity=3.0,
+					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				),
@@ -686,8 +686,8 @@
 				(
 					EntryWeight=0.15,
 					ItemClassStrings=("PrimalItemAmmo_AdvancedBullet_C","PrimalItemAmmo_GrapplingHook_C","PrimalItem_WeaponTripwireC4_C","PrimalItemAmmo_Flamethrower_C","PrimalItemC4Ammo_C"),
-					ItemsWeights=(0.40,0.18,0.18,0.18,0.06), 
-					MinQuantity=11.0,MaxQuantity=18.0,
+					ItemsWeights=(0.80,0.06,0.06,0.06,0.02), 
+					MinQuantity=55.0,MaxQuantity=85.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				),
@@ -889,7 +889,7 @@
 					EntryWeight=0.09,
 					ItemClassStrings=("PrimalItemAmmo_Rocket_C"),
 					ItemsWeights=(1.0),
-					MinQuantity=1.0,MaxQuantity=2.0,
+					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				),
@@ -897,23 +897,23 @@
 					EntryWeight=0.06,
 					ItemClassStrings=("PrimalItemAmmo_RocketHomingMissile_C"),
 					ItemsWeights=(1.0),
-					MinQuantity=1.0,MaxQuantity=2.0,
+					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				),
 				(
 					EntryWeight=0.04,
 					ItemClassStrings=("PrimalItemAmmo_AdvancedSniperBullet_C","PrimalItemAmmo_AdvancedRifleBullet_C","PrimalItemAmmo_CompoundBowArrow_C","PrimalItemAmmo_TranqDart_C","PrimalItemAmmo_Rocket_C","PrimalItemAmmo_RocketHomingMissile_C"),
-					ItemsWeights=(0.13,0.65,0.13,0.06,0.015,0.015),
-					MinQuantity=50.0,MaxQuantity=100.0,
+					ItemsWeights=(0.14,0.65,0.13,0.06,0.01,0.01),
+					MinQuantity=40.0,MaxQuantity=85.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				),
 				(
 					EntryWeight=0.02,
 					ItemClassStrings=("PrimalItemAmmo_AdvancedSniperBullet_C","PrimalItemAmmo_AdvancedRifleBullet_C","PrimalItemAmmo_CompoundBowArrow_C","PrimalItemAmmo_TranqDart_C","PrimalItemAmmo_Rocket_C","PrimalItemAmmo_RocketHomingMissile_C"),
-					ItemsWeights=(0.13,0.65,0.13,0.06,0.015,0.015),
-					MinQuantity=75.0,MaxQuantity=130.0,
+					ItemsWeights=(0.14,0.65,0.13,0.06,0.010,0.010),
+					MinQuantity=65.0,MaxQuantity=110.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				),

@@ -358,7 +358,7 @@
 			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.15,SetWeight=0.01,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
 					EntryWeight=0.80,
-					ItemClassStrings=("PrimalItemArmor_ScorpionSaddle_C","PrimalItemArmor_Gallimimus_C","PrimalItemArmor_TerrorBirdSaddle_C","PrimalItemArmor_DoedSaddle_C","PrimalItemArmor_ParaSaddle_C"),
+					ItemClassStrings=("PrimalItemArmor_ScorpionSaddle_C","PrimalItemArmor_Gallimimus_C","PrimalItemArmor_TerrorBirdSaddle_C","PrimalItemArmor_DoedSaddle_C","PrimalItemArmor_Paracer_Saddle_C"),
 					ItemsWeights=(0.2,0.2,0.2,0.2,0.2),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.0,MaxQuality=1.3,
@@ -366,7 +366,7 @@
 				),
 				(
 					EntryWeight=0.14,
-					ItemClassStrings=("PrimalItemArmor_ScorpionSaddle_C","PrimalItemArmor_Gallimimus_C","PrimalItemArmor_TerrorBirdSaddle_C","PrimalItemArmor_DoedSaddle_C","PrimalItemArmor_ParaSaddle_C"),
+					ItemClassStrings=("PrimalItemArmor_ScorpionSaddle_C","PrimalItemArmor_Gallimimus_C","PrimalItemArmor_TerrorBirdSaddle_C","PrimalItemArmor_DoedSaddle_C","PrimalItemArmor_Paracer_Saddle_C"),
 					ItemsWeights=(0.2,0.2,0.2,0.2,0.2),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.8,MaxQuality=1.8,
@@ -374,7 +374,7 @@
 				),
 				(
 					EntryWeight=0.02,
-					ItemClassStrings=("PrimalItemArmor_ScorpionSaddle_C","PrimalItemArmor_Gallimimus_C","PrimalItemArmor_TerrorBirdSaddle_C","PrimalItemArmor_DoedSaddle_C","PrimalItemArmor_ParaSaddle_C"),
+					ItemClassStrings=("PrimalItemArmor_ScorpionSaddle_C","PrimalItemArmor_Gallimimus_C","PrimalItemArmor_TerrorBirdSaddle_C","PrimalItemArmor_DoedSaddle_C","PrimalItemArmor_Paracer_Saddle_C"),
 					ItemsWeights=(0.2,0.2,0.2,0.2,0.2),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.8,MaxQuality=2.6,

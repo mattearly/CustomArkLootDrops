@@ -313,8 +313,8 @@
 			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.075,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
 					EntryWeight=0.28,
-					ItemClassStrings=("PrimalItemConsumable_WaterJarCraftable_C","PrimalItem_WeaponCompass_C","PrimalItemStructure_CropPlot_Medium_C","PrimalItem_WeaponMagnifyingGlass_C","PrimalItemStructure_TreeTap_C","PrimalItem_WeaponHandcuffs_C"),
-					ItemsWeights=(0.17,0.17,0.17,0.17,0.16,0.16),
+					ItemClassStrings=("PrimalItemConsumable_WaterJarCraftable_C","PrimalItem_WeaponCompass_C","PrimalItemStructure_CropPlot_Medium_C","PrimalItem_WeaponMagnifyingGlass_C","PrimalItem_WeaponHandcuffs_C","PrimalItemStructure_Mirror_C","PrimalItemStructure_PreservingBin_C"),
+					ItemsWeights=(0.15,0.15,0.14,0.14,0.14,0.14,0.14),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.80

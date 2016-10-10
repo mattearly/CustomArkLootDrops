@@ -4,9 +4,11 @@ _Improved, yet not overpowered, default world beacons._
 
 ### Support
   
-I could use any donation help I can get from my side project as I'm in school full time with no job! Please consider buying me a coffee or beer if you found these crates useful. 
+I could use any donation help I can get from my side project as I'm in school full time with no real job! Please consider buying me a coffee if you found these crates useful. 
 * [PayPal](https://www.paypal.me/mattearly/)  
 * Bitcoin: 1Nwi1GBJtsuo1WQJqK83Ckr5NDJ3zwi5mM  
+* Total Donations: $0
+* Total Time Spent Creating and Maintaining this: ~70 hours
 
 ## The Goal  
 The goal here is to improve the default World Beacon crates in ARK, and yet not make them crazy overpowered (as many who edit them seem to make them - to each his own). I do not wish to replace/make useless the Sea Crates or Cave loot crates, or break the game with these replacement beacons here. For our server we wanted a healthy balance and crates that would improve the overall quality of the game. With this diligent crate re-code, the beacons will become more worthwhile in general. They will drop stuff that is useful to players of all levels and be be more exciting to hunt for. They will also feel more complete and filled out, including patterns for items that could only be crafted by spending engram points previously.  

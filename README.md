@@ -1,6 +1,6 @@
 # Better Default World Beacons  
 
-_Improved, yet not overpowered, default world beacons for custom servers._  
+_Improved, yet not overpowered, default world beacons for custom (ARK: Survival Evovled[https://www.youtube.com/survivetheark]) servers._  
 
 
 ## How to use this code on your server?   

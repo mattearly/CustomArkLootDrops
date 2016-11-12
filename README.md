@@ -20,4 +20,4 @@ Items with Quality Ratings (Weapons, Armor, Saddles) drop individual pieces or p
 * Bitcoin: 1Nwi1GBJtsuo1WQJqK83Ckr5NDJ3zwi5mM  
 
 ### Make your own versions  
-Fork, Edit the code for the beacons. After editing, run the **compile_code** powershell script (most versions of Windows will do this as far as I know) to turn it into Full Deploy Code. To learn more about editing beacons, Google is your best friend. There is a lot of useful information out there. I you look at the broken down, syntaxed code on my Github it will probably begin to make sense.
+Fork, Edit the code for the beacons. After editing, run the **compile_code** powershell script (most versions of Windows will do this as far as I know) to turn it into Full Deploy Code. To learn more about editing beacons, Google is your best friend. There is a lot of useful information out there. If you look at the broken down, syntaxed code on my Github it will probably begin to make sense.

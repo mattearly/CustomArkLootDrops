@@ -396,7 +396,7 @@
 			; Saddle
 			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.05,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
-					EntryWeight=0.80,
+					EntryWeight=0.76,
 					ItemClassStrings=("PrimalItemArmor_ParaSaddle_C"),
 					ItemsWeights=(1.0),
 					MinQuantity=1.0,MaxQuantity=1.0,
@@ -404,7 +404,7 @@
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.45
 				),
 				(
-					EntryWeight=0.14,
+					EntryWeight=0.12,
 					ItemClassStrings=("PrimalItemArmor_ParaSaddle_C"),
 					ItemsWeights=(1.0),
 					MinQuantity=1.0,MaxQuantity=1.0,
@@ -420,9 +420,9 @@
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.65
 				),
 				(
-					EntryWeight=0.04,
-					ItemClassStrings=("PrimalItemConsumable_TheHorn_C"),
-					ItemsWeights=(1.0),
+					EntryWeight=0.08,
+					ItemClassStrings=("PrimalItemStructure_FeedingTrough_C", "PrimalItemConsumable_TheHorn_C"),
+					ItemsWeights=(0.50,0.50),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0

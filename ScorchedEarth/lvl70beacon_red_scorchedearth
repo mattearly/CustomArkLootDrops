@@ -982,24 +982,24 @@
 			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.10,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
 					EntryWeight=0.80,
-					ItemClassStrings=("PrimalItemArmor_RockGolemSaddle_C","PrimalItemArmor_ArgentavisSaddle_C","PrimalItemArmor_RexSaddle_C"),
-					ItemsWeights=(0.333,0.333,0.333),
+					ItemClassStrings=("PrimalItemArmor_RockGolemSaddle_C","PrimalItemArmor_ArgentavisSaddle_C","PrimalItemArmor_RexSaddle_C","PrimalItemArmor_MegalosaurusSaddle_C"),
+					ItemsWeights=(0.25,0.25,0.25,0.25),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.0,MaxQuality=1.3,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.45
 				),
 				(
 					EntryWeight=0.14,
-					ItemClassStrings=("PrimalItemArmor_RockGolemSaddle_C","PrimalItemArmor_ArgentavisSaddle_C","PrimalItemArmor_RexSaddle_C"),
-					ItemsWeights=(0.333,0.333,0.333),
+					ItemClassStrings=("PrimalItemArmor_RockGolemSaddle_C","PrimalItemArmor_ArgentavisSaddle_C","PrimalItemArmor_RexSaddle_C","PrimalItemArmor_MegalosaurusSaddle_C"),
+					ItemsWeights=(0.25,0.25,0.25,0.25),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.4,MaxQuality=1.7,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.55
 				),
 				(
 					EntryWeight=0.02,
-					ItemClassStrings=("PrimalItemArmor_RockGolemSaddle_C","PrimalItemArmor_ArgentavisSaddle_C","PrimalItemArmor_RexSaddle_C"),
-					ItemsWeights=(0.333,0.333,0.333),
+					ItemClassStrings=("PrimalItemArmor_RockGolemSaddle_C","PrimalItemArmor_ArgentavisSaddle_C","PrimalItemArmor_RexSaddle_C","PrimalItemArmor_MegalosaurusSaddle_C"),
+					ItemsWeights=(0.25,0.25,0.25,0.25),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.9,MaxQuality=2.7,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.65

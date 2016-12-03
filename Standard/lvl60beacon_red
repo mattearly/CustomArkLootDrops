@@ -976,24 +976,24 @@
 			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.06,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
 					EntryWeight=0.80,
-					ItemClassStrings=("PrimalItemArmor_SauroSaddle_C","PrimalItemArmor_ArgentavisSaddle_C","PrimalItemArmor_BeaverSaddle_C","PrimalItemArmor_RexSaddle_C","PrimalItemArmor_SpinoSaddle_C"),
-					ItemsWeights=(0.2,0.2,0.2,0.2,0.2),
+					ItemClassStrings=("PrimalItemArmor_SauroSaddle_C","PrimalItemArmor_ArgentavisSaddle_C","PrimalItemArmor_BeaverSaddle_C","PrimalItemArmor_RexSaddle_C","PrimalItemArmor_SpinoSaddle_C","PrimalItemArmor_MegalosaurusSaddle_C"),
+					ItemsWeights=(0.17,0.17,0.17,0.17,0.16,0.16),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.0,MaxQuality=1.3,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.45
 				),
 				(
 					EntryWeight=0.14,
-					ItemClassStrings=("PrimalItemArmor_SauroSaddle_C","PrimalItemArmor_ArgentavisSaddle_C","PrimalItemArmor_BeaverSaddle_C","PrimalItemArmor_RexSaddle_C","PrimalItemArmor_SpinoSaddle_C"),
-					ItemsWeights=(0.2,0.2,0.2,0.2,0.2),
+					ItemClassStrings=("PrimalItemArmor_SauroSaddle_C","PrimalItemArmor_ArgentavisSaddle_C","PrimalItemArmor_BeaverSaddle_C","PrimalItemArmor_RexSaddle_C","PrimalItemArmor_SpinoSaddle_C","PrimalItemArmor_MegalosaurusSaddle_C"),
+					ItemsWeights=(0.17,0.17,0.17,0.17,0.16,0.16),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.4,MaxQuality=1.7,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.55
 				),
 				(
 					EntryWeight=0.02,
-					ItemClassStrings=("PrimalItemArmor_SauroSaddle_C","PrimalItemArmor_ArgentavisSaddle_C","PrimalItemArmor_BeaverSaddle_C","PrimalItemArmor_RexSaddle_C","PrimalItemArmor_SpinoSaddle_C"),
-					ItemsWeights=(0.2,0.2,0.2,0.2,0.2),
+					ItemClassStrings=("PrimalItemArmor_SauroSaddle_C","PrimalItemArmor_ArgentavisSaddle_C","PrimalItemArmor_BeaverSaddle_C","PrimalItemArmor_RexSaddle_C","PrimalItemArmor_SpinoSaddle_C","PrimalItemArmor_MegalosaurusSaddle_C"),
+					ItemsWeights=(0.17,0.17,0.17,0.17,0.16,0.16),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.9,MaxQuality=2.7,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.65

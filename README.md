@@ -6,11 +6,11 @@ _Improved default world beacons for hosted [ARK: Survival Evovled](https://www.y
 
 ## HOW TO USE TO YOUR SERVER  
 1. Copy Data to Clipboard.  
-  * **The Island/The Center/Normal Maps**: Copy all the code from the file [FULL_DEPLOY_CODE under the Standard folder](Standard/FULL_DEPLOY_CODE)  
-    * - [raw link](https://raw.githubusercontent.com/bytePro17124/CustomArkLootDrops/master/Standard/FULL_DEPLOY_CODE)
-  * **Scorched Earth Map**: Copy all the code from the file [FULL_DEPLOY_CODE under the Scorched Earth folder](ScorchedEarth/FULL_DEPLOY_CODE)  
-    * - [raw link](https://raw.githubusercontent.com/bytePro17124/CustomArkLootDrops/master/ScorchedEarth/FULL_DEPLOY_CODE)  
-2. Paste the copied text into your *game.ini* file, anywhere under the [/script/shootergame.shootergamemode] header. With ArkServerManager their is paste in code button you can use.
+  * **The Island/The Center/Normal Maps**: Copy all the code from the file [Standard/FULL_DEPLOY_CODE](Standard/FULL_DEPLOY_CODE)  
+    * - [raw standard code link](https://raw.githubusercontent.com/bytePro17124/CustomArkLootDrops/master/Standard/FULL_DEPLOY_CODE)
+  * **Scorched Earth Map**: Copy all the code from the file [ScorchedEarth/FULL_DEPLOY_CODE](ScorchedEarth/FULL_DEPLOY_CODE)  
+    * - [raw se code link](https://raw.githubusercontent.com/bytePro17124/CustomArkLootDrops/master/ScorchedEarth/FULL_DEPLOY_CODE)  
+2. Paste the copied text into your *game.ini* file, anywhere under the [/script/shootergame.shootergamemode] header. If you are using ArkServerManager, there is paste in code button you can use.
 3. Reboot. The Beacons will be updated the next time your server boots up.  
 
 Note: If the beacons didn't seem to apply, be sure you are copying all of the text, and be sure you are pasting into the correct game.ini file.
@@ -19,7 +19,7 @@ Note: If the beacons didn't seem to apply, be sure you are copying all of the te
 The goal with this drop rework is to improve the Default World Beacon crates in ARK, and focus on balancing for what would really make sense, while aiming to not make them overpowered. This code should improve the usefulness and excitment of hunting for beacons.  The rare promise of truly unexepcted finds will keep players coming back.
 
 ## How are these new beacons different?  
-They are (way) more filled out. **All** the previously left out items have been added with the exception that any items found in Deep Sea loot crates (except in ScorchedEarth where the sea crates are redone). Items are in general grouped into the beacon close to the Engram Level. Rarity and odds are carefully balanced to make the best or most expensive items more rare, and explosives rare and in low quantities.  
+They are (way) more filled out. **All** the previously left out items have been added with the exception that any items found in Deep Sea loot crates (except in ScorchedEarth where the sea crates are redone). In general, items are grouped into the beacon close to the Engram Level. Rarity and odds are carefully balanced to make the best or most expensive items more rare, and explosives rare and in low quantities.  
 
 Items with Quality Ratings (Weapons, Armor, Saddles) drop individual pieces or patterns and are scaled up slightly in Double Crates (they have rings on them). Finding extremely high quality pieces is very rare on a server 4 difficulty. This rarity scales up or down along with game server difficulty as normal.
 

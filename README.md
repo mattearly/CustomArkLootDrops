@@ -1,21 +1,28 @@
-# Better Default World Beacons  
+#  CustomArkLootDrops
 
-_Improved, yet not overpowered, default world beacons for custom [ARK: Survival Evovled](https://www.youtube.com/survivetheark) servers._  
+_Improved default world beacons for hosted [ARK: Survival Evovled](https://www.youtube.com/survivetheark) servers._  
+* Designed with **Balance** in mind. I listen to feedback and update this code accordingly. If you noticed unbalanced things let me know.
+* Non-invasive to your server, nothing to install.
 
+## HOW TO APPLY TO YOUR SERVER  
+1. Copy Data to Clipboard.  
+  * **The Island/The Center/Normal Maps**: Copy all the code from the file [FULL_DEPLOY_CODE under the Standard folder](Standard/FULL_DEPLOY_CODE)
+  * **Scorched Earth Map**: Copy all the code from the file [FULL_DEPLOY_CODE under the Scorched Earth folder](ScorchedEarth/FULL_DEPLOY_CODE)  
+2. Paste the copied text into your *game.ini* file, anywhere under the [/script/shootergame.shootergamemode] header. 
+3. Reboot. The Beacons will be updated the next time your server boots up.  
 
-## How to use this code on your server?   
-The easiest way to use this is to copy all the code from the file [FULL_DEPLOY_CODE under the Standard folder](Standard/FULL_DEPLOY_CODE) or [under the Scorched Earth folder](ScorchedEarth/FULL_DEPLOY_CODE) and paste it into your *game.ini* file, anywhere under the [/script/shootergame.shootergamemode]. Then Save your server and restart it (be sure to warn your players so they dont lose stuff/can land their fliers, all that standard stuff). If you are still stuck on this, there is a lot of additional information out there about editing your game.ini file, just search Google.  
+Note: If the beacons didn't seem to apply, be sure you are copying all of the text, and be sure you are pasting into the correct game.ini file.
 
 ## The Goal  
-The goal with this drop rework is to improve the Default World Beacon crates in ARK, and focus on balancing for what would really make sense, while aiming to not make them overpowered. I do not wish to replace/make useless the Sea Crates or Cave loot crates, or break the game with these replacement beacons. For our server we wanted a healthy balance and crates that would improve the overall quality of the game. They will drop stuff that is useful to players of all levels and be be more exciting to hunt for. 
+The goal with this drop rework is to improve the Default World Beacon crates in ARK, and focus on balancing for what would really make sense, while aiming to not make them overpowered. This code should improve the usefulness and excitment of hunting for beacons.  The rare promise of truly unexepcted finds will keep players coming back.
 
 ## How are these new beacons different?  
-They are more filled out. All the previously left out items have been added with the exception that any items found in Deep Sea loot crates (except in ScorchedEarth where the sea crates are redone). Items are in general grouped into the beacon close to the Engram Level. Rarity and odds are carefully balanced to make the best or most expensive items more rare, and explosives rare and in low quantities.  
+They are (way) more filled out. **All** the previously left out items have been added with the exception that any items found in Deep Sea loot crates (except in ScorchedEarth where the sea crates are redone). Items are in general grouped into the beacon close to the Engram Level. Rarity and odds are carefully balanced to make the best or most expensive items more rare, and explosives rare and in low quantities.  
 
 Items with Quality Ratings (Weapons, Armor, Saddles) drop individual pieces or patterns and are scaled up slightly in Double Crates (they have rings on them). Finding extremely high quality pieces is very rare on a server 4 difficulty. This rarity scales up or down along with game server difficulty as normal.
 
 ## Support  
-*If you've found these useful, please consider donating any little thing.*
+*If you've found these useful, please consider donating.*
 * [PayPal](https://www.paypal.me/mattearly/)  
 * Bitcoin: 1Nwi1GBJtsuo1WQJqK83Ckr5NDJ3zwi5mM  
 

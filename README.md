@@ -4,7 +4,7 @@ _Improved default world beacons for hosted [ARK: Survival Evovled](https://www.y
 * Designed with **Balance** in mind. I listen to feedback and update this code accordingly. If you noticed unbalanced things let me know.
 * Non-invasive to your server, nothing to install.
 
-## HOW TO APPLY TO YOUR SERVER  
+## HOW TO USE TO YOUR SERVER  
 1. Copy Data to Clipboard.  
   * **The Island/The Center/Normal Maps**: Copy all the code from the file [FULL_DEPLOY_CODE under the Standard folder](Standard/FULL_DEPLOY_CODE)  
     * - [raw link](https://raw.githubusercontent.com/bytePro17124/CustomArkLootDrops/master/Standard/FULL_DEPLOY_CODE)

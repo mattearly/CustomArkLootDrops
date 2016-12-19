@@ -10,7 +10,7 @@ _Improved default world beacons for hosted [ARK: Survival Evovled](https://www.y
     * - [raw link](https://raw.githubusercontent.com/bytePro17124/CustomArkLootDrops/master/Standard/FULL_DEPLOY_CODE)
   * **Scorched Earth Map**: Copy all the code from the file [FULL_DEPLOY_CODE under the Scorched Earth folder](ScorchedEarth/FULL_DEPLOY_CODE)  
     * - [raw link](https://raw.githubusercontent.com/bytePro17124/CustomArkLootDrops/master/ScorchedEarth/FULL_DEPLOY_CODE)  
-2. Paste the copied text into your *game.ini* file, anywhere under the [/script/shootergame.shootergamemode] header. 
+2. Paste the copied text into your *game.ini* file, anywhere under the [/script/shootergame.shootergamemode] header. With ArkServerManager their is paste in code button you can use.
 3. Reboot. The Beacons will be updated the next time your server boots up.  
 
 Note: If the beacons didn't seem to apply, be sure you are copying all of the text, and be sure you are pasting into the correct game.ini file.

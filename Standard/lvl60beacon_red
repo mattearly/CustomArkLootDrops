@@ -863,11 +863,19 @@
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				),
-								(
-					EntryWeight=0.11,
+				(
+					EntryWeight=0.08,
 					ItemClassStrings=("PrimalItemAmmo_TranqDart_C"),
 					ItemsWeights=(1.0),
 					MinQuantity=5.0,MaxQuantity=10.0,
+					MinQuality=1.0,MaxQuality=1.0,
+					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
+				),
+				(
+					EntryWeight=0.03,
+					ItemClassStrings=("PrimalItemAmmo_RefinedTranqDart_C"),
+					ItemsWeights=(1.0),
+					MinQuantity=3.0,MaxQuantity=7.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
 				),
@@ -913,8 +921,8 @@
 				),
 				(
 					EntryWeight=0.05,
-					ItemClassStrings=("PrimalItemAmmo_AdvancedSniperBullet_C","PrimalItemAmmo_AdvancedRifleBullet_C","PrimalItemAmmo_CompoundBowArrow_C","PrimalItemAmmo_TranqDart_C","PrimalItemAmmo_Rocket_C","PrimalItemC4Ammo_C"),
-					ItemsWeights=(0.17,0.17,0.17,0.17,0.16,0.16),
+					ItemClassStrings=("PrimalItemAmmo_AdvancedSniperBullet_C","PrimalItemAmmo_AdvancedRifleBullet_C","PrimalItemAmmo_CompoundBowArrow_C","PrimalItemAmmo_TranqDart_C","PrimalItemAmmo_Rocket_C","PrimalItemC4Ammo_C","PrimalItemAmmo_RefinedTranqDart_C"),
+					ItemsWeights=(0.15,0.15,0.14,0.14,0.14,0.14,0.14),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=true,ChanceToBeBlueprintOverride=0.0

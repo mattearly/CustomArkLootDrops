@@ -31,3 +31,24 @@ Items with Quality Ratings (Weapons, Armor, Saddles) drop individual pieces or p
 
 ### Make your own versions  
 Fork, Edit the code for the beacons. After editing, run the **compile_code** powershell script (most versions of Windows will do this as far as I know) to turn it into Full Deploy Code. To learn more about editing beacons, Google is your best friend. There is a lot of useful information out there. If you look at the broken down, syntaxed code on my Github it will probably begin to make sense.
+
+### TODO  
+BOTH  
+- [ ] Add Archaeopteryx Egg - spawn code: PrimalItemConsumable_Egg_Archa_C
+- [ ] Add Therizinosaurus Egg - spawn code: waiting on wiki to update with spawn code
+- [ ] Add Sweet Vegetable Cake - spawn code: PrimalItemConsumable_SweetVeggieCake_C
+- [ ] Add Bio Toxin - spawn code: waiting on wiki to update with spawn code
+- [ ] Add Megalosaurus Egg - spawn code: PrimalItemConsumable_Egg_Megalosaurus_C
+- [ ] Add Tapejara Egg - spawn code: PrimalItemConsumable_Egg_Tapejara_C
+- [ ] Add Moschops Egg - spawn code: PrimalItemConsumable_Egg_Moschops_C
+- [ ] Add Beer Jar - spawn code: PrimalItemConsumable_BeerJar_C
+  
+  
+STANDARD ONLY  
+- [ ] Add Pachyrhino Egg - spawn code: PrimalItemConsumable_Egg_Pachyrhino_C
+- [ ] Add Kaprosuchus Egg - spawn code: PrimalItemConsumable_Egg_Kaprosuchus_C
+- [ ] Add Troodon Egg - spawn code: PrimalItemConsumable_Egg_Troodon_C
+- [ ] Add Pegomastax Egg - spawn code: PrimalItemConsumable_Egg_Pegomastax_C
+  
+  
+SCORCHED EARTH ONLY  

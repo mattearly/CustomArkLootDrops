@@ -1,6 +1,7 @@
 #  CustomArkLootDrops
 
-_Improved default world beacons for hosted [ARK: Survival Evovled](https://www.youtube.com/survivetheark) servers._  
+_Improved default world beacons for hosted [ARK: Survival Evolved](https://www.youtube.com/survivetheark) servers._  
+* This is designed for PC servers. Sorry XBOX and PS4 players, it's nothing personal, I just only play PC.
 * Designed with **Balance** in mind. I listen to feedback and update this code accordingly. If you noticed unbalanced things let me know.
 * Non-invasive to your server, nothing to install.
 
@@ -16,10 +17,10 @@ _Improved default world beacons for hosted [ARK: Survival Evovled](https://www.y
 Note: If the beacons didn't seem to apply, be sure you are copying all of the text, and be sure you are pasting into the correct game.ini file.
 
 ## The Goal  
-The goal with this drop rework is to improve the Default World Beacon crates in ARK, and focus on balancing for what would really make sense, while aiming to not make them overpowered. This code should improve the usefulness and excitment of hunting for beacons.  The rare promise of truly unexepcted finds will keep players coming back.
+The goal with this drop rework is to improve the Default World Beacon crates in ARK: Survival Evolved, and focus on balancing for what would really make sense, while aiming to not make the drops overpowered. This code should improve the usefulness and excitement  of hunting for beacons.  The rare promise of truly unexpected finds will keep players coming back.
 
 ## How are these new beacons different?  
-They are (way) more filled out. **All** the previously left out items have been added with the exception that any items found in Deep Sea loot crates (except in ScorchedEarth where the sea crates are redone). In general, items are grouped into the beacon close to the Engram Level. Rarity and odds are carefully balanced to make the best or most expensive items more rare, and explosives rare and in low quantities.  
+They are (way) more filled out. **All** the previously left out items have been added with the exception that any items found in Deep Sea loot crates (except in ScorchedEarth where the sea crates are redone). In general, items are grouped into the beacon close to the Engram Level. Rarity and odds are carefully balanced to make the best or most expensive items most rare, and explosives always in low quantities.  
 
 Items with Quality Ratings (Weapons, Armor, Saddles) drop individual pieces or patterns and are scaled up slightly in Double Crates (they have rings on them). Finding extremely high quality pieces is very rare on a server 4 difficulty. This rarity scales up or down along with game server difficulty as normal.
 

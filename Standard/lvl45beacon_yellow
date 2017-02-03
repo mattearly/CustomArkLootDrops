@@ -678,8 +678,8 @@
 			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.02,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
 					EntryWeight=1.0,
-					ItemClassStrings=("PrimalItemConsumable_Egg_Argent_C","PrimalItemConsumable_Egg_Kairuku_C", "PrimalItemConsumable_Egg_Carno_C","PrimalItemConsumable_Egg_Oviraptor_C","PrimalItemConsumable_Egg_TerrorBird_C","PrimalItemConsumable_Egg_Boa_C","PrimalItemResource_Horn_C"),
-					ItemsWeights=(0.16,0.16,0.16,0.16,0.16,0.16,0.04),
+					ItemClassStrings=("PrimalItemConsumable_Egg_Argent_C","PrimalItemConsumable_Egg_Kairuku_C", "PrimalItemConsumable_Egg_Carno_C","PrimalItemConsumable_Egg_Oviraptor_C","PrimalItemConsumable_Egg_TerrorBird_C","PrimalItemConsumable_Egg_Boa_C","PrimalItemConsumable_Egg_Baryonyx_C","PrimalItemResource_Horn_C"),
+					ItemsWeights=(0.14,0.14,0.14,0.14,0.14,0.14,0.14,0.02),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0

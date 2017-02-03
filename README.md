@@ -25,12 +25,13 @@ They are (way) more filled out. **All** the previously left out items have been 
 Items with Quality Ratings (Weapons, Armor, Saddles) drop individual pieces or patterns and are scaled up slightly in Double Crates (they have rings on them). Finding extremely high quality pieces is very rare on a server 4 difficulty. This rarity scales up or down along with game server difficulty as normal.
 
 ## Support  
-*If you've found these useful, please consider donating.*
+*If you've found these useful, please consider donating to keep this project alive.*
 * [PayPal](https://www.paypal.me/mattearly/)  
 * Bitcoin: 1Nwi1GBJtsuo1WQJqK83Ckr5NDJ3zwi5mM  
-
+* Total Donations: $0  
+  
 ### Make your own versions  
-Fork, Edit the code for the beacons. After editing, run the **compile_code** powershell script (most versions of Windows will do this as far as I know) to turn it into Full Deploy Code. To learn more about editing beacons, Google is your best friend. There is a lot of useful information out there. If you look at the broken down, syntaxed code on my Github it will probably begin to make sense.
+Fork or Download then Edit the code for the beacons. After editing, run the **compile_code** powershell script (most versions of Windows will do this as far as I know) to turn it into Full Deploy Code. To learn more about editing beacons, Google is your best friend. There is a lot of useful information out there. If you look at the broken down, syntaxed code on my Github it will probably begin to make sense.
 
 ### TODO  
 BOTH  
@@ -42,13 +43,27 @@ BOTH
 - [ ] Add Tapejara Egg - spawn code: PrimalItemConsumable_Egg_Tapejara_C
 - [ ] Add Moschops Egg - spawn code: PrimalItemConsumable_Egg_Moschops_C
 - [ ] Add Beer Jar - spawn code: PrimalItemConsumable_BeerJar_C
-  
+- [ ] Element Resource system
+- [ ] Tek Replicator
+- [ ] Tek Rifle
+- [ ] Tek Helmet
+- [ ] Tek Visor
+- [ ] Tek Jetpack
+- [ ] Tek Boots
+- [ ] Tek Gloves
+- [ ] Tek Rex Saddle
+- [ ] Tek Transmitter
+- [ ] and more.
+- [ ] New Dino: Ovis Aries!
+- [ ] New Dino: Purlovia!
+- [ ] Scissors
   
 STANDARD ONLY  
 - [ ] Add Pachyrhino Egg - spawn code: PrimalItemConsumable_Egg_Pachyrhino_C
 - [ ] Add Kaprosuchus Egg - spawn code: PrimalItemConsumable_Egg_Kaprosuchus_C
 - [ ] Add Troodon Egg - spawn code: PrimalItemConsumable_Egg_Troodon_C
 - [ ] Add Pegomastax Egg - spawn code: PrimalItemConsumable_Egg_Pegomastax_C
+
   
   
 SCORCHED EARTH ONLY  

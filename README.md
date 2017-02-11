@@ -9,7 +9,7 @@ The goal with this drop rework is to improve the Default World Beacon crates in 
 
 ## How are these new beacons different?  
 * They are much more filled out. Nearly all the previously left out items have been added in. There are some exceptions, such as the Standard Deep Sea loot crate items are left out in Standard. The Scorched Earth version has been further reworked to update the crates based on scorched earth unique items and dinos and the Deep _Sand_ crates have been reworked to remove unusable items.
-* In general, new items are grouped to a beacon color near its Engram Level.  
+* In general, new items are grouped to a beacon color near the item's Engram Level.  
 * Rarity and odds are carefully balanced to make the best or most expensive items most rare, and explosives always in low quantities.  
 * Items with Quality Ratings (Weapons, Armor, Saddles) drop individual pieces or patterns and are scaled up slightly in Double Crates (they have rings on them). Finding extremely high quality pieces is very rare on a server 4 difficulty. This rarity scales up or down along with game server difficulty as normal.
   

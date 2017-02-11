@@ -1,7 +1,7 @@
 ; Yellow Beacon
 	ItemSets=(
 		; BLUEDROPS
-		( 
+		(
 			; Adobe Parts 2/3 BPs
 			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.03,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
@@ -14,7 +14,7 @@
 				)
 			)
 		),
-		( 
+		(
 			; Stone Shack
 			MinNumItems=5,MaxNumItems=5,NumItemsPower=1.0,SetWeight=0.005,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
@@ -59,7 +59,7 @@
 				)
 			)
 		),
-		( 
+		(
 			; Advanced Stone Shack
 			MinNumItems=6,MaxNumItems=6,NumItemsPower=1.0,SetWeight=0.0025,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
@@ -112,7 +112,7 @@
 				)
 			)
 		),
-		(	
+		(
 			; Chitin Armor
 			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.1,SetWeight=0.03,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
@@ -141,7 +141,7 @@
 				)
 			)
 		),
-		(	
+		(
 			; Weapons
 			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.1,SetWeight=0.03,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
@@ -170,7 +170,7 @@
 				)
 			)
 		),
-		(	
+		(
 			; POTION
 			MinNumItems=1,MaxNumItems=3,NumItemsPower=1.0,SetWeight=0.03,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
@@ -247,7 +247,7 @@
 				)
 			)
 		),
-		( 
+		(
 			; Resources
 			MinNumItems=2,MaxNumItems=3,NumItemsPower=1.0,SetWeight=0.035,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
@@ -308,7 +308,7 @@
 				)
 			)
 		),
-		( 
+		(
 			; Trinkets, Pipes, and Buildings
 			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.0375,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
@@ -337,7 +337,7 @@
 				),
 				(
 					EntryWeight=0.13,
-					ItemClassStrings=("PrimalItemStructure_MetalPipeIntake_C","PrimalItemStructure_MetalPipeIntersection_C","PrimalItemStructure_MetalPipeIncline_C","PrimalItemStructure_MetalPipeIntersection_C","PrimalItemStructure_MetalPipeVertical_C","PrimalItemStructure_MetalPipeTap_C"),
+					ItemClassStrings=("PrimalItemStructure_MetalPipeIntake_C","PrimalItemStructure_MetalPipeStraight_C","PrimalItemStructure_MetalPipeIncline_C","PrimalItemStructure_MetalPipeIntersection_C","PrimalItemStructure_MetalPipeVertical_C","PrimalItemStructure_MetalPipeTap_C"),
 					ItemsWeights=(0.17,0.17,0.17,0.17,0.16,0.16),
 					MinQuantity=5.0,MaxQuantity=8.0,
 					MinQuality=1.0,MaxQuality=1.0,
@@ -345,7 +345,7 @@
 				),
 				(
 					EntryWeight=0.09,
-					ItemClassStrings=("PrimalItemStructure_MetalPipeIntake_C","PrimalItemStructure_MetalPipeIntersection_C","PrimalItemStructure_MetalPipeIncline_C","PrimalItemStructure_MetalPipeIntersection_C","PrimalItemStructure_MetalPipeVertical_C","PrimalItemStructure_MetalPipeTap_C"),
+					ItemClassStrings=("PrimalItemStructure_MetalPipeIntake_C","PrimalItemStructure_MetalPipeStraight_C","PrimalItemStructure_MetalPipeIncline_C","PrimalItemStructure_MetalPipeIntersection_C","PrimalItemStructure_MetalPipeVertical_C","PrimalItemStructure_MetalPipeTap_C"),
 					ItemsWeights=(0.16,0.17,0.16,0.16,0.16,0.16),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.0,MaxQuality=1.0,
@@ -353,7 +353,7 @@
 				)
 			)
 		),
-		( 
+		(
 			; Saddle
 			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.1,SetWeight=0.035,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
@@ -392,7 +392,7 @@
 		),
 		; END BLUE DROPS
 		; PURPLE DROPS
-		(	
+		(
 			; Weapons
 			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.05,SetWeight=0.05,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
@@ -421,7 +421,7 @@
 				)
 			)
 		),
-		( 
+		(
 			; AMMO
 			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.055,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
@@ -498,8 +498,8 @@
 				)
 			)
 		),
-		( 
-			; Trinkets and Odds blueprints 
+		(
+			; Trinkets and Odds blueprints
 			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.11,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
 					EntryWeight=0.22,
@@ -543,7 +543,7 @@
 				)
 			)
 		),
-		( 
+		(
 			; Saddles
 			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.05,SetWeight=0.05,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
@@ -581,7 +581,7 @@
 			)
 		),
 		; END PURPLE DROPS
-		(	
+		(
 			; Weapons
 			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.05,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
@@ -610,7 +610,7 @@
 				)
 			)
 		),
-		(	
+		(
 			; FLAK Armor
 			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.10,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
@@ -639,7 +639,7 @@
 				)
 			)
 		),
-		( 
+		(
 			; Ammo
 			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.08,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
@@ -685,7 +685,7 @@
 				(
 					EntryWeight=0.15,
 					ItemClassStrings=("PrimalItemAmmo_AdvancedBullet_C","PrimalItemAmmo_GrapplingHook_C","PrimalItem_WeaponTripwireC4_C","PrimalItemAmmo_Flamethrower_C","PrimalItemC4Ammo_C"),
-					ItemsWeights=(0.80,0.06,0.06,0.06,0.02), 
+					ItemsWeights=(0.80,0.06,0.06,0.06,0.02),
 					MinQuantity=22.0,MaxQuantity=42.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.0
@@ -700,7 +700,7 @@
 				)
 			)
 		),
-		( 
+		(
 			; EGGS
 			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.02,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
@@ -713,8 +713,8 @@
 				)
 			)
 		),
-		( 
-			; Trinkets and Odds blueprints 
+		(
+			; Trinkets and Odds blueprints
 			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.17,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
 					EntryWeight=0.30,
@@ -767,7 +767,7 @@
 
 			)
 		),
-		( 
+		(
 			; Saddles
 			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.08,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(

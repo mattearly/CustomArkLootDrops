@@ -1,6 +1,6 @@
 ; Blue Beacon
 	ItemSets=(
-		( 
+		(
 			; Stone Shack
 			MinNumItems=5,MaxNumItems=5,NumItemsPower=1.0,SetWeight=0.05,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
@@ -45,7 +45,7 @@
 				)
 			)
 		),
-		( 
+		(
 			; Advanced Stone Shack
 			MinNumItems=6,MaxNumItems=6,NumItemsPower=1.0,SetWeight=0.03,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
@@ -98,7 +98,7 @@
 				)
 			)
 		),
-		(	
+		(
 			; Chitin Armor
 			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.12,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
@@ -127,7 +127,7 @@
 				)
 			)
 		),
-		(	
+		(
 			; Weapons
 			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.12,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
@@ -156,7 +156,7 @@
 				)
 			)
 		),
-		(	
+		(
 			; POTION
 			MinNumItems=1,MaxNumItems=3,NumItemsPower=1.0,SetWeight=0.14,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
@@ -233,7 +233,7 @@
 				)
 			)
 		),
-		( 
+		(
 			; Resources
 			MinNumItems=2,MaxNumItems=3,NumItemsPower=1.0,SetWeight=0.18,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
@@ -307,7 +307,7 @@
 				)
 			)
 		),
-		( 
+		(
 			; Trinkets, Pipes, and Buildings
 			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.19,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
@@ -336,7 +336,7 @@
 				),
 				(
 					EntryWeight=0.13,
-					ItemClassStrings=("PrimalItemStructure_MetalPipeIntake_C","PrimalItemStructure_MetalPipeIntersection_C","PrimalItemStructure_MetalPipeIncline_C","PrimalItemStructure_MetalPipeIntersection_C","PrimalItemStructure_MetalPipeVertical_C","PrimalItemStructure_MetalPipeTap_C"),
+					ItemClassStrings=("PrimalItemStructure_MetalPipeIntake_C","PrimalItemStructure_MetalPipeStraight_C","PrimalItemStructure_MetalPipeIncline_C","PrimalItemStructure_MetalPipeIntersection_C","PrimalItemStructure_MetalPipeVertical_C","PrimalItemStructure_MetalPipeTap_C"),
 					ItemsWeights=(0.17,0.17,0.17,0.17,0.16,0.16),
 					MinQuantity=5.0,MaxQuantity=8.0,
 					MinQuality=1.0,MaxQuality=1.0,
@@ -344,7 +344,7 @@
 				),
 				(
 					EntryWeight=0.09,
-					ItemClassStrings=("PrimalItemStructure_MetalPipeIntake_C","PrimalItemStructure_MetalPipeIntersection_C","PrimalItemStructure_MetalPipeIncline_C","PrimalItemStructure_MetalPipeIntersection_C","PrimalItemStructure_MetalPipeVertical_C","PrimalItemStructure_MetalPipeTap_C"),
+					ItemClassStrings=("PrimalItemStructure_MetalPipeIntake_C","PrimalItemStructure_MetalPipeStraight_C","PrimalItemStructure_MetalPipeIncline_C","PrimalItemStructure_MetalPipeIntersection_C","PrimalItemStructure_MetalPipeVertical_C","PrimalItemStructure_MetalPipeTap_C"),
 					ItemsWeights=(0.16,0.17,0.16,0.16,0.16,0.16),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.0,MaxQuality=1.0,
@@ -352,7 +352,7 @@
 				)
 			)
 		),
-		( 
+		(
 			; Saddle
 			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.12,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(

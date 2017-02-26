@@ -23,6 +23,15 @@ Fork or Download then Edit the code for the beacons. After editing, run the **co
 * Total Donations: $0  
   
 ### TODO  
+Analyze new patch 255  
+* New Dino: Electrophorus!
+* New Dino: Microraptor!
+* New Dino: Ammonite!
+* New Dino: Thylacoleo!
+* New Structure: Tek Forcefield
+* New Structures: Tek Tileset & Tek Doors
+* Rocket Launcher & C4 rebalance: C4 now does approximately 70% more damage to Structures than Rockets. Rocket Launcher can no longer have Item Stats (though its base Damage has been increased 20% to compensate). Rocket Turrets now take a slight amount of damage when they fire, and can not fire under 5% HP.
+
 BOTH  
 - [ ] Add Archaeopteryx Egg - spawn code: PrimalItemConsumable_Egg_Archa_C
 - [ ] Add Therizinosaurus Egg - spawn code: waiting on wiki to update with spawn code
@@ -42,7 +51,6 @@ BOTH
 - [ ] Tek Gloves
 - [ ] Tek Rex Saddle
 - [ ] Tek Transmitter
-- [ ] and more.
 - [ ] New Dino: Ovis Aries!
 - [ ] New Dino: Purlovia!
 - [ ] Scissors - white

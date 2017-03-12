@@ -29,14 +29,14 @@ ToDo
 ----
 
 1. Analyze new patch 255  
-  * New Dino: Electrophorus!
-  * New Dino: Microraptor!
-  * New Dino: Ammonite!
-  * New Dino: Thylacoleo!
-  * New Structure: Tek Forcefield
-  * New Structures: Tek Tileset & Tek Doors
-  * Rocket Launcher & C4 rebalance: C4 now does approximately 70% more damage to Structures than Rockets. Rocket Launcher can no longer have Item Stats (though its base Damage has been increased 20% to compensate). Rocket Turrets now take a slight amount of damage when they fire, and can not fire under 5% HP.
-2. Change pillbox drops to logout/spawn point drops (add 1 bed)  
+  * New Dino: Electrophorus! - nothing to do
+  * New Dino: Microraptor!  - add egg
+  * New Dino: Ammonite! - nothing to do
+  * New Dino: Thylacoleo! - add saddle
+  * New Structure: Tek Forcefield - Tek building set wont be in sky crates for now check back later
+  * New Structures: Tek Tileset & Tek Doors - Tek building set wont be in sky crates for now check back later
+  * Rocket Launcher & C4 rebalance: C4 now does approximately 70% more damage to Structures than Rockets. Rocket Launcher can no longer have Item Stats (though its base Damage has been increased 20% to compensate). Rocket Turrets now take a slight amount of damage when they fire, and can not fire under 5% HP.  - leaving the code as it is, rocket launchers still drop in red but are no longer effected by durability
+2. Change pillbox drops to logout/spawn point drops (add 1 bed)  - added to stone pillboxes
 3. Version Specific
 	1. Both Standard and Scorched Earth
 		- [ ] Add Archaeopteryx Egg - spawn code: PrimalItemConsumable_Egg_Archa_C
@@ -60,11 +60,14 @@ ToDo
 		- [ ] Add New Dino Items: Ovis Aries!
 		- [ ] Add New Dino Items: Purlovia!
 		- [ ] Add Scissors - blue
+		- [ ] Add lvl 50 Thylacoleo Saddle - PrimalItemArmor_ThylacoSaddle_C
 	2. Standard Only
 		- [ ] Add Pachyrhino Egg - spawn code: PrimalItemConsumable_Egg_Pachyrhino_C
 		- [ ] Add Kaprosuchus Egg - spawn code: PrimalItemConsumable_Egg_Kaprosuchus_C
 		- [ ] Add Troodon Egg - spawn code: PrimalItemConsumable_Egg_Troodon_C
 		- [ ] Add Pegomastax Egg - spawn code: PrimalItemConsumable_Egg_Pegomastax_C
+		- [ ] Add Microraptor Egg - PrimalItemConsumable_Egg_Microraptor_C
+		- [ ] Add lvl 95 Pheromone Dart - PrimalItemAmmo_AggroTranqDart_C
 
 
 

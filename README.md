@@ -23,6 +23,7 @@ Fork or Download then Edit the code for the beacons. After editing, run the **co
 * Total Donations: $0  
   
 ### TODO  
+
 Analyze new patch 255  
 * New Dino: Electrophorus!
 * New Dino: Microraptor!
@@ -31,6 +32,10 @@ Analyze new patch 255
 * New Structure: Tek Forcefield
 * New Structures: Tek Tileset & Tek Doors
 * Rocket Launcher & C4 rebalance: C4 now does approximately 70% more damage to Structures than Rockets. Rocket Launcher can no longer have Item Stats (though its base Damage has been increased 20% to compensate). Rocket Turrets now take a slight amount of damage when they fire, and can not fire under 5% HP.
+
+Change pillbox drops to logout/spawn point drops (add 1 bed)  
+Remove quality from rocket launchers as it no longer applies.
+
 
 BOTH  
 - [ ] Add Archaeopteryx Egg - spawn code: PrimalItemConsumable_Egg_Archa_C

@@ -321,8 +321,8 @@
 			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=0.06,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
 					EntryWeight=0.28,
-					ItemClassStrings=("PrimalItemConsumable_WaterJarCraftable_C","PrimalItem_WeaponCompass_C","PrimalItemStructure_CropPlot_Medium_C","PrimalItem_WeaponMagnifyingGlass_C","PrimalItem_WeaponHandcuffs_C","PrimalItemStructure_Mirror_C","PrimalItemStructure_PreservingBin_C"),
-					ItemsWeights=(0.15,0.15,0.14,0.14,0.14,0.14,0.14),
+					ItemClassStrings=("PrimalItemConsumable_WaterJarCraftable_C","PrimalItem_WeaponCompass_C","PrimalItemStructure_CropPlot_Medium_C","PrimalItem_WeaponMagnifyingGlass_C","PrimalItem_WeaponHandcuffs_C","PrimalItemStructure_Mirror_C","PrimalItemStructure_PreservingBin_C","PrimalItem_WeaponScissors_C"),
+					ItemsWeights=(0.12,0.12,0.12,0.13,0.13,0.13,0.13,0.12),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.0,MaxQuality=1.0,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.80
@@ -366,24 +366,24 @@
 			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.05,SetWeight=0.05,bItemsRandomWithoutReplacement=true,ItemEntries=(
 				(
 					EntryWeight=0.80,
-					ItemClassStrings=("PrimalItemArmor_ScorpionSaddle_C","PrimalItemArmor_Gallimimus_C","PrimalItemArmor_TerrorBirdSaddle_C","PrimalItemArmor_DoedSaddle_C","PrimalItemArmor_Paracer_Saddle_C"),
-					ItemsWeights=(0.2,0.2,0.2,0.2,0.2),
+					ItemClassStrings=("PrimalItemArmor_ScorpionSaddle_C","PrimalItemArmor_Gallimimus_C","PrimalItemArmor_TerrorBirdSaddle_C","PrimalItemArmor_DoedSaddle_C","PrimalItemArmor_ParaSaddle_C","PrimalItemArmor_EquusSaddle_C"),
+					ItemsWeights=(0.17,0.17,0.17,0.17,0.16,0.16),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.0,MaxQuality=1.3,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.45
 				),
 				(
 					EntryWeight=0.14,
-					ItemClassStrings=("PrimalItemArmor_ScorpionSaddle_C","PrimalItemArmor_Gallimimus_C","PrimalItemArmor_TerrorBirdSaddle_C","PrimalItemArmor_DoedSaddle_C","PrimalItemArmor_Paracer_Saddle_C"),
-					ItemsWeights=(0.2,0.2,0.2,0.2,0.2),
+					ItemClassStrings=("PrimalItemArmor_ScorpionSaddle_C","PrimalItemArmor_Gallimimus_C","PrimalItemArmor_TerrorBirdSaddle_C","PrimalItemArmor_DoedSaddle_C","PrimalItemArmor_ParaSaddle_C","PrimalItemArmor_EquusSaddle_C"),
+					ItemsWeights=(0.17,0.17,0.17,0.17,0.16,0.16),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.8,MaxQuality=1.8,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.55
 				),
 				(
 					EntryWeight=0.02,
-					ItemClassStrings=("PrimalItemArmor_ScorpionSaddle_C","PrimalItemArmor_Gallimimus_C","PrimalItemArmor_TerrorBirdSaddle_C","PrimalItemArmor_DoedSaddle_C","PrimalItemArmor_Paracer_Saddle_C"),
-					ItemsWeights=(0.2,0.2,0.2,0.2,0.2),
+					ItemClassStrings=("PrimalItemArmor_ScorpionSaddle_C","PrimalItemArmor_Gallimimus_C","PrimalItemArmor_TerrorBirdSaddle_C","PrimalItemArmor_DoedSaddle_C","PrimalItemArmor_ParaSaddle_C","PrimalItemArmor_EquusSaddle_C"),
+					ItemsWeights=(0.17,0.17,0.17,0.17,0.16,0.16),
 					MinQuantity=1.0,MaxQuantity=1.0,
 					MinQuality=1.8,MaxQuality=2.6,
 					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.65

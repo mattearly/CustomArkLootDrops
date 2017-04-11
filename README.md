@@ -4,10 +4,10 @@
 _Improved and re-balanced default world beacons for hosted [ARK: Survival Evolved](https://www.youtube.com/survivetheark) servers._  
 
 * This code is designed for PC servers. Sorry XBOX and PS4 players, it's nothing personal, I just only play PC.
-* Designed with _Balance_ in mind. I consider feedback when updating this code. If you noticed unbalanced things let me know.
+* Designed with _Balance_ in mind. I consider feedback when updating this code. If you noticed unbalanced things let your opinion be known.
 
 ## The Goal  
-The goal with this drop rework is to improve the World Sky Beacons crates in ARK: Survival Evolved and focus on balancing for what would really make sense while making sure they are not too overpowered. The Sky Beacons should be more exciting to hunt for and unexpected finds will keep players coming back.
+The goal with this drop rework is to improve the World Sky Beacons crates in ARK: Survival Evolved and focus on balancing for what would really make sense while making sure they are not too overpowered. 
 
 ### How are these new beacons different?  
 * The Sky Beacons here are updated and balanced with every patch and include a much more filled out table of items. Nearly every standard item is in them, the odds chart is rather large and I didn't find the time to update it into a user friendly viewing format, but you'll notice they much more varying, and even surprising sometimes. 
@@ -28,32 +28,29 @@ Support
 ToDo  
 ----
 
-* both versions
-- [ ] Add Equus saddle
-- [ ] Add Iguanodon saddle  PrimalItemArmor_IguanodonSaddle_C
-- [ ] Add Archaeopteryx Egg - spawn code: PrimalItemConsumable_Egg_Archa_C
-- [ ] Add Therizinosaurus Egg - spawn code: waiting on wiki to update with spawn code
-- [ ] Add Sweet Vegetable Cake - spawn code: PrimalItemConsumable_SweetVeggieCake_C
-- [ ] Add Bio Toxin - spawn code: waiting on wiki to update with spawn code
-- [ ] Add Megalosaurus Egg - spawn code: PrimalItemConsumable_Egg_Megalosaurus_C
-- [ ] Add Tapejara Egg - spawn code: PrimalItemConsumable_Egg_Tapejara_C
-- [ ] Add Moschops Egg - spawn code: PrimalItemConsumable_Egg_Moschops_C 
-- [ ] Add Beer Jar - spawn code: PrimalItemConsumable_BeerJar_C
-- [x] Add Element Resource system - raw elements added in red chart
-- [ ] Add New Dino Items: Ovis Aries!
-- [ ] Add New Dino Items: Purlovia!
-- [ ] Add Scissors - blue
-- [ ] Add lvl 50 Thylacoleo Saddle - PrimalItemArmor_ThylacoSaddle_C
-
-* standard only
-- [ ] Add Pachyrhino Egg - spawn code: PrimalItemConsumable_Egg_Pachyrhino_C
-- [ ] Add Kaprosuchus Egg - spawn code: PrimalItemConsumable_Egg_Kaprosuchus_C
-- [ ] Add Troodon Egg - spawn code: PrimalItemConsumable_Egg_Troodon_C
-- [ ] Add Pegomastax Egg - spawn code: PrimalItemConsumable_Egg_Pegomastax_C
-- [ ] Add Microraptor Egg - PrimalItemConsumable_Egg_Microraptor_C
-- [ ] Add lvl 95 Pheromone Dart - PrimalItemAmmo_AggroTranqDart_C
+* both versions  
+	- [x] Add Equus saddle	
+	- [x] Add Iguanodon saddle  PrimalItemArmor_IguanodonSaddle_C
+	- [ ] Add Archaeopteryx Egg - spawn code: PrimalItemConsumable_Egg_Archa_C
+	- [ ] Add Therizinosaurus Egg - spawn code: waiting on wiki to update with spawn code
+	- [ ] Add Sweet Vegetable Cake - spawn code: PrimalItemConsumable_SweetVeggieCake_C
+	- [ ] Add Bio Toxin - spawn code: waiting on wiki to update with spawn code
+	- [ ] Add Megalosaurus Egg - spawn code: PrimalItemConsumable_Egg_Megalosaurus_C
+	- [ ] Add Tapejara Egg - spawn code: PrimalItemConsumable_Egg_Tapejara_C
+	- [ ] Add Moschops Egg - spawn code: PrimalItemConsumable_Egg_Moschops_C 
+	- [ ] Add Beer Jar - spawn code: PrimalItemConsumable_BeerJar_C
+	- [x] Add Element Resource system - raw elements added in red chart
+	- [x] Add Scissors - blue
+	- [x] Add lvl 50 Thylacoleo Saddle - PrimalItemArmor_ThylacoSaddle_C
 
 
+* standard only  
+	- [ ] Add Pachyrhino Egg - spawn code: PrimalItemConsumable_Egg_Pachyrhino_C
+	- [ ] Add Kaprosuchus Egg - spawn code: PrimalItemConsumable_Egg_Kaprosuchus_C
+	- [ ] Add Troodon Egg - spawn code: PrimalItemConsumable_Egg_Troodon_C
+	- [ ] Add Pegomastax Egg - spawn code: PrimalItemConsumable_Egg_Pegomastax_C
+	- [ ] Add Microraptor Egg - PrimalItemConsumable_Egg_Microraptor_C
+	- [ ] Add lvl 95 Pheromone Dart - PrimalItemAmmo_AggroTranqDart_C
 
 
 You are welcome to Edit the code and even make your own versions

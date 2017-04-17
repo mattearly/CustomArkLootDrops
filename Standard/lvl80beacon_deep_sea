@@ -1,0 +1,34 @@
+; Deep See Crates
+	ItemSets=(
+		; All Relevant Items
+		(
+			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.0,SetWeight=1.0,bItemsRandomWithoutReplacement=true,ItemEntries=(
+				(
+					EntryWeight=0.45,
+					ItemClassStrings=("PrimalItemArmor_RiotPants_C","PrimalItemArmor_RiotShirt_C","PrimalItemArmor_RiotGloves_C","PrimalItemArmor_RiotBoots_C","PrimalItemArmor_RiotHelmet_C","PrimalItemArmor_TransparentRiotShield_C","PrimalItemArmor_ScubaBoots_Flippers_C","PrimalItemArmor_ScubaPants_C","PrimalItemArmor_ScubaHelmet_Goggles_C","PrimalItemArmor_ScubaShirt_SuitWithTank_C","PrimalItemArmor_GhillieHelmet_C","PrimalItemArmor_GhillieShirt_C","PrimalItemArmor_GhillieGloves_C","PrimalItemArmor_GhilliePants_C","PrimalItemArmor_GhillieBoots_C","PrimalItemArmor_MetalShield_C","PrimalItemArmor_WoodShield_C","PrimalItem_WeaponProd_C","PrimalItem_WeaponMachinedSniper_C","PrimalItem_WeaponMachinedShotgun_C","PrimalItem_WeaponCompoundBow_C","PrimalItem_WeaponSword_C","PrimalItem_WeaponStoneClub_C","PrimalItem_WeaponElectricProd_C","PrimalItem_WeaponCrossbow_C","PrimalItem_WeaponSickle_C","PrimalItemArmor_ParacerSaddle_Platform_C","PrimalItemArmor_GigantSaddle_C","PrimalItemArmor_QuetzSaddle_C"),
+					ItemsWeights=(0.0345,0.0345,0.0345,0.0345,0.0345,0.0345,0.0345,0.0345,0.0345,0.0345,0.0345,0.0345,0.0345,0.0345,0.0345,0.0345,0.0345,0.0345,0.0345,0.0345,0.0345,0.0345,0.0345,0.0344,0.0344,0.0344,0.0344,0.0344,0.0344),
+					MinQuantity=1.0,MaxQuantity=1.0,
+					MinQuality=1.0,MaxQuality=1.3,
+					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.45
+				),
+				(
+					EntryWeight=0.30,
+					ItemClassStrings=("PrimalItemArmor_RiotPants_C","PrimalItemArmor_RiotShirt_C","PrimalItemArmor_RiotGloves_C","PrimalItemArmor_RiotBoots_C","PrimalItemArmor_RiotHelmet_C","PrimalItemArmor_TransparentRiotShield_C","PrimalItemArmor_ScubaBoots_Flippers_C","PrimalItemArmor_ScubaPants_C","PrimalItemArmor_ScubaHelmet_Goggles_C","PrimalItemArmor_ScubaShirt_SuitWithTank_C","PrimalItemArmor_GhillieHelmet_C","PrimalItemArmor_GhillieShirt_C","PrimalItemArmor_GhillieGloves_C","PrimalItemArmor_GhilliePants_C","PrimalItemArmor_GhillieBoots_C","PrimalItemArmor_MetalShield_C","PrimalItemArmor_WoodShield_C","PrimalItem_WeaponProd_C","PrimalItem_WeaponMachinedSniper_C","PrimalItem_WeaponMachinedShotgun_C","PrimalItem_WeaponCompoundBow_C","PrimalItem_WeaponSword_C","PrimalItem_WeaponStoneClub_C","PrimalItem_WeaponElectricProd_C","PrimalItem_WeaponCrossbow_C","PrimalItem_WeaponSickle_C","PrimalItemArmor_ParacerSaddle_Platform_C","PrimalItemArmor_GigantSaddle_C","PrimalItemArmor_QuetzSaddle_C"),
+					ItemsWeights=(0.0345,0.0345,0.0345,0.0345,0.0345,0.0345,0.0345,0.0345,0.0345,0.0345,0.0345,0.0345,0.0345,0.0345,0.0345,0.0345,0.0345,0.0345,0.0345,0.0345,0.0345,0.0345,0.0345,0.0344,0.0344,0.0344,0.0344,0.0344,0.0344),
+
+					MinQuantity=1.0,MaxQuantity=1.0,
+					MinQuality=1.4,MaxQuality=1.7,
+					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.55
+				),
+				(
+					EntryWeight=0.25,
+					ItemClassStrings=("PrimalItemArmor_RiotPants_C","PrimalItemArmor_RiotShirt_C","PrimalItemArmor_RiotGloves_C","PrimalItemArmor_RiotBoots_C","PrimalItemArmor_RiotHelmet_C","PrimalItemArmor_TransparentRiotShield_C","PrimalItemArmor_ScubaBoots_Flippers_C","PrimalItemArmor_ScubaPants_C","PrimalItemArmor_ScubaHelmet_Goggles_C","PrimalItemArmor_ScubaShirt_SuitWithTank_C","PrimalItemArmor_GhillieHelmet_C","PrimalItemArmor_GhillieShirt_C","PrimalItemArmor_GhillieGloves_C","PrimalItemArmor_GhilliePants_C","PrimalItemArmor_GhillieBoots_C","PrimalItemArmor_MetalShield_C","PrimalItemArmor_WoodShield_C","PrimalItem_WeaponProd_C","PrimalItem_WeaponMachinedSniper_C","PrimalItem_WeaponMachinedShotgun_C","PrimalItem_WeaponCompoundBow_C","PrimalItem_WeaponSword_C","PrimalItem_WeaponStoneClub_C","PrimalItem_WeaponElectricProd_C","PrimalItem_WeaponCrossbow_C","PrimalItem_WeaponSickle_C","PrimalItemArmor_ParacerSaddle_Platform_C","PrimalItemArmor_GigantSaddle_C","PrimalItemArmor_QuetzSaddle_C"),
+					ItemsWeights=(0.0345,0.0345,0.0345,0.0345,0.0345,0.0345,0.0345,0.0345,0.0345,0.0345,0.0345,0.0345,0.0345,0.0345,0.0345,0.0345,0.0345,0.0345,0.0345,0.0345,0.0345,0.0345,0.0345,0.0344,0.0344,0.0344,0.0344,0.0344,0.0344),
+
+					MinQuantity=1.0,MaxQuantity=1.0,
+					MinQuality=1.9,MaxQuality=2.6,
+					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.65
+				)
+			)
+		)
+	)

@@ -1,0 +1,32 @@
+; Deep See Crates
+	ItemSets=(
+		(
+			; SCUBA Armor
+			MinNumItems=1,MaxNumItems=1,NumItemsPower=1.05,SetWeight=0.05,bItemsRandomWithoutReplacement=true,ItemEntries=(
+				(
+					EntryWeight=0.84,
+					ItemClassStrings=("PrimalItemArmor_ScubaBoots_Flippers_C","PrimalItemArmor_ScubaPants_C","PrimalItemArmor_ScubaHelmet_Goggles_C","PrimalItemArmor_ScubaShirt_SuitWithTank_C"),
+					ItemsWeights=(0.2,0.2,0.2,0.2),
+					MinQuantity=1.0,MaxQuantity=1.0,
+					MinQuality=1.0,MaxQuality=1.3,
+					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.45
+				),
+				(
+					EntryWeight=0.14,
+					ItemClassStrings=("PrimalItemArmor_ScubaBoots_Flippers_C","PrimalItemArmor_ScubaPants_C","PrimalItemArmor_ScubaHelmet_Goggles_C","PrimalItemArmor_ScubaShirt_SuitWithTank_C"),
+					ItemsWeights=(0.2,0.2,0.2,0.2),
+					MinQuantity=1.0,MaxQuantity=1.0,
+					MinQuality=1.4,MaxQuality=1.7,
+					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.55
+				),
+				(
+					EntryWeight=0.02,
+					ItemClassStrings=("PrimalItemArmor_ScubaBoots_Flippers_C","PrimalItemArmor_ScubaPants_C","PrimalItemArmor_ScubaHelmet_Goggles_C","PrimalItemArmor_ScubaShirt_SuitWithTank_C"),
+					ItemsWeights=(0.2,0.2,0.2,0.2),
+					MinQuantity=1.0,MaxQuantity=1.0,
+					MinQuality=1.8,MaxQuality=2.6,
+					bForceBlueprint=false,ChanceToBeBlueprintOverride=0.65
+				)
+			)
+		)
+	)

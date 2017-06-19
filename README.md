@@ -28,6 +28,26 @@ Support
 ToDo  
 ----
 
+* v257
+	- [ ] New Dino: Giant Bee
+	- [ ] New Dino: Daeodon
+	- [ ] New Dino: Liopleurodon
+	- [ ] New Dino: Kentrosaurus
+	- [ ] New Structure: Tek Cloning Chamber
+	- [ ] New Structure: Tek Megalodon Saddle
+	- [ ] New Structure: Tek Turret
+	- [ ] New Weapon: Tek Grenade
+
+* v258
+	- [ ] New Weapon: Harpoon Gun (& Tranq Bolts for the Harpoon Gun)
+	- [ ] New Dino: Hyaenodon
+	- [ ] New Dino: Hesperonis
+	- [ ] New Dino: Megatherium
+	- [ ] New Dino: Megalania
+	- [ ] New Dino: Yutyrannus
+	- [ ] New Vehicle: Gas-powered speedy Motorboat
+	- [ ] New Structure: Interactive Toilet
+
 * both versions  
 	- [x] Add Equus saddle	
 	- [x] Add Iguanodon saddle  PrimalItemArmor_IguanodonSaddle_C

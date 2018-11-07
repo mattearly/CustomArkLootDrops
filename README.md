@@ -17,14 +17,6 @@ The goal with this drop rework is to improve the World Sky Beacons crates in ARK
 * Explosives are in small quantities except in one super rare case.  
 * Items with Quality Ratings (Weapons, Armor, Saddles) drop individual pieces or patterns and are scaled up slightly in Double Crates (they have rings on them). Finding extremely high quality pieces is very rare on a server 4 difficulty. This rarity scales up or down along with game server difficulty as normal.
 
-Support  
-----
-*If you've found this code useful, please consider donating for my hours or helping with the updates to help keep this project alive. It's more than just a quick re-code, its a re-balance as well. Hours of my life do go into it and its been a fun ride so far, but I won't always have time as I have to make ends meet.*
-
-* [PayPal](https://www.paypal.me/mattearly/)  
-* Bitcoin: 1Nwi1GBJtsuo1WQJqK83Ckr5NDJ3zwi5mM  
-
-
 ToDo  
 ----
 

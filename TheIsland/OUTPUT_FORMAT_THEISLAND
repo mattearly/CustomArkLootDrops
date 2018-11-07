@@ -10,3 +10,4 @@ ConfigOverrideSupplyCrateItems=(SupplyCrateClassString="SupplyCrate_Level45_C",M
 ConfigOverrideSupplyCrateItems=(SupplyCrateClassString="SupplyCrate_Level45_Double_C",MinItemSets=2,MaxItemSets=3,NumItemSetsPower=1.4,bSetsRandomWithoutReplacement=true,%lvl45beacon_yellow%)
 ConfigOverrideSupplyCrateItems=(SupplyCrateClassString="SupplyCrate_Level60_C",MinItemSets=1,MaxItemSets=2,NumItemSetsPower=1.0,bSetsRandomWithoutReplacement=true,%lvl60beacon_red%)
 ConfigOverrideSupplyCrateItems=(SupplyCrateClassString="SupplyCrate_Level60_Double_C",MinItemSets=2,MaxItemSets=3,NumItemSetsPower=1.4,bSetsRandomWithoutReplacement=true,%lvl60beacon_red%)
+ConfigOverrideSupplyCrateItems=(SupplyCrateClassString="SupplyCrate_OceanInstant_C",MinItemSets=1,MaxItemSets=1,NumItemSetsPower=2.4,bSetsRandomWithoutReplacement=true,%lvl80beacon_deep_sea%)
